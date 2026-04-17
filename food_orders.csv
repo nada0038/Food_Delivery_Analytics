@@ -1,0 +1,2001 @@
+Order_ID,City,Order_Date,Time_Ordered,Delivery_Time_Minutes,Delivery_Person_Age,Order_Value,review_text
+,Seattle,2023-10-30,14:26:00,29,25,86.05,"Average experience, nothing special."
+,New York,2023-10-26,07:42:00,18,20,24.84,"Super fast, piping hot!"
+ORD127824,Miami,2023-10-12,02:08:00,10,45,38.15,Driver was polite and food was hot.
+ORD106814,Seattle,2023-10-28,07:39:00,21,46,50.73,Amazing and speedy delivery!
+ORD900581,San Francisco,2023-10-08,13:50:00,26,41,78.39,Food was cold but driver was nice.
+ORD662275,Houston,2023-10-03,11:28:00,35,24,72.96,Food was cold but driver was nice.
+ORD479201,Seattle,2023-10-30,02:39:00,10,33,96.17,Amazing and speedy delivery!
+ORD205907,San Francisco,2023-10-05,03:10:00,19,48,81.75,"Super fast, piping hot!"
+ORD472528,Miami,2023-10-18,02:30:00,32,59,32.97,Food was cold but driver was nice.
+ORD497887,Seattle,2023-10-12,15:24:00,41,54,38.06,Missing an item but otherwise fine.
+ORD913694,Houston,2023-10-16,06:13:00,56,36,21.95,"Terrible cold food, completely unacceptable."
+ORD429963,Seattle,2023-10-27,07:31:00,39,50,56.54,"Average experience, nothing special."
+ORD377746,Seattle,2023-10-30,18:10:00,45,56,59.99,Missing an item but otherwise fine.
+ORD329974,Miami,2023-10-28,01:23:00,49,50,24.55,Very late and spilled.
+ORD260265,Miami,2023-10-03,15:28:00,11,23,55.4,"Super fast, piping hot!"
+ORD654816,Miami,2023-10-28,14:53:00,10,19,86.43,"Super fast, piping hot!"
+ORD663054,New York,2023-10-06,17:08:00,30,37,60.65,Missing an item but otherwise fine.
+,Seattle,2023-10-22,03:36:00,10,35,117.05,Driver was polite and food was hot.
+ORD211579,Chicago,2023-10-09,15:09:00,38,42,95.06,"Average experience, nothing special."
+ORD656116,Miami,2023-10-26,01:09:00,20,39,66.3,Amazing and speedy delivery!
+ORD972064,Miami,2023-10-06,14:12:00,33,24,23.99,"Average experience, nothing special."
+ORD897549,Boston,2023-10-23,14:50:00,19,27,28.48,Driver was polite and food was hot.
+ORD273148,Chicago,2023-10-23,03:09:00,27,53,94.3,Driver was polite and food was hot.
+ORD518373,Seattle,2023-10-10,15:43:00,60,42,61.0,Restaurant ignored my instructions.
+ORD359947,Miami,2023-10-25,01:20:00,32,33,15.76,"Average experience, nothing special."
+,New York,2023-10-30,05:20:00,43,40,22.44,Food was cold but driver was nice.
+ORD608993,Chicago,2023-10-12,07:58:00,31,49,99.79,Driver was polite and food was hot.
+,San Francisco,2023-10-10,03:59:00,37,46,58.17,Driver was polite and food was hot.
+ORD777568,Boston,2023-10-03,23:11:00,42,25,41.11,Missing an item but otherwise fine.
+ORD246991,Chicago,2023-10-10,03:46:00,38,36,63.58,Driver was polite and food was hot.
+ORD997546,New York,2023-10-04,22:21:00,25,34,32.46,Food was cold but driver was nice.
+ORD520521,Chicago,2023-10-23,14:27:00,28,43,15.23,Food was cold but driver was nice.
+ORD922157,Chicago,2023-10-19,06:27:00,32,31,46.15,Driver was polite and food was hot.
+ORD668532,Seattle,2023-10-04,03:53:00,18,39,21.0,Amazing and speedy delivery!
+ORD994141,New York,2023-10-28,02:05:00,24,30,22.19,Driver was polite and food was hot.
+ORD346629,New York,2023-10-04,14:14:00,29,55,40.85,Driver was polite and food was hot.
+,Miami,2023-10-28,13:23:00,49,39,113.14,Restaurant ignored my instructions.
+ORD429445,San Francisco,2023-10-10,19:07:00,40,44,28.74,"Average experience, nothing special."
+ORD431535,Houston,2023-10-30,21:04:00,61,58,119.84,Very late and spilled.
+,Miami,2023-10-06,01:13:00,14,35,28.91,Amazing and speedy delivery!
+ORD356150,Seattle,2023-10-17,09:13:00,24,38,79.23,Driver was polite and food was hot.
+ORD800305,Seattle,2023-10-31,06:19:00,36,25,113.59,Missing an item but otherwise fine.
+ORD212235,Miami,2023-10-07,14:41:00,29,32,90.35,Missing an item but otherwise fine.
+ORD994343,Miami,2023-10-10,18:23:00,21,50,41.37,"Super fast, piping hot!"
+,San Francisco,2023-10-03,19:30:00,19,27,81.9,Amazing and speedy delivery!
+ORD563298,Miami,2023-10-13,10:08:00,35,19,26.75,Driver was polite and food was hot.
+ORD975136,Chicago,2023-10-08,06:49:00,17,21,47.37,"Super fast, piping hot!"
+ORD320281,Seattle,2023-10-03,07:35:00,43,25,52.14,"Average experience, nothing special."
+ORD526117,Boston,2023-10-26,23:33:00,54,29,117.5,Very late and spilled.
+ORD125990,Seattle,2023-10-09,13:24:00,25,40,97.15,"Average experience, nothing special."
+ORD870763,Houston,2023-10-20,05:43:00,34,21,105.15,Food was cold but driver was nice.
+ORD582662,San Francisco,2023-10-11,14:58:00,19,33,38.41,"Super fast, piping hot!"
+ORD392136,San Francisco,2023-10-10,06:57:00,55,60,68.49,"Terrible cold food, completely unacceptable."
+ORD128941,San Francisco,2023-10-25,21:42:00,10,30,75.96,Amazing and speedy delivery!
+,Houston,2023-10-13,13:58:00,18,57,118.34,"Super fast, piping hot!"
+ORD704596,San Francisco,2023-10-06,18:19:00,22,21,89.42,Amazing and speedy delivery!
+ORD945687,Seattle,2023-10-01,13:51:00,10,31,53.24,Driver was polite and food was hot.
+ORD446239,San Francisco,2023-10-04,16:26:00,24,26,90.57,Driver was polite and food was hot.
+ORD799287,Miami,2023-10-15,04:02:00,17,27,35.14,"Super fast, piping hot!"
+ORD282480,Houston,2023-10-18,18:08:00,38,54,102.54,Missing an item but otherwise fine.
+ORD550770,Houston,2023-10-15,07:55:00,34,47,61.43,Missing an item but otherwise fine.
+ORD932291,Chicago,2023-10-11,05:26:00,10,24,44.8,Driver was polite and food was hot.
+ORD197923,Chicago,2023-10-30,07:21:00,40,31,30.47,Missing an item but otherwise fine.
+ORD598216,Boston,2023-10-03,14:29:00,10,23,62.82,Driver was polite and food was hot.
+ORD853240,Chicago,2023-10-30,03:53:00,24,60,87.2,Amazing and speedy delivery!
+ORD329471,Boston,2023-10-06,08:26:00,13,52,63.78,Amazing and speedy delivery!
+ORD989545,Seattle,2023-10-26,20:51:00,35,52,118.73,Driver was polite and food was hot.
+ORD891937,Miami,2023-10-28,14:24:00,35,51,59.81,Driver was polite and food was hot.
+ORD266889,Boston,2023-10-26,10:26:00,29,34,103.19,Missing an item but otherwise fine.
+ORD646622,Seattle,2023-10-14,02:54:00,12,34,43.83,"Super fast, piping hot!"
+ORD345884,Chicago,2023-10-05,00:38:00,28,28,39.28,Food was cold but driver was nice.
+ORD167348,Houston,2023-10-08,10:55:00,43,40,71.97,Driver was polite and food was hot.
+,Boston,2023-10-20,10:09:00,37,55,54.94,Food was cold but driver was nice.
+ORD413118,Boston,2023-10-01,18:27:00,17,45,71.51,"Super fast, piping hot!"
+ORD331251,New York,2023-10-26,08:32:00,18,43,50.29,"Super fast, piping hot!"
+ORD981334,Chicago,2023-10-19,21:38:00,30,58,71.08,Driver was polite and food was hot.
+ORD795205,Boston,2023-10-19,10:23:00,51,48,34.08,Very late and spilled.
+ORD321941,San Francisco,2023-10-13,08:10:00,33,40,94.93,Driver was polite and food was hot.
+ORD972335,New York,2023-10-18,18:07:00,10,53,20.47,"Super fast, piping hot!"
+ORD171951,Boston,2023-10-17,10:16:00,43,20,114.71,Food was cold but driver was nice.
+ORD751517,Miami,2023-10-10,13:46:00,34,32,63.83,Food was cold but driver was nice.
+ORD275939,Boston,2023-10-13,03:54:00,36,29,116.3,Food was cold but driver was nice.
+ORD427110,Houston,2023-10-06,10:05:00,10,31,22.98,"Super fast, piping hot!"
+ORD831059,Boston,2023-10-30,01:07:00,14,57,99.58,"Super fast, piping hot!"
+ORD464069,Miami,2023-10-27,06:09:00,10,60,50.83,Amazing and speedy delivery!
+ORD210665,San Francisco,2023-10-20,14:49:00,25,59,108.62,Driver was polite and food was hot.
+ORD556641,Miami,2023-10-22,10:10:00,38,53,96.34,Missing an item but otherwise fine.
+ORD866536,San Francisco,2023-10-22,15:46:00,46,39,104.43,Restaurant ignored my instructions.
+ORD572700,San Francisco,2023-10-05,10:40:00,30,20,66.9,Driver was polite and food was hot.
+ORD322423,Boston,2023-10-16,07:01:00,46,35,50.74,"Terrible cold food, completely unacceptable."
+ORD389688,New York,2023-10-28,15:10:00,13,34,90.61,Amazing and speedy delivery!
+ORD351997,Houston,2023-10-23,17:40:00,23,60,89.74,Driver was polite and food was hot.
+ORD197573,San Francisco,2023-10-21,21:32:00,25,56,53.75,"Average experience, nothing special."
+ORD546173,San Francisco,2023-10-26,16:33:00,44,48,43.45,Missing an item but otherwise fine.
+ORD856321,Chicago,2023-10-12,22:36:00,32,32,92.55,"Average experience, nothing special."
+ORD897135,New York,2023-10-14,02:01:00,37,31,46.11,Missing an item but otherwise fine.
+ORD114835,New York,2023-10-17,22:11:00,27,54,45.67,Food was cold but driver was nice.
+ORD889359,New York,2023-10-07,05:56:00,22,19,75.28,"Super fast, piping hot!"
+ORD457256,New York,2023-10-22,20:43:00,31,23,57.07,Driver was polite and food was hot.
+ORD819796,Chicago,2023-10-04,20:56:00,34,28,100.17,Food was cold but driver was nice.
+,Miami,2023-10-15,07:53:00,30,57,98.03,Driver was polite and food was hot.
+ORD498855,Houston,2023-10-11,18:31:00,49,38,105.32,"Terrible cold food, completely unacceptable."
+ORD751194,Boston,2023-10-21,00:24:00,65,32,80.68,Very late and spilled.
+ORD264686,Chicago,2023-10-13,13:04:00,44,54,22.88,"Average experience, nothing special."
+ORD822858,San Francisco,2023-10-01,14:56:00,19,37,88.81,Amazing and speedy delivery!
+,San Francisco,2023-10-22,03:56:00,23,59,76.93,Amazing and speedy delivery!
+ORD671015,Boston,2023-10-10,12:05:00,31,28,22.5,Missing an item but otherwise fine.
+ORD723948,Houston,2023-10-09,01:14:00,38,26,64.21,Missing an item but otherwise fine.
+ORD385470,Miami,2023-10-15,08:09:00,12,21,108.39,Amazing and speedy delivery!
+ORD127121,Chicago,2023-10-16,04:04:00,29,55,76.65,Food was cold but driver was nice.
+ORD804938,Houston,2023-10-02,10:40:00,38,52,83.41,"Average experience, nothing special."
+ORD713762,Seattle,2023-10-14,03:50:00,12,50,116.75,"Super fast, piping hot!"
+ORD449499,San Francisco,2023-10-22,21:23:00,26,45,87.84,"Average experience, nothing special."
+ORD519904,Houston,2023-10-14,14:49:00,36,24,48.02,Food was cold but driver was nice.
+,Seattle,2023-10-16,05:07:00,34,53,63.51,Food was cold but driver was nice.
+ORD479353,Boston,2023-10-03,23:13:00,10,50,80.67,Driver was polite and food was hot.
+ORD675898,New York,2023-10-03,20:23:00,38,20,117.18,Driver was polite and food was hot.
+ORD844261,San Francisco,2023-10-29,05:04:00,39,54,16.44,"Average experience, nothing special."
+,New York,2023-10-20,01:39:00,63,60,102.38,"Terrible cold food, completely unacceptable."
+ORD406039,Houston,2023-10-24,04:22:00,28,49,117.93,Missing an item but otherwise fine.
+ORD251668,Seattle,2023-10-12,14:14:00,10,27,105.72,Driver was polite and food was hot.
+ORD995916,San Francisco,2023-10-14,01:45:00,52,51,43.05,"Terrible cold food, completely unacceptable."
+ORD413058,Boston,2023-10-01,14:49:00,40,28,61.89,Driver was polite and food was hot.
+ORD678727,Houston,2023-10-23,13:02:00,13,48,112.95,Driver was polite and food was hot.
+ORD350405,New York,2023-10-10,02:04:00,20,39,93.19,"Super fast, piping hot!"
+ORD795928,Houston,2023-10-18,20:25:00,25,21,28.26,"Average experience, nothing special."
+ORD205239,New York,2023-10-28,08:39:00,41,28,58.05,Driver was polite and food was hot.
+ORD178463,Boston,2023-10-31,07:12:00,18,35,50.55,"Super fast, piping hot!"
+ORD993140,Houston,2023-10-19,14:10:00,19,39,80.81,Driver was polite and food was hot.
+ORD137642,New York,2023-10-23,16:59:00,49,34,81.27,Restaurant ignored my instructions.
+ORD883041,Seattle,2023-10-14,13:54:00,65,25,61.59,Restaurant ignored my instructions.
+ORD148225,Boston,2023-10-15,03:06:00,52,22,45.8,"Terrible cold food, completely unacceptable."
+ORD356059,Chicago,2023-10-18,13:26:00,10,30,23.29,Amazing and speedy delivery!
+ORD352528,Miami,2023-10-18,21:51:00,26,28,39.38,Driver was polite and food was hot.
+ORD367729,San Francisco,2023-10-30,12:46:00,13,53,31.59,"Super fast, piping hot!"
+ORD716113,Seattle,2023-10-21,14:30:00,10,46,87.48,"Super fast, piping hot!"
+ORD308894,Chicago,2023-10-22,07:00:00,59,43,75.05,Very late and spilled.
+ORD833247,New York,2023-10-27,15:51:00,29,44,43.82,Missing an item but otherwise fine.
+ORD916118,Boston,2023-10-27,06:09:00,29,37,96.45,Driver was polite and food was hot.
+ORD469435,Seattle,2023-10-11,23:22:00,25,31,80.19,"Average experience, nothing special."
+ORD757937,New York,2023-10-07,17:24:00,22,56,53.31,"Super fast, piping hot!"
+,San Francisco,2023-10-07,11:33:00,19,45,33.44,"Super fast, piping hot!"
+ORD483629,San Francisco,2023-10-07,12:22:00,10,49,116.58,Amazing and speedy delivery!
+ORD455168,Houston,2023-10-14,22:23:00,23,23,29.78,Amazing and speedy delivery!
+ORD859396,San Francisco,2023-10-11,18:26:00,23,24,98.02,Driver was polite and food was hot.
+ORD229592,San Francisco,2023-10-02,03:13:00,16,35,76.38,"Super fast, piping hot!"
+ORD213609,Miami,2023-10-30,13:28:00,22,39,111.1,Driver was polite and food was hot.
+ORD766269,Seattle,2023-10-11,13:48:00,14,38,83.17,"Super fast, piping hot!"
+,New York,2023-10-06,19:27:00,42,25,39.65,Driver was polite and food was hot.
+,San Francisco,2023-10-25,23:09:00,25,53,59.01,Driver was polite and food was hot.
+ORD786735,San Francisco,2023-10-08,12:47:00,44,21,87.48,Driver was polite and food was hot.
+ORD347582,New York,2023-10-11,09:19:00,40,42,72.17,Missing an item but otherwise fine.
+ORD517479,New York,2023-10-30,20:20:00,23,32,82.38,"Super fast, piping hot!"
+ORD153035,Chicago,2023-10-28,16:15:00,68,27,97.63,"Terrible cold food, completely unacceptable."
+,Boston,2023-10-10,20:09:00,30,33,49.5,"Average experience, nothing special."
+ORD724932,San Francisco,2023-10-08,05:11:00,19,28,118.69,Amazing and speedy delivery!
+ORD282973,New York,2023-10-26,02:04:00,53,41,97.95,Very late and spilled.
+ORD116547,San Francisco,2023-10-12,07:54:00,49,22,28.31,Very late and spilled.
+ORD881886,Miami,2023-10-20,15:49:00,45,56,26.45,Missing an item but otherwise fine.
+ORD744986,Seattle,2023-10-24,10:20:00,36,52,46.67,Food was cold but driver was nice.
+ORD163780,Seattle,2023-10-30,18:42:00,59,25,66.48,"Terrible cold food, completely unacceptable."
+,San Francisco,2023-10-21,16:30:00,29,57,30.58,Food was cold but driver was nice.
+ORD763829,Miami,2023-10-07,05:51:00,10,52,45.96,"Super fast, piping hot!"
+ORD203996,New York,2023-10-24,12:12:00,17,60,83.35,Driver was polite and food was hot.
+ORD325468,San Francisco,2023-10-26,14:13:00,10,48,56.87,"Super fast, piping hot!"
+ORD427704,San Francisco,2023-10-05,19:52:00,43,28,87.12,Missing an item but otherwise fine.
+,Seattle,2023-10-23,02:02:00,33,42,100.24,Food was cold but driver was nice.
+,Miami,2023-10-26,19:43:00,24,40,85.35,Driver was polite and food was hot.
+ORD797660,San Francisco,2023-10-20,04:43:00,44,57,47.81,Food was cold but driver was nice.
+ORD323072,Seattle,2023-10-06,05:10:00,24,49,38.55,Amazing and speedy delivery!
+ORD683286,Chicago,2023-10-06,10:13:00,12,46,103.74,Driver was polite and food was hot.
+ORD773918,New York,2023-10-29,19:06:00,48,57,112.55,Restaurant ignored my instructions.
+,San Francisco,2023-10-13,16:08:00,26,19,34.05,Missing an item but otherwise fine.
+ORD520252,Chicago,2023-10-08,00:29:00,55,59,117.04,Very late and spilled.
+ORD325583,San Francisco,2023-10-05,16:14:00,18,38,90.77,Amazing and speedy delivery!
+ORD155164,Chicago,2023-10-27,07:58:00,41,58,20.23,"Average experience, nothing special."
+ORD794093,San Francisco,2023-10-05,05:07:00,11,32,94.27,"Super fast, piping hot!"
+ORD216276,Seattle,2023-10-06,16:20:00,39,56,66.1,Missing an item but otherwise fine.
+,Chicago,2023-10-15,12:53:00,13,38,114.26,Amazing and speedy delivery!
+ORD403507,New York,2023-10-07,17:54:00,42,19,67.23,Missing an item but otherwise fine.
+ORD498676,Boston,2023-10-21,02:24:00,19,41,22.57,Driver was polite and food was hot.
+ORD582087,Boston,2023-10-03,10:13:00,27,39,75.45,Food was cold but driver was nice.
+ORD771237,San Francisco,2023-10-27,14:19:00,23,29,99.14,Amazing and speedy delivery!
+ORD823108,New York,2023-10-29,15:10:00,33,46,103.67,Missing an item but otherwise fine.
+ORD519902,Seattle,2023-10-12,13:46:00,15,40,38.27,"Super fast, piping hot!"
+,Miami,2023-10-09,03:39:00,27,51,35.36,Food was cold but driver was nice.
+ORD958729,Chicago,2023-10-17,09:37:00,24,35,35.71,Amazing and speedy delivery!
+ORD896028,New York,2023-10-28,21:59:00,23,30,114.89,Driver was polite and food was hot.
+ORD891093,Miami,2023-10-30,01:54:00,11,60,81.71,Driver was polite and food was hot.
+ORD757685,Chicago,2023-10-29,22:09:00,22,47,22.17,"Super fast, piping hot!"
+ORD935012,San Francisco,2023-10-21,15:01:00,29,48,62.45,Food was cold but driver was nice.
+ORD401022,Seattle,2023-10-04,02:09:00,35,24,79.58,Food was cold but driver was nice.
+ORD708519,Houston,2023-10-24,13:52:00,10,55,83.44,Amazing and speedy delivery!
+ORD625721,New York,2023-10-16,03:12:00,21,47,25.87,Amazing and speedy delivery!
+ORD188425,Seattle,2023-10-17,03:08:00,20,47,119.05,Amazing and speedy delivery!
+ORD266457,San Francisco,2023-10-25,08:26:00,29,37,55.68,Missing an item but otherwise fine.
+ORD154909,San Francisco,2023-10-16,21:36:00,35,25,73.59,Food was cold but driver was nice.
+ORD858889,Miami,2023-10-19,02:14:00,10,28,50.0,Driver was polite and food was hot.
+ORD466813,Houston,2023-10-28,00:31:00,21,27,77.48,Driver was polite and food was hot.
+ORD494976,Boston,2023-10-05,08:33:00,50,40,100.38,Restaurant ignored my instructions.
+,San Francisco,2023-10-25,10:58:00,21,38,33.93,Amazing and speedy delivery!
+ORD903373,Chicago,2023-10-11,05:58:00,14,33,120.0,"Super fast, piping hot!"
+,Seattle,2023-10-08,13:15:00,33,40,107.02,Food was cold but driver was nice.
+,Chicago,2023-10-29,15:04:00,24,29,33.99,"Super fast, piping hot!"
+ORD273580,Seattle,2023-10-29,22:23:00,29,34,116.81,Missing an item but otherwise fine.
+ORD884897,Chicago,2023-10-29,06:56:00,25,53,40.11,Driver was polite and food was hot.
+ORD303440,Houston,2023-10-22,20:18:00,10,37,96.7,"Super fast, piping hot!"
+ORD269930,Boston,2023-10-24,09:19:00,56,57,29.53,Very late and spilled.
+,Seattle,2023-10-12,21:05:00,15,52,104.37,Amazing and speedy delivery!
+,San Francisco,2023-10-14,11:22:00,31,47,110.06,"Average experience, nothing special."
+ORD196168,San Francisco,2023-10-08,04:57:00,40,20,58.56,Driver was polite and food was hot.
+ORD347231,New York,2023-10-19,13:03:00,26,42,38.58,Driver was polite and food was hot.
+ORD979940,Chicago,2023-10-16,00:06:00,27,21,45.12,"Average experience, nothing special."
+ORD245534,Houston,2023-10-23,00:03:00,16,47,79.61,Driver was polite and food was hot.
+,New York,2023-10-05,02:33:00,31,37,39.95,Driver was polite and food was hot.
+,Seattle,2023-10-07,01:06:00,38,58,63.0,Driver was polite and food was hot.
+ORD624108,Seattle,2023-10-06,13:06:00,27,28,45.58,"Average experience, nothing special."
+ORD352249,Chicago,2023-10-01,13:43:00,28,24,69.97,Driver was polite and food was hot.
+,Miami,2023-10-17,21:53:00,12,20,56.0,Driver was polite and food was hot.
+,San Francisco,2023-10-22,21:31:00,27,35,93.47,Driver was polite and food was hot.
+ORD461551,Boston,2023-10-17,18:03:00,31,56,92.19,Food was cold but driver was nice.
+,Miami,2023-10-16,15:12:00,51,40,100.42,"Terrible cold food, completely unacceptable."
+ORD817941,Chicago,2023-10-09,11:15:00,10,27,21.63,Driver was polite and food was hot.
+,New York,2023-10-22,07:55:00,35,31,108.01,"Average experience, nothing special."
+ORD640418,San Francisco,2023-10-15,20:43:00,10,21,94.1,"Super fast, piping hot!"
+ORD918771,Boston,2023-10-10,04:45:00,46,60,49.85,Very late and spilled.
+ORD558176,San Francisco,2023-10-07,03:58:00,49,30,67.1,"Terrible cold food, completely unacceptable."
+ORD936020,San Francisco,2023-10-24,03:26:00,14,24,91.34,Driver was polite and food was hot.
+ORD962287,New York,2023-10-05,02:13:00,35,39,84.4,Food was cold but driver was nice.
+ORD852524,Chicago,2023-10-15,10:47:00,41,47,51.91,Driver was polite and food was hot.
+ORD469685,Boston,2023-10-03,10:16:00,17,22,22.88,Driver was polite and food was hot.
+ORD638009,Seattle,2023-10-30,12:21:00,19,29,115.04,Driver was polite and food was hot.
+ORD811027,Chicago,2023-10-07,23:58:00,30,60,53.46,Food was cold but driver was nice.
+ORD133958,Seattle,2023-10-18,22:11:00,26,47,114.63,"Average experience, nothing special."
+ORD180620,San Francisco,2023-10-18,10:21:00,13,60,44.26,"Super fast, piping hot!"
+,Houston,2023-10-06,15:55:00,21,52,55.63,Amazing and speedy delivery!
+,Miami,2023-10-27,01:30:00,33,37,87.87,"Average experience, nothing special."
+ORD242321,Houston,2023-10-23,20:32:00,10,30,109.36,Amazing and speedy delivery!
+ORD949884,Seattle,2023-10-21,18:11:00,17,41,89.5,"Super fast, piping hot!"
+ORD414527,Seattle,2023-10-26,12:45:00,10,59,33.28,Amazing and speedy delivery!
+ORD227257,Boston,2023-10-17,22:51:00,56,50,17.76,Very late and spilled.
+ORD590110,Miami,2023-10-26,17:09:00,27,24,21.9,"Average experience, nothing special."
+ORD853789,Boston,2023-10-19,14:54:00,14,55,22.74,"Super fast, piping hot!"
+ORD571832,Seattle,2023-10-15,22:17:00,32,52,51.17,Driver was polite and food was hot.
+ORD290802,Boston,2023-10-26,14:11:00,30,26,69.4,Food was cold but driver was nice.
+ORD438334,Chicago,2023-10-15,08:12:00,22,41,114.49,Driver was polite and food was hot.
+ORD987025,Chicago,2023-10-25,02:47:00,38,59,46.8,Missing an item but otherwise fine.
+,Miami,2023-10-25,18:43:00,34,56,31.19,"Average experience, nothing special."
+ORD734534,Boston,2023-10-31,11:31:00,12,20,23.53,Amazing and speedy delivery!
+ORD377511,Chicago,2023-10-30,16:39:00,59,55,58.74,Restaurant ignored my instructions.
+,Houston,2023-10-30,13:57:00,44,34,99.49,Missing an item but otherwise fine.
+ORD176517,New York,2023-10-19,23:34:00,17,29,61.16,Driver was polite and food was hot.
+ORD456717,San Francisco,2023-10-23,12:56:00,19,41,117.41,Driver was polite and food was hot.
+ORD639995,New York,2023-10-07,10:50:00,21,39,40.38,Driver was polite and food was hot.
+ORD359961,Boston,2023-10-07,01:50:00,33,58,58.9,Driver was polite and food was hot.
+ORD705748,Chicago,2023-10-08,18:27:00,33,29,67.32,Missing an item but otherwise fine.
+ORD423528,Miami,2023-10-24,22:14:00,23,48,116.5,"Super fast, piping hot!"
+ORD151021,San Francisco,2023-10-11,07:00:00,30,50,77.74,Food was cold but driver was nice.
+ORD399628,Chicago,2023-10-31,06:38:00,10,35,91.39,"Super fast, piping hot!"
+ORD520040,Miami,2023-10-19,20:28:00,23,54,35.44,Amazing and speedy delivery!
+ORD505116,Boston,2023-10-26,16:17:00,10,58,86.44,"Super fast, piping hot!"
+,Houston,2023-10-06,21:47:00,29,42,98.46,Food was cold but driver was nice.
+ORD483366,Miami,2023-10-16,22:23:00,30,21,19.76,Driver was polite and food was hot.
+ORD943019,Miami,2023-10-07,17:41:00,20,48,30.64,"Super fast, piping hot!"
+,Miami,2023-10-24,23:05:00,41,38,77.34,Driver was polite and food was hot.
+ORD658198,Seattle,2023-10-24,14:08:00,24,55,46.48,"Super fast, piping hot!"
+ORD806537,Boston,2023-10-02,06:11:00,42,59,17.8,Missing an item but otherwise fine.
+ORD787436,Seattle,2023-10-23,02:23:00,39,22,76.27,"Average experience, nothing special."
+ORD856215,Boston,2023-10-09,06:15:00,10,34,18.31,Amazing and speedy delivery!
+ORD562462,Houston,2023-10-06,12:03:00,10,28,58.36,"Super fast, piping hot!"
+ORD912617,Seattle,2023-10-10,18:43:00,17,22,89.11,Driver was polite and food was hot.
+ORD440839,Houston,2023-10-25,02:33:00,19,52,54.57,Driver was polite and food was hot.
+ORD659024,Seattle,2023-10-09,09:10:00,22,60,99.38,Driver was polite and food was hot.
+ORD301603,San Francisco,2023-10-13,12:46:00,41,54,46.34,"Average experience, nothing special."
+ORD839142,Houston,2023-10-15,01:05:00,36,41,73.85,Missing an item but otherwise fine.
+ORD701334,Miami,2023-10-13,22:42:00,52,43,109.05,Restaurant ignored my instructions.
+ORD910616,Seattle,2023-10-19,10:57:00,34,24,51.37,Missing an item but otherwise fine.
+ORD883641,Chicago,2023-10-21,15:12:00,18,31,101.93,"Super fast, piping hot!"
+ORD829988,Chicago,2023-10-13,20:09:00,29,22,85.33,"Average experience, nothing special."
+ORD344146,New York,2023-10-25,16:03:00,37,45,49.68,Food was cold but driver was nice.
+,Houston,2023-10-23,00:00:00,30,60,113.18,"Average experience, nothing special."
+ORD309144,San Francisco,2023-10-23,03:36:00,28,37,82.82,Missing an item but otherwise fine.
+ORD343500,Chicago,2023-10-05,13:43:00,10,45,107.64,Amazing and speedy delivery!
+ORD138105,Boston,2023-10-09,12:01:00,24,50,34.56,"Super fast, piping hot!"
+ORD109717,San Francisco,2023-10-14,16:11:00,23,48,118.86,"Super fast, piping hot!"
+ORD240718,Houston,2023-10-26,05:26:00,49,36,35.25,Restaurant ignored my instructions.
+ORD866634,New York,2023-10-06,15:03:00,18,40,98.03,Amazing and speedy delivery!
+ORD302544,Miami,2023-10-27,08:11:00,32,59,109.19,"Average experience, nothing special."
+ORD190951,Houston,2023-10-20,23:10:00,24,39,113.26,Amazing and speedy delivery!
+ORD346961,Boston,2023-10-01,19:28:00,33,36,115.17,Driver was polite and food was hot.
+ORD700705,Chicago,2023-10-15,05:49:00,51,22,85.12,Restaurant ignored my instructions.
+ORD525110,Seattle,2023-10-22,16:21:00,31,26,82.06,Missing an item but otherwise fine.
+ORD331577,Houston,2023-10-14,22:16:00,31,57,54.23,"Average experience, nothing special."
+ORD894139,Boston,2023-10-26,11:55:00,37,34,86.44,"Average experience, nothing special."
+ORD185847,New York,2023-10-28,14:48:00,11,55,26.78,"Super fast, piping hot!"
+ORD311976,Chicago,2023-10-26,10:11:00,27,39,104.72,"Average experience, nothing special."
+,Miami,2023-10-21,14:37:00,35,47,99.91,Food was cold but driver was nice.
+,Houston,2023-10-22,03:17:00,49,55,21.06,"Terrible cold food, completely unacceptable."
+ORD423139,Seattle,2023-10-22,13:03:00,27,32,75.72,Food was cold but driver was nice.
+ORD834406,Miami,2023-10-03,13:29:00,15,22,113.13,Amazing and speedy delivery!
+ORD595002,Boston,2023-10-04,15:24:00,45,60,117.72,"Average experience, nothing special."
+ORD492650,Houston,2023-10-30,21:29:00,33,43,54.44,Driver was polite and food was hot.
+,Miami,2023-10-26,01:04:00,34,27,91.43,Driver was polite and food was hot.
+ORD892911,San Francisco,2023-10-11,15:15:00,24,48,85.72,Amazing and speedy delivery!
+ORD497700,Chicago,2023-10-26,06:41:00,35,36,34.79,Missing an item but otherwise fine.
+,Houston,2023-10-06,15:16:00,19,58,95.44,Driver was polite and food was hot.
+ORD170559,Chicago,2023-10-02,05:06:00,33,21,57.24,Food was cold but driver was nice.
+ORD891030,Chicago,2023-10-12,03:58:00,32,51,119.32,Food was cold but driver was nice.
+ORD867051,Boston,2023-10-12,03:47:00,12,39,39.87,Driver was polite and food was hot.
+ORD646571,Houston,2023-10-08,00:29:00,20,38,43.89,Amazing and speedy delivery!
+ORD870925,Miami,2023-10-26,20:06:00,47,50,19.92,"Terrible cold food, completely unacceptable."
+ORD803953,Boston,2023-10-17,04:12:00,18,52,48.47,"Super fast, piping hot!"
+ORD414455,Chicago,2023-10-20,10:45:00,12,33,46.58,"Super fast, piping hot!"
+ORD160423,Houston,2023-10-08,01:41:00,47,45,73.52,Restaurant ignored my instructions.
+ORD367382,Boston,2023-10-07,14:28:00,36,42,24.71,Driver was polite and food was hot.
+,Seattle,2023-10-10,04:04:00,50,57,78.31,"Terrible cold food, completely unacceptable."
+ORD898696,Houston,2023-10-04,19:30:00,10,32,106.29,Amazing and speedy delivery!
+ORD116078,Chicago,2023-10-16,15:42:00,18,26,93.42,Amazing and speedy delivery!
+ORD829417,Miami,2023-10-23,07:07:00,21,39,96.43,Amazing and speedy delivery!
+ORD780233,San Francisco,2023-10-18,19:48:00,23,35,52.76,"Super fast, piping hot!"
+ORD941814,Chicago,2023-10-24,03:10:00,46,42,47.86,"Terrible cold food, completely unacceptable."
+ORD332022,New York,2023-10-03,13:57:00,28,35,73.1,"Average experience, nothing special."
+ORD537862,Houston,2023-10-28,01:56:00,27,55,102.5,"Average experience, nothing special."
+ORD818113,San Francisco,2023-10-24,05:23:00,39,50,116.48,Missing an item but otherwise fine.
+ORD583214,Chicago,2023-10-30,16:55:00,43,53,66.27,"Average experience, nothing special."
+ORD161585,New York,2023-10-26,04:10:00,53,23,114.24,Restaurant ignored my instructions.
+ORD532424,Seattle,2023-10-03,17:00:00,43,28,15.96,Food was cold but driver was nice.
+ORD163386,Seattle,2023-10-24,12:24:00,46,58,110.84,Restaurant ignored my instructions.
+,Miami,2023-10-23,16:53:00,14,36,71.25,Amazing and speedy delivery!
+,Boston,2023-10-14,13:09:00,26,30,26.24,Driver was polite and food was hot.
+ORD352674,San Francisco,2023-10-05,21:13:00,36,44,23.3,Missing an item but otherwise fine.
+ORD355021,Chicago,2023-10-19,23:30:00,47,38,86.82,Restaurant ignored my instructions.
+ORD999908,Houston,2023-10-05,04:04:00,27,43,73.03,Driver was polite and food was hot.
+ORD836986,New York,2023-10-04,01:18:00,26,50,103.76,"Average experience, nothing special."
+ORD693343,New York,2023-10-30,20:25:00,70,33,37.2,Restaurant ignored my instructions.
+ORD148823,Seattle,2023-10-27,07:05:00,24,36,109.43,Amazing and speedy delivery!
+ORD288066,Miami,2023-10-27,03:31:00,41,28,93.99,"Average experience, nothing special."
+ORD413814,Miami,2023-10-19,15:03:00,24,34,74.5,Amazing and speedy delivery!
+ORD666820,Boston,2023-10-19,05:04:00,17,24,67.58,Amazing and speedy delivery!
+,Chicago,2023-10-17,05:47:00,51,23,50.76,"Terrible cold food, completely unacceptable."
+ORD515973,Boston,2023-10-29,10:31:00,43,47,66.51,Missing an item but otherwise fine.
+ORD493663,Chicago,2023-10-17,16:39:00,27,56,84.37,Driver was polite and food was hot.
+ORD409727,San Francisco,2023-10-05,09:37:00,37,28,54.9,Food was cold but driver was nice.
+ORD508548,San Francisco,2023-10-30,08:24:00,10,25,24.61,"Super fast, piping hot!"
+ORD898329,Houston,2023-10-15,12:43:00,29,47,73.48,"Average experience, nothing special."
+ORD127537,San Francisco,2023-10-24,19:44:00,37,54,24.77,Food was cold but driver was nice.
+ORD503951,Seattle,2023-10-28,17:14:00,45,54,110.05,Food was cold but driver was nice.
+ORD277820,Chicago,2023-10-12,13:09:00,31,27,43.24,Driver was polite and food was hot.
+ORD166340,Houston,2023-10-13,17:11:00,35,23,52.92,Missing an item but otherwise fine.
+ORD619886,Houston,2023-10-12,17:21:00,40,25,29.23,"Average experience, nothing special."
+ORD448354,Houston,2023-10-01,19:24:00,37,40,60.21,Missing an item but otherwise fine.
+ORD242736,San Francisco,2023-10-31,03:07:00,17,57,114.46,"Super fast, piping hot!"
+ORD286266,Seattle,2023-10-10,15:24:00,68,59,66.56,"Terrible cold food, completely unacceptable."
+ORD441716,San Francisco,2023-10-27,17:01:00,21,44,53.33,"Super fast, piping hot!"
+ORD672133,Seattle,2023-10-27,03:53:00,40,48,114.01,Food was cold but driver was nice.
+ORD405482,New York,2023-10-11,01:00:00,53,45,85.66,Restaurant ignored my instructions.
+ORD353777,Boston,2023-10-07,20:02:00,29,43,22.77,Driver was polite and food was hot.
+ORD520274,Miami,2023-10-28,17:07:00,38,21,98.03,Driver was polite and food was hot.
+ORD951755,New York,2023-10-17,20:43:00,10,34,84.05,Amazing and speedy delivery!
+ORD742439,Miami,2023-10-17,15:46:00,25,60,86.13,Food was cold but driver was nice.
+ORD447704,New York,2023-10-19,16:30:00,45,35,38.31,Food was cold but driver was nice.
+ORD821068,Houston,2023-10-25,02:40:00,26,42,56.07,"Average experience, nothing special."
+ORD258067,San Francisco,2023-10-28,06:54:00,28,45,111.66,Food was cold but driver was nice.
+,San Francisco,2023-10-05,09:47:00,32,38,51.02,"Average experience, nothing special."
+ORD465219,Houston,2023-10-10,21:58:00,14,39,22.05,Driver was polite and food was hot.
+ORD220675,Boston,2023-10-03,12:49:00,32,40,83.04,Food was cold but driver was nice.
+ORD876459,San Francisco,2023-10-08,23:32:00,30,54,59.77,"Average experience, nothing special."
+ORD524723,Chicago,2023-10-22,12:42:00,39,59,84.02,"Average experience, nothing special."
+,Houston,2023-10-19,12:05:00,22,43,15.47,Driver was polite and food was hot.
+ORD888870,Boston,2023-10-11,06:37:00,23,23,75.62,Driver was polite and food was hot.
+ORD441819,Miami,2023-10-25,22:26:00,32,59,47.91,Driver was polite and food was hot.
+ORD715519,San Francisco,2023-10-19,04:30:00,36,41,103.78,Food was cold but driver was nice.
+ORD806309,Seattle,2023-10-29,14:20:00,26,27,47.88,Food was cold but driver was nice.
+ORD291936,Seattle,2023-10-12,08:36:00,17,28,68.64,"Super fast, piping hot!"
+ORD702727,Miami,2023-10-20,12:50:00,22,60,112.72,Driver was polite and food was hot.
+ORD613426,Chicago,2023-10-09,09:14:00,36,30,48.03,Missing an item but otherwise fine.
+ORD476479,Boston,2023-10-22,00:37:00,46,43,116.2,Very late and spilled.
+ORD529008,Houston,2023-10-24,12:05:00,24,45,89.56,Driver was polite and food was hot.
+ORD186686,San Francisco,2023-10-21,16:49:00,10,21,43.86,Amazing and speedy delivery!
+ORD918665,Miami,2023-10-25,23:13:00,19,50,72.72,"Super fast, piping hot!"
+ORD380901,Miami,2023-10-06,15:40:00,34,21,94.8,Missing an item but otherwise fine.
+ORD545807,Seattle,2023-10-21,14:06:00,10,60,93.89,Amazing and speedy delivery!
+ORD133796,Houston,2023-10-15,01:11:00,16,26,96.44,Amazing and speedy delivery!
+ORD873443,Boston,2023-10-12,06:49:00,34,58,81.44,Missing an item but otherwise fine.
+ORD922974,Miami,2023-10-09,01:18:00,32,41,70.89,Food was cold but driver was nice.
+ORD439375,San Francisco,2023-10-28,15:56:00,39,55,43.07,Missing an item but otherwise fine.
+ORD812296,New York,2023-10-24,21:53:00,33,36,106.04,Driver was polite and food was hot.
+ORD239136,Chicago,2023-10-07,06:36:00,22,39,101.99,Amazing and speedy delivery!
+ORD705474,Houston,2023-10-19,08:57:00,15,23,81.53,"Super fast, piping hot!"
+ORD886224,Seattle,2023-10-05,17:42:00,14,42,62.74,"Super fast, piping hot!"
+ORD102593,Seattle,2023-10-23,17:05:00,49,48,81.66,Very late and spilled.
+ORD934328,Houston,2023-10-17,19:17:00,10,32,116.65,Driver was polite and food was hot.
+ORD438548,Miami,2023-10-11,03:24:00,36,50,97.77,"Average experience, nothing special."
+,Boston,2023-10-03,16:53:00,17,48,16.71,Driver was polite and food was hot.
+ORD100708,Seattle,2023-10-08,16:34:00,45,38,31.69,"Average experience, nothing special."
+,San Francisco,2023-10-13,23:19:00,29,24,54.04,Missing an item but otherwise fine.
+ORD515594,Houston,2023-10-31,00:48:00,12,60,24.58,Amazing and speedy delivery!
+,New York,2023-10-05,19:58:00,12,27,77.34,"Super fast, piping hot!"
+ORD109738,Boston,2023-10-25,03:23:00,43,46,87.87,Food was cold but driver was nice.
+,New York,2023-10-23,05:47:00,30,25,25.84,Driver was polite and food was hot.
+ORD243790,Seattle,2023-10-18,05:29:00,10,28,22.18,Amazing and speedy delivery!
+,Chicago,2023-10-27,03:16:00,48,47,51.87,Restaurant ignored my instructions.
+ORD258727,Boston,2023-10-11,04:43:00,48,32,24.1,"Terrible cold food, completely unacceptable."
+,Miami,2023-10-06,01:45:00,19,43,51.91,Amazing and speedy delivery!
+ORD246622,Miami,2023-10-21,01:01:00,30,57,78.0,"Average experience, nothing special."
+ORD824016,Boston,2023-10-29,03:40:00,51,38,36.57,Very late and spilled.
+ORD884170,Houston,2023-10-29,02:56:00,13,43,26.84,Amazing and speedy delivery!
+ORD174461,San Francisco,2023-10-24,05:41:00,43,39,28.86,Food was cold but driver was nice.
+ORD672896,New York,2023-10-27,08:50:00,19,56,22.09,Amazing and speedy delivery!
+ORD163406,Miami,2023-10-13,10:23:00,10,37,81.0,"Super fast, piping hot!"
+ORD544150,San Francisco,2023-10-24,07:17:00,28,24,47.54,"Average experience, nothing special."
+ORD947312,Miami,2023-10-24,18:29:00,24,39,56.03,Amazing and speedy delivery!
+ORD781406,Seattle,2023-10-30,08:50:00,27,34,21.08,Driver was polite and food was hot.
+ORD221620,Miami,2023-10-05,10:11:00,24,57,20.78,"Super fast, piping hot!"
+ORD225245,Chicago,2023-10-31,10:47:00,38,50,115.07,Food was cold but driver was nice.
+ORD962460,Chicago,2023-10-25,07:16:00,30,42,28.33,Missing an item but otherwise fine.
+ORD223791,San Francisco,2023-10-13,17:34:00,30,52,21.71,Driver was polite and food was hot.
+ORD620248,Miami,2023-10-27,17:52:00,26,42,20.82,Driver was polite and food was hot.
+ORD264951,Chicago,2023-10-27,07:12:00,29,51,15.27,Food was cold but driver was nice.
+ORD594681,Houston,2023-10-02,01:26:00,36,28,33.79,Missing an item but otherwise fine.
+ORD848705,Chicago,2023-10-03,02:38:00,29,45,111.16,Missing an item but otherwise fine.
+ORD181670,San Francisco,2023-10-16,01:28:00,14,26,67.71,Driver was polite and food was hot.
+ORD943409,New York,2023-10-03,21:32:00,25,48,105.93,Driver was polite and food was hot.
+ORD679958,New York,2023-10-15,15:22:00,29,42,36.07,Driver was polite and food was hot.
+ORD875501,Houston,2023-10-27,03:50:00,17,31,91.91,Driver was polite and food was hot.
+ORD357034,New York,2023-10-26,09:00:00,18,45,17.51,Amazing and speedy delivery!
+ORD980357,New York,2023-10-26,03:31:00,29,43,104.15,Missing an item but otherwise fine.
+,Houston,2023-10-15,11:54:00,28,50,115.92,"Average experience, nothing special."
+ORD197545,Seattle,2023-10-07,23:31:00,40,42,63.14,Driver was polite and food was hot.
+ORD629979,Seattle,2023-10-05,08:45:00,32,44,22.86,"Average experience, nothing special."
+,San Francisco,2023-10-27,08:13:00,25,39,112.23,Missing an item but otherwise fine.
+ORD871073,San Francisco,2023-10-19,09:13:00,23,47,43.56,"Super fast, piping hot!"
+ORD242723,New York,2023-10-04,21:35:00,33,29,62.2,"Average experience, nothing special."
+ORD661957,Boston,2023-10-15,19:01:00,10,32,62.45,"Super fast, piping hot!"
+ORD225738,Boston,2023-10-22,14:06:00,52,57,19.23,"Terrible cold food, completely unacceptable."
+,San Francisco,2023-10-16,10:03:00,44,44,68.91,"Average experience, nothing special."
+ORD282313,Miami,2023-10-15,02:25:00,44,54,41.23,Driver was polite and food was hot.
+,New York,2023-10-22,12:41:00,32,19,21.48,"Average experience, nothing special."
+,Miami,2023-10-11,14:48:00,36,56,42.18,Food was cold but driver was nice.
+,Chicago,2023-10-04,21:55:00,17,60,61.56,Amazing and speedy delivery!
+,New York,2023-10-07,08:41:00,45,48,20.32,Food was cold but driver was nice.
+ORD859620,Houston,2023-10-27,14:51:00,10,20,55.19,"Super fast, piping hot!"
+ORD325146,Chicago,2023-10-20,22:02:00,40,21,79.48,Driver was polite and food was hot.
+ORD409440,Houston,2023-10-29,13:55:00,23,54,65.3,"Super fast, piping hot!"
+ORD243902,Chicago,2023-10-05,11:49:00,11,59,119.38,Driver was polite and food was hot.
+ORD501078,Houston,2023-10-26,05:50:00,40,53,97.05,Missing an item but otherwise fine.
+ORD626797,San Francisco,2023-10-17,03:47:00,24,57,38.0,Amazing and speedy delivery!
+,Miami,2023-10-14,06:52:00,40,41,95.52,Driver was polite and food was hot.
+ORD204998,Boston,2023-10-12,02:15:00,30,33,75.45,Food was cold but driver was nice.
+ORD979988,Chicago,2023-10-19,04:16:00,41,34,77.21,"Average experience, nothing special."
+ORD129576,Miami,2023-10-17,19:54:00,25,31,102.85,"Average experience, nothing special."
+ORD284084,New York,2023-10-23,21:39:00,16,24,20.9,"Super fast, piping hot!"
+ORD652021,Chicago,2023-10-28,21:11:00,16,27,50.78,Driver was polite and food was hot.
+ORD985296,New York,2023-10-09,13:51:00,31,20,30.51,Missing an item but otherwise fine.
+ORD987599,San Francisco,2023-10-07,22:44:00,15,44,76.53,Amazing and speedy delivery!
+ORD243079,Seattle,2023-10-16,19:37:00,27,46,98.14,"Average experience, nothing special."
+ORD282664,Boston,2023-10-23,16:10:00,24,41,38.44,Driver was polite and food was hot.
+ORD496764,Seattle,2023-10-28,07:18:00,11,37,28.37,"Super fast, piping hot!"
+ORD700660,New York,2023-10-01,13:58:00,10,30,78.25,Driver was polite and food was hot.
+ORD693022,Houston,2023-10-29,07:48:00,60,28,49.77,Very late and spilled.
+ORD435039,Boston,2023-10-05,01:00:00,45,59,91.58,Food was cold but driver was nice.
+ORD378095,Chicago,2023-10-16,18:44:00,57,23,51.8,Very late and spilled.
+ORD150486,Houston,2023-10-06,10:01:00,11,50,107.59,Amazing and speedy delivery!
+ORD206355,Boston,2023-10-17,11:39:00,46,55,83.35,"Terrible cold food, completely unacceptable."
+ORD177289,San Francisco,2023-10-11,18:24:00,31,35,114.92,Food was cold but driver was nice.
+ORD493696,Seattle,2023-10-04,21:03:00,26,23,72.44,"Average experience, nothing special."
+ORD743453,Seattle,2023-10-05,17:42:00,48,29,78.77,"Terrible cold food, completely unacceptable."
+ORD206176,Chicago,2023-10-21,06:16:00,15,31,57.97,"Super fast, piping hot!"
+ORD865433,Chicago,2023-10-26,17:15:00,10,25,20.21,"Super fast, piping hot!"
+ORD614796,New York,2023-10-27,12:32:00,24,42,15.4,Amazing and speedy delivery!
+ORD794178,New York,2023-10-05,11:43:00,17,32,32.94,Amazing and speedy delivery!
+ORD596574,San Francisco,2023-10-14,18:45:00,17,44,64.45,Amazing and speedy delivery!
+,San Francisco,2023-10-13,13:28:00,20,30,61.81,"Super fast, piping hot!"
+ORD376195,Boston,2023-10-13,11:36:00,27,36,74.25,"Average experience, nothing special."
+ORD799891,Houston,2023-10-08,09:05:00,48,56,38.89,Restaurant ignored my instructions.
+ORD958160,Miami,2023-10-04,06:37:00,42,49,75.14,Driver was polite and food was hot.
+ORD182790,Miami,2023-10-12,05:24:00,10,55,109.55,Amazing and speedy delivery!
+ORD750403,New York,2023-10-27,12:13:00,48,47,33.15,Very late and spilled.
+ORD947732,Seattle,2023-10-09,02:36:00,31,46,36.2,Food was cold but driver was nice.
+,San Francisco,2023-10-30,01:06:00,34,23,24.14,Missing an item but otherwise fine.
+ORD441968,Boston,2023-10-26,19:42:00,41,58,76.7,Food was cold but driver was nice.
+,Chicago,2023-10-20,14:19:00,15,55,76.73,Amazing and speedy delivery!
+ORD690016,Houston,2023-10-06,01:27:00,34,35,55.22,Missing an item but otherwise fine.
+ORD596025,Chicago,2023-10-23,14:24:00,10,36,57.31,Amazing and speedy delivery!
+ORD827356,Seattle,2023-10-29,15:18:00,17,34,20.18,"Super fast, piping hot!"
+ORD490532,San Francisco,2023-10-23,03:04:00,38,38,47.65,Food was cold but driver was nice.
+ORD818119,San Francisco,2023-10-23,20:59:00,54,47,96.27,Very late and spilled.
+ORD537017,Seattle,2023-10-16,02:29:00,47,24,34.73,Restaurant ignored my instructions.
+ORD526949,Boston,2023-10-11,02:54:00,28,22,69.1,Missing an item but otherwise fine.
+,Miami,2023-10-08,17:39:00,10,44,29.24,Driver was polite and food was hot.
+ORD130354,Boston,2023-10-25,08:40:00,44,22,41.2,"Average experience, nothing special."
+,Seattle,2023-10-22,06:34:00,57,31,43.77,"Terrible cold food, completely unacceptable."
+ORD766275,San Francisco,2023-10-22,15:04:00,50,50,77.37,Very late and spilled.
+ORD597635,Miami,2023-10-09,13:59:00,19,41,51.15,Driver was polite and food was hot.
+ORD822312,Chicago,2023-10-13,06:32:00,32,55,96.88,Food was cold but driver was nice.
+ORD778827,Seattle,2023-10-11,06:06:00,31,32,43.25,"Average experience, nothing special."
+ORD918207,Chicago,2023-10-20,03:18:00,52,60,33.19,"Terrible cold food, completely unacceptable."
+ORD737894,Seattle,2023-10-01,21:15:00,25,60,43.91,Missing an item but otherwise fine.
+ORD581294,Miami,2023-10-18,15:13:00,29,25,15.77,Driver was polite and food was hot.
+ORD722615,San Francisco,2023-10-18,12:46:00,46,38,86.86,Restaurant ignored my instructions.
+,San Francisco,2023-10-23,10:12:00,51,60,89.66,"Terrible cold food, completely unacceptable."
+ORD257212,New York,2023-10-31,03:35:00,28,57,57.43,"Average experience, nothing special."
+ORD856320,San Francisco,2023-10-16,01:05:00,47,45,57.48,"Terrible cold food, completely unacceptable."
+ORD699829,San Francisco,2023-10-03,02:35:00,32,33,87.06,"Average experience, nothing special."
+ORD804505,Boston,2023-10-30,13:13:00,22,54,34.02,Amazing and speedy delivery!
+ORD876909,Seattle,2023-10-05,22:37:00,39,54,95.11,Missing an item but otherwise fine.
+ORD451936,Seattle,2023-10-09,19:58:00,23,38,59.15,Amazing and speedy delivery!
+ORD714015,Houston,2023-10-16,13:54:00,21,26,64.41,"Super fast, piping hot!"
+ORD750803,New York,2023-10-30,08:56:00,58,43,70.63,Restaurant ignored my instructions.
+,Chicago,2023-10-20,07:14:00,43,31,50.98,"Average experience, nothing special."
+ORD579798,Boston,2023-10-27,09:57:00,48,24,66.2,Very late and spilled.
+ORD428638,New York,2023-10-30,05:16:00,53,19,62.47,Restaurant ignored my instructions.
+ORD276795,Chicago,2023-10-11,00:43:00,22,58,60.54,Amazing and speedy delivery!
+ORD600590,New York,2023-10-21,01:02:00,25,21,71.05,Driver was polite and food was hot.
+ORD437864,Seattle,2023-10-18,11:32:00,30,19,80.8,Food was cold but driver was nice.
+ORD461076,Chicago,2023-10-12,19:47:00,11,25,55.27,"Super fast, piping hot!"
+ORD168458,Houston,2023-10-28,07:00:00,35,52,77.62,Missing an item but otherwise fine.
+ORD820141,San Francisco,2023-10-16,21:01:00,18,50,52.72,Amazing and speedy delivery!
+ORD951452,Chicago,2023-10-10,01:49:00,21,32,92.08,Driver was polite and food was hot.
+ORD229144,Seattle,2023-10-28,08:07:00,36,60,98.17,Missing an item but otherwise fine.
+ORD368214,Seattle,2023-10-18,13:49:00,32,25,83.62,Food was cold but driver was nice.
+,Houston,2023-10-02,09:34:00,10,47,54.93,Amazing and speedy delivery!
+ORD835962,San Francisco,2023-10-26,09:47:00,43,45,84.47,Food was cold but driver was nice.
+ORD735053,Chicago,2023-10-25,04:19:00,48,45,102.22,Restaurant ignored my instructions.
+ORD747703,Houston,2023-10-06,06:36:00,35,31,78.95,Food was cold but driver was nice.
+ORD311469,Seattle,2023-10-13,11:16:00,34,45,46.01,Missing an item but otherwise fine.
+ORD317782,New York,2023-10-03,07:03:00,23,19,85.52,Amazing and speedy delivery!
+ORD801520,Chicago,2023-10-06,12:38:00,14,24,96.85,"Super fast, piping hot!"
+ORD206210,San Francisco,2023-10-04,21:59:00,47,35,63.75,"Terrible cold food, completely unacceptable."
+ORD141360,San Francisco,2023-10-06,01:02:00,17,39,59.73,"Super fast, piping hot!"
+,Seattle,2023-10-06,18:36:00,30,60,32.9,"Average experience, nothing special."
+ORD752011,Seattle,2023-10-17,18:31:00,25,24,54.13,Missing an item but otherwise fine.
+ORD520245,Seattle,2023-10-17,02:21:00,16,49,98.99,"Super fast, piping hot!"
+ORD274880,Chicago,2023-10-31,00:43:00,39,22,118.06,Food was cold but driver was nice.
+,Chicago,2023-10-08,18:07:00,44,58,54.87,Driver was polite and food was hot.
+ORD817712,Chicago,2023-10-17,19:42:00,20,49,111.64,Driver was polite and food was hot.
+ORD562094,New York,2023-10-06,15:22:00,41,52,95.59,Missing an item but otherwise fine.
+ORD334865,Miami,2023-10-27,17:52:00,33,52,87.27,Missing an item but otherwise fine.
+,Seattle,2023-10-29,15:17:00,24,60,55.41,"Super fast, piping hot!"
+ORD742686,New York,2023-10-26,21:52:00,20,60,113.11,Amazing and speedy delivery!
+ORD993251,San Francisco,2023-10-24,12:13:00,20,34,49.74,"Super fast, piping hot!"
+,Miami,2023-10-14,03:50:00,30,60,54.76,"Average experience, nothing special."
+,Boston,2023-10-12,04:41:00,11,50,61.94,Amazing and speedy delivery!
+ORD881439,New York,2023-10-06,21:40:00,36,44,58.3,Food was cold but driver was nice.
+ORD966028,Seattle,2023-10-26,20:33:00,47,38,108.46,Restaurant ignored my instructions.
+ORD804091,San Francisco,2023-10-27,02:14:00,41,42,101.66,Driver was polite and food was hot.
+ORD448098,Seattle,2023-10-11,15:30:00,10,42,90.17,"Super fast, piping hot!"
+,Chicago,2023-10-06,16:33:00,22,19,50.84,Driver was polite and food was hot.
+ORD406166,New York,2023-10-30,08:08:00,16,29,66.7,Amazing and speedy delivery!
+,Chicago,2023-10-20,02:59:00,25,26,112.67,"Average experience, nothing special."
+ORD964607,Boston,2023-10-19,09:09:00,34,45,19.88,Food was cold but driver was nice.
+ORD717413,Boston,2023-10-30,07:41:00,10,47,63.03,Amazing and speedy delivery!
+ORD241176,Miami,2023-10-28,07:42:00,31,46,103.08,Food was cold but driver was nice.
+ORD919023,Seattle,2023-10-23,11:30:00,29,56,33.23,"Average experience, nothing special."
+,Miami,2023-10-07,08:14:00,18,43,58.96,"Super fast, piping hot!"
+ORD899407,San Francisco,2023-10-29,05:12:00,12,44,116.18,Amazing and speedy delivery!
+ORD239850,Boston,2023-10-14,21:19:00,43,54,105.37,Missing an item but otherwise fine.
+ORD310647,Miami,2023-10-26,16:40:00,45,37,87.09,"Average experience, nothing special."
+ORD781664,Seattle,2023-10-07,12:55:00,39,26,94.88,Missing an item but otherwise fine.
+ORD698357,Seattle,2023-10-27,02:10:00,28,53,45.02,Driver was polite and food was hot.
+ORD648122,Seattle,2023-10-20,17:22:00,41,22,35.99,Food was cold but driver was nice.
+ORD816586,Chicago,2023-10-08,19:48:00,39,22,87.51,Missing an item but otherwise fine.
+ORD667460,Miami,2023-10-14,22:23:00,56,54,105.81,Very late and spilled.
+ORD349136,Seattle,2023-10-30,22:50:00,35,22,112.28,Missing an item but otherwise fine.
+ORD926394,New York,2023-10-19,03:19:00,42,35,36.32,Food was cold but driver was nice.
+ORD764575,Boston,2023-10-21,15:57:00,28,56,72.39,Missing an item but otherwise fine.
+ORD860127,Seattle,2023-10-28,23:04:00,42,23,34.63,"Average experience, nothing special."
+ORD225151,New York,2023-10-09,09:50:00,27,46,44.31,Driver was polite and food was hot.
+,Houston,2023-10-13,12:38:00,20,28,19.19,"Super fast, piping hot!"
+ORD911242,Miami,2023-10-16,04:24:00,24,38,66.51,Driver was polite and food was hot.
+ORD176421,Chicago,2023-10-27,13:31:00,32,52,22.16,"Average experience, nothing special."
+ORD669460,Houston,2023-10-24,11:45:00,17,24,51.69,Driver was polite and food was hot.
+ORD447148,Miami,2023-10-11,05:03:00,23,49,119.65,Driver was polite and food was hot.
+,Houston,2023-10-31,01:13:00,38,34,109.97,Missing an item but otherwise fine.
+ORD355671,Houston,2023-10-29,10:20:00,51,26,55.52,"Terrible cold food, completely unacceptable."
+ORD125905,Boston,2023-10-26,02:05:00,24,42,69.0,Driver was polite and food was hot.
+ORD145981,Miami,2023-10-24,15:41:00,23,24,114.56,"Super fast, piping hot!"
+ORD910883,Miami,2023-10-09,02:51:00,50,19,80.83,Restaurant ignored my instructions.
+ORD911159,Chicago,2023-10-11,02:14:00,35,53,102.02,Food was cold but driver was nice.
+ORD175623,Seattle,2023-10-21,07:24:00,52,28,17.49,Restaurant ignored my instructions.
+,Miami,2023-10-16,14:20:00,38,23,75.37,Missing an item but otherwise fine.
+ORD527433,Houston,2023-10-11,20:39:00,34,59,57.47,Driver was polite and food was hot.
+,Seattle,2023-10-15,21:36:00,21,58,21.64,Driver was polite and food was hot.
+,San Francisco,2023-10-28,03:39:00,13,51,26.14,Amazing and speedy delivery!
+ORD395192,Boston,2023-10-15,05:10:00,31,20,64.77,Driver was polite and food was hot.
+ORD883028,Boston,2023-10-25,18:42:00,13,53,45.97,"Super fast, piping hot!"
+,Seattle,2023-10-30,08:33:00,15,42,115.53,Driver was polite and food was hot.
+ORD682032,New York,2023-10-02,00:11:00,10,21,15.53,Amazing and speedy delivery!
+ORD674122,Chicago,2023-10-28,15:43:00,42,45,110.09,Missing an item but otherwise fine.
+,Chicago,2023-10-24,19:51:00,25,58,102.65,"Average experience, nothing special."
+,Boston,2023-10-10,08:16:00,20,54,63.43,Amazing and speedy delivery!
+,New York,2023-10-26,12:23:00,12,35,25.31,Driver was polite and food was hot.
+ORD446922,New York,2023-10-27,22:10:00,16,37,80.05,Amazing and speedy delivery!
+ORD572536,Miami,2023-10-10,07:22:00,47,38,87.81,"Terrible cold food, completely unacceptable."
+ORD482199,New York,2023-10-08,10:28:00,43,39,40.85,"Average experience, nothing special."
+ORD771967,San Francisco,2023-10-11,13:58:00,10,42,29.1,"Super fast, piping hot!"
+ORD585331,Miami,2023-10-16,14:10:00,10,25,33.46,"Super fast, piping hot!"
+,Boston,2023-10-29,02:36:00,38,27,108.59,Missing an item but otherwise fine.
+ORD757057,Boston,2023-10-10,10:34:00,35,51,81.32,Food was cold but driver was nice.
+ORD906564,New York,2023-10-27,23:35:00,32,54,42.36,"Average experience, nothing special."
+ORD912853,Chicago,2023-10-26,01:29:00,38,48,67.62,Missing an item but otherwise fine.
+ORD626560,Seattle,2023-10-05,14:55:00,42,34,104.04,Food was cold but driver was nice.
+ORD893988,Miami,2023-10-29,10:42:00,13,55,84.24,Amazing and speedy delivery!
+ORD606990,New York,2023-10-08,03:42:00,28,33,94.95,Missing an item but otherwise fine.
+,Miami,2023-10-12,01:08:00,26,42,55.75,"Average experience, nothing special."
+ORD141843,New York,2023-10-22,04:36:00,33,52,81.52,Missing an item but otherwise fine.
+ORD376106,Seattle,2023-10-13,22:44:00,12,43,53.36,"Super fast, piping hot!"
+ORD181618,San Francisco,2023-10-31,05:38:00,20,43,117.13,Driver was polite and food was hot.
+ORD470040,Miami,2023-10-11,15:28:00,35,19,67.69,Driver was polite and food was hot.
+ORD341162,Miami,2023-10-07,19:48:00,17,60,44.48,Amazing and speedy delivery!
+ORD479818,Chicago,2023-10-08,08:07:00,10,45,100.17,Driver was polite and food was hot.
+ORD602073,Chicago,2023-10-06,15:48:00,13,56,31.93,"Super fast, piping hot!"
+,Chicago,2023-10-20,04:49:00,48,59,68.83,Very late and spilled.
+,San Francisco,2023-10-27,13:05:00,35,30,69.25,"Average experience, nothing special."
+ORD690982,Seattle,2023-10-19,22:52:00,10,37,114.46,Driver was polite and food was hot.
+ORD594312,Chicago,2023-10-11,08:35:00,10,33,102.19,"Super fast, piping hot!"
+,Seattle,2023-10-28,20:17:00,10,51,42.77,Driver was polite and food was hot.
+ORD725510,New York,2023-10-17,02:18:00,17,33,54.71,Driver was polite and food was hot.
+,Boston,2023-10-07,12:25:00,38,28,78.58,Driver was polite and food was hot.
+ORD744610,New York,2023-10-09,13:48:00,58,53,67.85,Restaurant ignored my instructions.
+,Boston,2023-10-06,20:22:00,12,19,109.18,Driver was polite and food was hot.
+ORD541119,Boston,2023-10-31,01:09:00,10,21,88.25,"Super fast, piping hot!"
+ORD941272,Miami,2023-10-21,00:33:00,10,55,25.26,"Super fast, piping hot!"
+ORD903061,Boston,2023-10-07,14:15:00,32,24,44.74,"Average experience, nothing special."
+ORD298202,Miami,2023-10-26,05:54:00,54,52,27.37,Very late and spilled.
+ORD315397,Houston,2023-10-01,19:52:00,30,42,26.19,Missing an item but otherwise fine.
+ORD365953,Miami,2023-10-20,21:24:00,28,36,119.14,Missing an item but otherwise fine.
+ORD533301,Boston,2023-10-19,14:08:00,48,54,65.66,Restaurant ignored my instructions.
+ORD607259,Boston,2023-10-18,08:23:00,29,44,92.26,Missing an item but otherwise fine.
+ORD568288,New York,2023-10-06,22:05:00,42,32,68.38,"Average experience, nothing special."
+ORD743852,Houston,2023-10-16,21:40:00,22,59,15.56,Amazing and speedy delivery!
+ORD594580,Houston,2023-10-05,15:30:00,10,24,21.73,Driver was polite and food was hot.
+ORD738613,Miami,2023-10-11,14:14:00,44,60,69.71,Driver was polite and food was hot.
+,Seattle,2023-10-28,16:36:00,33,50,61.09,"Average experience, nothing special."
+ORD942960,Miami,2023-10-10,16:20:00,20,52,88.34,Driver was polite and food was hot.
+ORD137812,Chicago,2023-10-29,11:58:00,28,60,15.03,Missing an item but otherwise fine.
+,Houston,2023-10-08,15:59:00,27,56,36.03,Driver was polite and food was hot.
+ORD171950,Miami,2023-10-02,04:48:00,44,37,91.24,Food was cold but driver was nice.
+ORD465004,Miami,2023-10-26,22:43:00,14,31,62.75,Amazing and speedy delivery!
+ORD373791,Houston,2023-10-19,21:14:00,52,51,26.18,Very late and spilled.
+ORD456480,Miami,2023-10-04,19:04:00,55,55,41.26,"Terrible cold food, completely unacceptable."
+ORD690525,Boston,2023-10-21,15:38:00,21,34,94.53,"Super fast, piping hot!"
+ORD715332,New York,2023-10-22,09:12:00,41,43,81.53,Missing an item but otherwise fine.
+ORD341099,Houston,2023-10-11,12:43:00,16,41,69.23,"Super fast, piping hot!"
+ORD376142,New York,2023-10-01,22:38:00,30,54,112.8,Missing an item but otherwise fine.
+ORD329183,Chicago,2023-10-23,04:32:00,36,31,67.39,Missing an item but otherwise fine.
+ORD353814,Boston,2023-10-10,14:06:00,37,34,102.82,"Average experience, nothing special."
+ORD211871,New York,2023-10-17,16:53:00,22,50,79.45,Amazing and speedy delivery!
+ORD989203,Miami,2023-10-26,03:27:00,10,36,66.53,"Super fast, piping hot!"
+ORD332881,New York,2023-10-24,18:18:00,32,52,98.92,"Average experience, nothing special."
+ORD134144,Boston,2023-10-23,06:28:00,14,30,63.01,Driver was polite and food was hot.
+ORD582418,Seattle,2023-10-06,23:29:00,29,19,16.24,Missing an item but otherwise fine.
+ORD205641,Chicago,2023-10-11,02:12:00,20,54,42.6,"Super fast, piping hot!"
+ORD742865,San Francisco,2023-10-13,18:16:00,48,30,67.37,"Terrible cold food, completely unacceptable."
+ORD888734,Houston,2023-10-11,01:58:00,10,30,75.0,"Super fast, piping hot!"
+ORD953740,Seattle,2023-10-27,17:02:00,51,36,99.43,Very late and spilled.
+ORD499385,Houston,2023-10-26,18:35:00,38,19,33.54,"Average experience, nothing special."
+,Miami,2023-10-24,05:42:00,55,53,90.66,Restaurant ignored my instructions.
+ORD689444,Seattle,2023-10-23,15:32:00,32,29,21.3,Food was cold but driver was nice.
+ORD760458,Houston,2023-10-13,01:46:00,26,40,42.28,Food was cold but driver was nice.
+ORD949363,San Francisco,2023-10-17,21:34:00,29,57,35.89,Food was cold but driver was nice.
+ORD664593,Boston,2023-10-27,17:02:00,32,37,52.29,"Average experience, nothing special."
+ORD872303,San Francisco,2023-10-24,17:33:00,24,48,81.33,Driver was polite and food was hot.
+ORD771697,Houston,2023-10-08,02:13:00,31,59,79.29,Missing an item but otherwise fine.
+ORD174809,San Francisco,2023-10-19,22:08:00,42,60,45.59,Missing an item but otherwise fine.
+ORD514664,Houston,2023-10-13,16:10:00,36,42,93.53,Missing an item but otherwise fine.
+ORD534098,Seattle,2023-10-25,05:01:00,44,34,84.51,"Average experience, nothing special."
+ORD516332,New York,2023-10-05,03:28:00,55,23,113.36,Very late and spilled.
+ORD127645,New York,2023-10-23,00:51:00,32,35,79.9,Food was cold but driver was nice.
+ORD508783,Chicago,2023-10-05,08:06:00,11,34,92.45,"Super fast, piping hot!"
+ORD237654,Seattle,2023-10-21,16:03:00,20,41,105.34,Amazing and speedy delivery!
+ORD589887,Miami,2023-10-16,07:13:00,28,47,29.19,Missing an item but otherwise fine.
+ORD726612,Houston,2023-10-26,01:03:00,10,52,82.18,Driver was polite and food was hot.
+ORD464032,Miami,2023-10-25,19:03:00,36,33,99.49,Driver was polite and food was hot.
+ORD532227,Miami,2023-10-21,14:38:00,29,27,51.11,Food was cold but driver was nice.
+ORD821179,Boston,2023-10-22,20:30:00,42,49,46.46,Driver was polite and food was hot.
+ORD726003,Chicago,2023-10-21,02:10:00,30,45,107.63,Missing an item but otherwise fine.
+ORD271200,Boston,2023-10-21,09:27:00,31,43,38.16,Driver was polite and food was hot.
+ORD351198,Boston,2023-10-05,02:32:00,10,36,44.89,Driver was polite and food was hot.
+ORD532961,Boston,2023-10-25,17:02:00,27,23,34.15,"Average experience, nothing special."
+,Miami,2023-10-14,16:19:00,14,50,34.72,Driver was polite and food was hot.
+ORD660957,Chicago,2023-10-02,09:12:00,34,25,44.62,Food was cold but driver was nice.
+ORD862427,Houston,2023-10-07,04:35:00,36,32,50.9,Food was cold but driver was nice.
+ORD622605,Houston,2023-10-15,16:20:00,30,21,49.68,Missing an item but otherwise fine.
+,Chicago,2023-10-08,03:35:00,30,31,109.05,Driver was polite and food was hot.
+ORD968485,New York,2023-10-12,21:10:00,24,34,55.4,Amazing and speedy delivery!
+ORD135138,Miami,2023-10-21,15:50:00,37,32,64.65,Food was cold but driver was nice.
+ORD266316,Seattle,2023-10-15,16:55:00,53,21,93.2,Restaurant ignored my instructions.
+ORD365617,New York,2023-10-26,12:18:00,17,32,117.19,"Super fast, piping hot!"
+ORD440277,Chicago,2023-10-12,05:45:00,31,36,76.39,Food was cold but driver was nice.
+ORD109363,Houston,2023-10-19,12:20:00,49,57,31.27,Restaurant ignored my instructions.
+ORD624203,Seattle,2023-10-05,13:45:00,26,58,50.53,Food was cold but driver was nice.
+,Boston,2023-10-29,22:49:00,24,25,28.21,Driver was polite and food was hot.
+ORD685472,Boston,2023-10-12,02:09:00,36,47,91.98,Missing an item but otherwise fine.
+ORD475565,Houston,2023-10-02,11:20:00,28,47,73.7,Food was cold but driver was nice.
+ORD298994,Chicago,2023-10-26,04:49:00,18,53,51.5,Driver was polite and food was hot.
+ORD971733,New York,2023-10-22,19:37:00,10,52,31.28,Amazing and speedy delivery!
+ORD667915,Houston,2023-10-14,22:58:00,12,19,96.47,"Super fast, piping hot!"
+ORD294546,Boston,2023-10-24,12:39:00,45,58,40.07,Missing an item but otherwise fine.
+ORD665136,Chicago,2023-10-04,09:12:00,16,52,86.74,"Super fast, piping hot!"
+ORD396882,New York,2023-10-26,14:21:00,20,52,84.18,Amazing and speedy delivery!
+ORD236078,Boston,2023-10-03,11:49:00,49,21,36.22,Very late and spilled.
+ORD133362,Houston,2023-10-23,14:10:00,10,52,80.52,Driver was polite and food was hot.
+ORD484150,Miami,2023-10-28,08:46:00,17,23,16.37,Amazing and speedy delivery!
+ORD972496,San Francisco,2023-10-11,00:00:00,53,54,93.07,Very late and spilled.
+ORD932831,Boston,2023-10-20,10:20:00,42,58,42.91,Food was cold but driver was nice.
+ORD974991,New York,2023-10-03,08:25:00,18,25,91.14,Driver was polite and food was hot.
+ORD302500,Seattle,2023-10-25,16:43:00,64,34,74.85,Restaurant ignored my instructions.
+ORD685253,Miami,2023-10-09,15:25:00,23,41,85.82,Driver was polite and food was hot.
+ORD274912,Miami,2023-10-20,22:29:00,33,44,67.99,"Average experience, nothing special."
+ORD729057,Miami,2023-10-31,10:13:00,16,39,103.71,"Super fast, piping hot!"
+ORD551504,Miami,2023-10-20,06:24:00,34,34,74.13,Missing an item but otherwise fine.
+ORD676967,Houston,2023-10-11,05:40:00,40,44,15.02,Driver was polite and food was hot.
+ORD724702,Miami,2023-10-03,01:52:00,24,27,119.31,Amazing and speedy delivery!
+,New York,2023-10-15,05:42:00,40,36,111.51,Missing an item but otherwise fine.
+ORD699378,New York,2023-10-24,18:27:00,28,21,63.34,"Average experience, nothing special."
+,San Francisco,2023-10-08,14:31:00,16,38,24.65,Amazing and speedy delivery!
+ORD327999,Seattle,2023-10-19,16:42:00,44,39,98.25,Food was cold but driver was nice.
+ORD823092,Miami,2023-10-09,08:52:00,21,60,46.54,Amazing and speedy delivery!
+ORD918017,Boston,2023-10-27,17:28:00,10,40,51.53,Amazing and speedy delivery!
+ORD226395,Seattle,2023-10-21,06:23:00,37,59,55.16,Food was cold but driver was nice.
+ORD434827,Miami,2023-10-15,08:55:00,22,28,49.32,Driver was polite and food was hot.
+ORD806357,Boston,2023-10-11,13:11:00,28,57,75.4,Driver was polite and food was hot.
+ORD403859,Chicago,2023-10-05,14:24:00,15,27,50.3,"Super fast, piping hot!"
+ORD151706,Miami,2023-10-23,03:46:00,18,46,96.25,"Super fast, piping hot!"
+ORD604283,Houston,2023-10-07,10:25:00,26,44,83.49,"Average experience, nothing special."
+ORD871403,Boston,2023-10-10,10:12:00,18,46,48.96,"Super fast, piping hot!"
+,Houston,2023-10-27,17:10:00,28,42,51.57,Driver was polite and food was hot.
+ORD787247,Miami,2023-10-16,02:20:00,42,47,80.43,Missing an item but otherwise fine.
+,Chicago,2023-10-21,13:07:00,31,42,31.38,"Average experience, nothing special."
+,Boston,2023-10-05,09:44:00,64,37,16.44,Very late and spilled.
+ORD594078,San Francisco,2023-10-06,13:33:00,42,32,92.7,Food was cold but driver was nice.
+ORD648684,Seattle,2023-10-11,03:26:00,30,20,54.54,"Average experience, nothing special."
+,New York,2023-10-25,11:25:00,11,37,36.07,Amazing and speedy delivery!
+ORD587546,Seattle,2023-10-29,14:59:00,28,36,84.61,Driver was polite and food was hot.
+ORD120005,Boston,2023-10-17,21:28:00,28,60,55.58,Missing an item but otherwise fine.
+ORD844162,Chicago,2023-10-18,19:50:00,40,31,67.57,Food was cold but driver was nice.
+ORD847078,New York,2023-10-22,08:15:00,37,34,111.84,Food was cold but driver was nice.
+ORD512509,San Francisco,2023-10-15,09:04:00,29,59,46.74,Missing an item but otherwise fine.
+ORD165021,Houston,2023-10-24,07:31:00,27,20,114.13,Missing an item but otherwise fine.
+ORD458388,Seattle,2023-10-14,06:03:00,47,43,69.68,Very late and spilled.
+ORD819871,Houston,2023-10-29,08:58:00,16,34,75.15,Amazing and speedy delivery!
+ORD734775,Seattle,2023-10-20,21:49:00,21,27,76.01,Amazing and speedy delivery!
+ORD424008,Seattle,2023-10-10,16:59:00,46,52,110.5,Restaurant ignored my instructions.
+ORD907455,San Francisco,2023-10-21,01:45:00,51,23,73.52,Very late and spilled.
+ORD980303,Seattle,2023-10-06,21:19:00,57,20,95.37,Very late and spilled.
+ORD418083,Seattle,2023-10-20,08:15:00,10,36,30.96,Driver was polite and food was hot.
+,New York,2023-10-10,01:17:00,42,58,79.78,"Average experience, nothing special."
+ORD342128,San Francisco,2023-10-29,01:29:00,21,24,87.25,Amazing and speedy delivery!
+,Houston,2023-10-23,04:35:00,23,60,54.27,Driver was polite and food was hot.
+ORD244192,Boston,2023-10-19,03:13:00,35,19,112.17,Driver was polite and food was hot.
+ORD803950,Boston,2023-10-20,07:10:00,39,32,21.94,"Average experience, nothing special."
+ORD613742,Houston,2023-10-21,11:49:00,18,44,96.5,Amazing and speedy delivery!
+ORD498851,San Francisco,2023-10-29,04:02:00,10,44,79.21,Driver was polite and food was hot.
+ORD650744,Miami,2023-10-27,12:43:00,15,25,62.42,Amazing and speedy delivery!
+ORD357657,Miami,2023-10-03,10:20:00,11,44,118.3,Driver was polite and food was hot.
+ORD641198,San Francisco,2023-10-03,06:53:00,33,47,56.79,"Average experience, nothing special."
+ORD399803,Chicago,2023-10-15,08:40:00,10,46,45.91,"Super fast, piping hot!"
+ORD249149,Seattle,2023-10-03,23:35:00,10,51,26.88,Amazing and speedy delivery!
+ORD829928,Houston,2023-10-28,03:28:00,34,45,48.96,"Average experience, nothing special."
+ORD718990,New York,2023-10-02,15:13:00,55,35,49.03,"Terrible cold food, completely unacceptable."
+ORD935176,Seattle,2023-10-31,00:26:00,10,26,24.58,Amazing and speedy delivery!
+ORD189450,Miami,2023-10-21,22:52:00,15,29,54.76,Driver was polite and food was hot.
+,San Francisco,2023-10-18,19:44:00,27,55,106.49,"Average experience, nothing special."
+ORD251631,San Francisco,2023-10-08,07:57:00,40,38,91.67,Driver was polite and food was hot.
+ORD289473,Chicago,2023-10-21,19:26:00,51,31,15.37,Very late and spilled.
+,Miami,2023-10-13,00:28:00,12,50,39.98,Amazing and speedy delivery!
+ORD575779,Houston,2023-10-28,07:12:00,30,24,78.13,Driver was polite and food was hot.
+ORD673929,New York,2023-10-01,19:11:00,26,30,30.57,"Average experience, nothing special."
+ORD252436,Seattle,2023-10-31,05:34:00,50,55,102.99,Very late and spilled.
+ORD191962,Chicago,2023-10-15,01:59:00,44,37,79.16,"Average experience, nothing special."
+ORD689485,Houston,2023-10-28,13:52:00,34,56,52.82,"Average experience, nothing special."
+,Boston,2023-10-03,03:09:00,25,23,94.64,Driver was polite and food was hot.
+,Chicago,2023-10-26,13:16:00,43,26,87.94,Driver was polite and food was hot.
+ORD533856,New York,2023-10-13,23:45:00,10,25,74.99,Driver was polite and food was hot.
+ORD191928,Seattle,2023-10-30,03:01:00,26,57,113.06,Driver was polite and food was hot.
+ORD988980,San Francisco,2023-10-14,13:42:00,22,27,79.5,Driver was polite and food was hot.
+ORD762550,Houston,2023-10-24,02:12:00,46,30,107.78,"Terrible cold food, completely unacceptable."
+ORD302957,Seattle,2023-10-12,02:12:00,33,32,98.95,Food was cold but driver was nice.
+ORD450006,Miami,2023-10-20,08:54:00,30,59,37.3,Missing an item but otherwise fine.
+ORD395307,Miami,2023-10-30,15:44:00,29,54,49.01,Missing an item but otherwise fine.
+,San Francisco,2023-10-01,18:42:00,35,44,91.06,Missing an item but otherwise fine.
+ORD972460,Seattle,2023-10-29,12:50:00,36,49,111.2,Missing an item but otherwise fine.
+ORD604884,Seattle,2023-10-03,02:51:00,41,48,108.67,"Average experience, nothing special."
+ORD584935,Boston,2023-10-25,22:31:00,33,52,46.43,Food was cold but driver was nice.
+ORD119627,Miami,2023-10-15,20:37:00,14,40,98.95,Amazing and speedy delivery!
+,Houston,2023-10-17,14:14:00,47,59,71.1,"Terrible cold food, completely unacceptable."
+ORD508489,Miami,2023-10-09,01:17:00,53,26,105.78,Very late and spilled.
+ORD429776,Houston,2023-10-15,12:44:00,27,34,54.02,Food was cold but driver was nice.
+ORD417003,New York,2023-10-15,06:34:00,18,42,97.42,Amazing and speedy delivery!
+ORD565330,Chicago,2023-10-10,16:45:00,10,31,50.71,Driver was polite and food was hot.
+ORD649063,Boston,2023-10-23,12:05:00,28,39,30.05,Missing an item but otherwise fine.
+ORD641218,Houston,2023-10-05,23:20:00,26,43,89.94,Food was cold but driver was nice.
+,New York,2023-10-25,06:33:00,22,57,106.55,"Super fast, piping hot!"
+ORD148381,San Francisco,2023-10-16,16:03:00,50,20,75.64,Restaurant ignored my instructions.
+ORD320039,Chicago,2023-10-15,16:57:00,45,31,45.09,Missing an item but otherwise fine.
+ORD562543,San Francisco,2023-10-25,17:24:00,24,26,16.6,Amazing and speedy delivery!
+ORD207348,Miami,2023-10-29,20:26:00,19,41,72.68,Amazing and speedy delivery!
+,Chicago,2023-10-13,20:04:00,26,23,47.69,"Average experience, nothing special."
+ORD153190,New York,2023-10-16,22:00:00,18,49,109.85,Amazing and speedy delivery!
+,Seattle,2023-10-03,19:07:00,44,57,108.58,"Average experience, nothing special."
+ORD833337,Miami,2023-10-30,03:33:00,35,41,47.81,Driver was polite and food was hot.
+ORD803458,Miami,2023-10-10,12:26:00,32,27,24.76,Driver was polite and food was hot.
+,Seattle,2023-10-22,19:29:00,24,60,89.57,"Super fast, piping hot!"
+ORD334665,San Francisco,2023-10-22,16:21:00,49,44,34.25,"Terrible cold food, completely unacceptable."
+ORD440536,Houston,2023-10-16,12:49:00,55,20,21.86,"Terrible cold food, completely unacceptable."
+ORD583646,Miami,2023-10-06,15:19:00,36,55,28.38,Missing an item but otherwise fine.
+ORD848969,San Francisco,2023-10-06,04:26:00,19,54,83.19,Amazing and speedy delivery!
+ORD520286,Miami,2023-10-15,06:00:00,20,29,117.26,Amazing and speedy delivery!
+,Boston,2023-10-18,23:14:00,24,56,60.27,Amazing and speedy delivery!
+ORD458823,Seattle,2023-10-21,07:32:00,19,23,92.63,Driver was polite and food was hot.
+ORD219876,San Francisco,2023-10-27,15:11:00,26,54,25.25,Driver was polite and food was hot.
+ORD525505,San Francisco,2023-10-21,18:18:00,36,50,82.72,Driver was polite and food was hot.
+,Miami,2023-10-04,07:10:00,33,59,100.03,"Average experience, nothing special."
+ORD574978,Houston,2023-10-08,04:16:00,15,31,36.59,Driver was polite and food was hot.
+ORD932932,Houston,2023-10-15,21:49:00,27,41,118.98,Missing an item but otherwise fine.
+,Boston,2023-10-28,00:30:00,45,37,21.55,"Average experience, nothing special."
+ORD100884,New York,2023-10-26,11:32:00,28,37,105.9,Missing an item but otherwise fine.
+ORD718831,Houston,2023-10-12,04:57:00,19,43,60.69,"Super fast, piping hot!"
+ORD597938,Chicago,2023-10-11,02:43:00,38,54,55.38,"Average experience, nothing special."
+ORD261760,Chicago,2023-10-17,21:32:00,22,19,22.53,Amazing and speedy delivery!
+,Seattle,2023-10-02,05:10:00,59,46,117.37,"Terrible cold food, completely unacceptable."
+,Boston,2023-10-07,16:19:00,20,57,112.68,"Super fast, piping hot!"
+ORD634160,Miami,2023-10-29,20:46:00,17,47,55.4,"Super fast, piping hot!"
+ORD733941,Chicago,2023-10-11,18:35:00,47,51,43.27,Restaurant ignored my instructions.
+ORD135087,Miami,2023-10-26,08:34:00,30,49,89.01,Food was cold but driver was nice.
+ORD824038,Boston,2023-10-06,15:37:00,51,36,63.82,Restaurant ignored my instructions.
+ORD739705,Chicago,2023-10-05,01:28:00,41,49,81.22,Food was cold but driver was nice.
+ORD665389,San Francisco,2023-10-05,01:18:00,33,53,96.75,Food was cold but driver was nice.
+ORD592025,Seattle,2023-10-22,20:08:00,17,40,59.21,Driver was polite and food was hot.
+ORD137042,Seattle,2023-10-14,21:49:00,23,55,42.35,"Super fast, piping hot!"
+ORD277292,New York,2023-10-30,03:22:00,10,37,99.93,Driver was polite and food was hot.
+,Boston,2023-10-29,21:56:00,22,36,41.47,Amazing and speedy delivery!
+ORD999529,New York,2023-10-29,12:37:00,30,26,78.4,Missing an item but otherwise fine.
+ORD791174,Boston,2023-10-28,10:23:00,10,34,65.92,"Super fast, piping hot!"
+ORD459502,Chicago,2023-10-25,12:03:00,38,57,113.06,Food was cold but driver was nice.
+ORD889327,Seattle,2023-10-08,12:23:00,55,47,91.23,Very late and spilled.
+ORD870033,New York,2023-10-09,02:44:00,28,60,42.76,Missing an item but otherwise fine.
+,Seattle,2023-10-06,18:42:00,13,53,39.53,"Super fast, piping hot!"
+ORD252200,New York,2023-10-19,06:04:00,33,37,112.36,Driver was polite and food was hot.
+ORD431023,New York,2023-10-21,22:14:00,52,53,81.93,Very late and spilled.
+ORD783740,San Francisco,2023-10-21,03:38:00,24,36,43.04,"Super fast, piping hot!"
+ORD712553,Chicago,2023-10-05,23:21:00,10,56,95.9,Driver was polite and food was hot.
+ORD823809,San Francisco,2023-10-25,03:56:00,46,54,16.11,Very late and spilled.
+ORD112542,Houston,2023-10-01,21:16:00,14,41,38.04,Driver was polite and food was hot.
+ORD135695,Miami,2023-10-14,09:27:00,39,24,20.97,Food was cold but driver was nice.
+ORD976042,Seattle,2023-10-28,12:58:00,34,26,24.07,Food was cold but driver was nice.
+,Boston,2023-10-29,00:29:00,49,60,74.44,Restaurant ignored my instructions.
+ORD829445,Seattle,2023-10-09,21:49:00,35,48,111.88,Food was cold but driver was nice.
+ORD825846,San Francisco,2023-10-14,01:54:00,41,29,96.98,Missing an item but otherwise fine.
+ORD501393,Boston,2023-10-14,02:53:00,10,35,33.68,"Super fast, piping hot!"
+ORD310416,Houston,2023-10-04,15:49:00,62,30,82.78,Restaurant ignored my instructions.
+,Houston,2023-10-06,10:27:00,31,35,25.85,Food was cold but driver was nice.
+,San Francisco,2023-10-04,19:39:00,19,47,16.97,Driver was polite and food was hot.
+,Houston,2023-10-24,03:38:00,10,36,30.92,Driver was polite and food was hot.
+ORD702553,Miami,2023-10-16,12:16:00,10,50,65.2,Amazing and speedy delivery!
+ORD918871,New York,2023-10-19,21:11:00,32,43,115.19,"Average experience, nothing special."
+,San Francisco,2023-10-23,10:33:00,24,40,86.59,Driver was polite and food was hot.
+,Miami,2023-10-19,17:35:00,51,40,23.45,"Terrible cold food, completely unacceptable."
+ORD404043,Chicago,2023-10-22,10:03:00,29,54,19.13,"Average experience, nothing special."
+ORD413388,Seattle,2023-10-18,23:37:00,19,41,66.08,Driver was polite and food was hot.
+ORD298667,New York,2023-10-30,07:11:00,10,31,17.66,Amazing and speedy delivery!
+ORD507652,Houston,2023-10-28,11:40:00,47,53,116.32,"Terrible cold food, completely unacceptable."
+ORD117215,San Francisco,2023-10-21,22:46:00,37,22,50.46,Food was cold but driver was nice.
+ORD321960,Seattle,2023-10-03,10:46:00,37,53,30.64,Driver was polite and food was hot.
+ORD175532,Seattle,2023-10-27,20:49:00,10,28,66.33,Amazing and speedy delivery!
+ORD748410,New York,2023-10-02,08:50:00,52,30,81.43,Very late and spilled.
+ORD202018,Miami,2023-10-15,11:42:00,36,29,102.71,Driver was polite and food was hot.
+ORD211496,New York,2023-10-04,09:52:00,45,31,59.75,"Average experience, nothing special."
+ORD817318,San Francisco,2023-10-19,19:07:00,43,32,95.24,"Average experience, nothing special."
+ORD166292,Chicago,2023-10-28,11:49:00,36,42,73.11,Driver was polite and food was hot.
+ORD710256,Chicago,2023-10-21,11:09:00,35,25,98.06,Food was cold but driver was nice.
+ORD915437,New York,2023-10-30,06:32:00,46,19,33.84,Very late and spilled.
+ORD722571,Houston,2023-10-05,13:22:00,55,49,87.7,"Terrible cold food, completely unacceptable."
+,Chicago,2023-10-10,21:11:00,27,58,87.63,"Average experience, nothing special."
+ORD624170,New York,2023-10-28,15:18:00,46,59,101.78,Restaurant ignored my instructions.
+ORD104792,New York,2023-10-15,05:00:00,20,58,53.0,Driver was polite and food was hot.
+ORD586765,San Francisco,2023-10-26,01:32:00,26,22,35.34,"Average experience, nothing special."
+ORD597457,New York,2023-10-08,07:00:00,21,60,53.24,Amazing and speedy delivery!
+ORD450533,New York,2023-10-11,00:56:00,30,25,92.74,Driver was polite and food was hot.
+ORD923648,Chicago,2023-10-25,22:57:00,47,47,77.23,Very late and spilled.
+ORD883377,Chicago,2023-10-16,08:03:00,33,26,49.24,Missing an item but otherwise fine.
+ORD532637,New York,2023-10-05,23:07:00,39,49,76.43,"Average experience, nothing special."
+ORD251981,Miami,2023-10-03,23:22:00,19,48,33.7,Amazing and speedy delivery!
+,Chicago,2023-10-18,11:57:00,26,40,28.36,Missing an item but otherwise fine.
+,New York,2023-10-27,09:09:00,10,48,63.15,Amazing and speedy delivery!
+ORD330533,Miami,2023-10-09,07:00:00,45,54,104.78,"Average experience, nothing special."
+ORD647114,Boston,2023-10-05,10:28:00,16,32,77.12,"Super fast, piping hot!"
+ORD865479,San Francisco,2023-10-22,13:28:00,10,46,75.84,Amazing and speedy delivery!
+ORD701568,Houston,2023-10-28,10:23:00,43,21,19.21,Food was cold but driver was nice.
+ORD628709,Boston,2023-10-22,22:05:00,48,25,62.51,"Terrible cold food, completely unacceptable."
+,Seattle,2023-10-12,10:43:00,33,45,114.74,Food was cold but driver was nice.
+ORD350675,Seattle,2023-10-07,12:58:00,26,38,31.99,Driver was polite and food was hot.
+ORD883586,New York,2023-10-22,09:40:00,24,48,63.69,Driver was polite and food was hot.
+ORD525051,Seattle,2023-10-07,19:25:00,42,59,15.14,Driver was polite and food was hot.
+,San Francisco,2023-10-30,01:12:00,57,52,18.43,Restaurant ignored my instructions.
+ORD831963,Boston,2023-10-20,21:12:00,47,24,80.15,Very late and spilled.
+ORD157474,Seattle,2023-10-16,18:41:00,23,42,108.24,Driver was polite and food was hot.
+ORD587957,Seattle,2023-10-06,13:13:00,19,54,89.01,Amazing and speedy delivery!
+ORD314656,San Francisco,2023-10-27,00:30:00,20,34,71.66,Amazing and speedy delivery!
+ORD888819,Boston,2023-10-31,00:56:00,10,33,48.65,Amazing and speedy delivery!
+ORD543473,New York,2023-10-13,16:02:00,11,23,54.15,"Super fast, piping hot!"
+ORD652266,Houston,2023-10-22,02:10:00,38,58,53.66,Missing an item but otherwise fine.
+ORD580115,New York,2023-10-04,11:41:00,15,44,109.28,Amazing and speedy delivery!
+ORD180685,Houston,2023-10-14,14:59:00,39,28,106.87,"Average experience, nothing special."
+ORD123792,Houston,2023-10-25,04:44:00,37,53,112.83,Missing an item but otherwise fine.
+ORD565420,New York,2023-10-23,01:38:00,29,20,106.54,"Average experience, nothing special."
+ORD644861,Houston,2023-10-12,01:46:00,26,56,50.99,Missing an item but otherwise fine.
+ORD609763,Houston,2023-10-30,21:40:00,10,48,46.93,Driver was polite and food was hot.
+ORD421383,Boston,2023-10-07,12:08:00,17,35,38.81,Amazing and speedy delivery!
+ORD907141,Houston,2023-10-18,10:13:00,34,29,79.96,Missing an item but otherwise fine.
+ORD399102,Chicago,2023-10-08,19:38:00,22,28,31.93,Amazing and speedy delivery!
+,San Francisco,2023-10-06,19:43:00,26,30,36.54,Missing an item but otherwise fine.
+ORD460549,San Francisco,2023-10-03,01:54:00,37,47,71.69,"Average experience, nothing special."
+ORD227391,Boston,2023-10-08,21:36:00,43,28,114.52,Driver was polite and food was hot.
+ORD874368,Miami,2023-10-16,01:46:00,22,40,82.96,Driver was polite and food was hot.
+ORD403905,Seattle,2023-10-14,22:50:00,54,28,98.96,Restaurant ignored my instructions.
+ORD217771,New York,2023-10-21,14:54:00,25,27,86.19,Driver was polite and food was hot.
+ORD521139,New York,2023-10-06,19:40:00,22,39,20.78,"Super fast, piping hot!"
+ORD652005,Boston,2023-10-30,16:30:00,22,36,35.55,Amazing and speedy delivery!
+ORD567096,Houston,2023-10-05,07:19:00,13,31,66.5,Driver was polite and food was hot.
+ORD158770,San Francisco,2023-10-28,22:50:00,10,44,30.53,Driver was polite and food was hot.
+ORD490941,Houston,2023-10-20,23:06:00,43,54,24.2,Missing an item but otherwise fine.
+ORD535798,San Francisco,2023-10-21,17:13:00,31,29,99.6,Driver was polite and food was hot.
+ORD534313,Chicago,2023-10-20,18:57:00,42,32,46.84,Food was cold but driver was nice.
+ORD169327,New York,2023-10-25,09:47:00,45,19,57.99,Driver was polite and food was hot.
+ORD682813,Chicago,2023-10-13,22:33:00,11,30,102.39,Amazing and speedy delivery!
+ORD144284,Boston,2023-10-14,16:11:00,34,56,46.91,Missing an item but otherwise fine.
+ORD335426,San Francisco,2023-10-26,22:54:00,31,59,102.6,Missing an item but otherwise fine.
+,Houston,2023-10-23,00:09:00,30,30,66.65,Missing an item but otherwise fine.
+ORD225152,Miami,2023-10-30,20:17:00,31,42,76.01,Food was cold but driver was nice.
+ORD370439,Seattle,2023-10-27,05:46:00,12,49,117.3,Driver was polite and food was hot.
+ORD868561,Miami,2023-10-06,22:38:00,10,22,30.34,Amazing and speedy delivery!
+ORD242079,Chicago,2023-10-22,11:35:00,16,22,43.63,"Super fast, piping hot!"
+ORD473276,Miami,2023-10-20,14:14:00,41,31,95.48,Food was cold but driver was nice.
+ORD727847,Miami,2023-10-09,20:10:00,33,39,106.61,"Average experience, nothing special."
+ORD831871,Boston,2023-10-15,04:52:00,27,28,16.35,Missing an item but otherwise fine.
+ORD916639,Houston,2023-10-25,01:59:00,23,40,111.7,"Super fast, piping hot!"
+,Boston,2023-10-08,22:05:00,35,54,79.41,"Average experience, nothing special."
+ORD847159,Houston,2023-10-25,10:10:00,38,48,111.18,Food was cold but driver was nice.
+ORD118223,Chicago,2023-10-06,19:20:00,17,47,108.42,"Super fast, piping hot!"
+ORD458660,Seattle,2023-10-28,16:48:00,31,38,18.02,"Average experience, nothing special."
+ORD998435,Chicago,2023-10-06,21:33:00,22,32,28.67,"Super fast, piping hot!"
+ORD900088,New York,2023-10-05,01:52:00,10,20,96.34,Amazing and speedy delivery!
+,Miami,2023-10-21,03:03:00,50,22,64.25,Restaurant ignored my instructions.
+,Seattle,2023-10-13,00:22:00,46,19,94.23,"Terrible cold food, completely unacceptable."
+ORD315378,San Francisco,2023-10-07,03:13:00,21,20,24.53,Driver was polite and food was hot.
+ORD464733,Chicago,2023-10-14,02:59:00,24,51,96.98,"Super fast, piping hot!"
+ORD697935,Miami,2023-10-29,09:31:00,55,32,90.16,Very late and spilled.
+ORD890645,Seattle,2023-10-14,07:52:00,41,25,112.04,Food was cold but driver was nice.
+ORD597775,Seattle,2023-10-24,10:43:00,16,25,33.99,"Super fast, piping hot!"
+ORD544692,Miami,2023-10-17,15:34:00,44,33,57.8,"Average experience, nothing special."
+,Seattle,2023-10-15,19:17:00,36,37,73.5,Missing an item but otherwise fine.
+,New York,2023-10-03,08:22:00,35,43,44.78,Driver was polite and food was hot.
+ORD820420,Houston,2023-10-28,19:48:00,46,37,118.42,Restaurant ignored my instructions.
+ORD172990,Seattle,2023-10-20,23:27:00,27,42,33.83,Driver was polite and food was hot.
+ORD515623,New York,2023-10-23,21:01:00,10,28,56.46,Amazing and speedy delivery!
+ORD877447,New York,2023-10-28,09:03:00,38,42,117.4,"Average experience, nothing special."
+ORD985029,Seattle,2023-10-16,21:53:00,37,50,44.24,Driver was polite and food was hot.
+ORD893041,San Francisco,2023-10-27,23:37:00,29,49,85.0,Driver was polite and food was hot.
+ORD636256,New York,2023-10-19,21:46:00,25,35,66.38,Food was cold but driver was nice.
+ORD241147,New York,2023-10-12,00:08:00,55,22,102.18,Very late and spilled.
+ORD287795,San Francisco,2023-10-24,04:06:00,13,58,80.44,Amazing and speedy delivery!
+ORD645205,Boston,2023-10-04,23:35:00,45,48,36.2,Driver was polite and food was hot.
+ORD374375,Miami,2023-10-24,03:51:00,10,20,115.02,Driver was polite and food was hot.
+ORD224921,Houston,2023-10-02,22:31:00,22,39,104.55,"Super fast, piping hot!"
+ORD134455,Seattle,2023-10-21,15:24:00,39,29,66.61,Missing an item but otherwise fine.
+ORD507980,Boston,2023-10-07,14:54:00,49,26,74.73,"Terrible cold food, completely unacceptable."
+ORD818666,Boston,2023-10-23,19:49:00,13,29,68.2,Driver was polite and food was hot.
+ORD719755,Miami,2023-10-19,07:30:00,25,41,95.48,Driver was polite and food was hot.
+ORD129514,San Francisco,2023-10-14,10:41:00,23,56,17.82,"Super fast, piping hot!"
+ORD202078,San Francisco,2023-10-29,22:51:00,25,41,58.25,Driver was polite and food was hot.
+ORD359642,Seattle,2023-10-04,01:40:00,31,23,106.24,Food was cold but driver was nice.
+ORD120669,New York,2023-10-06,17:02:00,42,48,84.07,Missing an item but otherwise fine.
+ORD541631,San Francisco,2023-10-20,17:28:00,27,43,74.89,Food was cold but driver was nice.
+ORD947591,New York,2023-10-16,04:11:00,53,32,50.28,"Terrible cold food, completely unacceptable."
+ORD799806,Houston,2023-10-24,09:10:00,18,31,67.18,"Super fast, piping hot!"
+ORD661862,San Francisco,2023-10-04,22:17:00,47,35,19.99,Very late and spilled.
+ORD336858,Boston,2023-10-27,14:27:00,10,56,24.95,Driver was polite and food was hot.
+ORD693943,Houston,2023-10-16,19:56:00,10,46,37.02,Driver was polite and food was hot.
+ORD416509,Miami,2023-10-04,23:45:00,17,39,36.01,Driver was polite and food was hot.
+ORD640403,Seattle,2023-10-19,19:26:00,29,54,33.96,Driver was polite and food was hot.
+ORD641300,Seattle,2023-10-02,08:20:00,42,48,43.13,"Average experience, nothing special."
+ORD744268,Miami,2023-10-30,12:48:00,15,59,21.29,"Super fast, piping hot!"
+ORD254920,Boston,2023-10-10,15:10:00,31,46,58.08,Missing an item but otherwise fine.
+ORD987060,San Francisco,2023-10-04,10:23:00,54,37,82.83,"Terrible cold food, completely unacceptable."
+ORD347600,New York,2023-10-13,04:07:00,23,34,98.69,Amazing and speedy delivery!
+ORD687019,Houston,2023-10-15,15:12:00,34,60,110.09,Driver was polite and food was hot.
+ORD243057,Seattle,2023-10-10,16:38:00,56,54,33.48,"Terrible cold food, completely unacceptable."
+ORD609442,New York,2023-10-03,10:08:00,34,24,47.96,Food was cold but driver was nice.
+ORD526777,Houston,2023-10-15,01:29:00,47,27,39.78,Very late and spilled.
+ORD226502,Seattle,2023-10-27,11:40:00,16,56,114.72,Driver was polite and food was hot.
+ORD194632,San Francisco,2023-10-25,09:44:00,30,56,92.41,Missing an item but otherwise fine.
+ORD328598,New York,2023-10-12,05:43:00,37,30,37.48,"Average experience, nothing special."
+ORD366659,Seattle,2023-10-13,23:53:00,33,26,48.23,Missing an item but otherwise fine.
+ORD358313,Boston,2023-10-20,18:53:00,26,28,53.11,Missing an item but otherwise fine.
+ORD122097,Boston,2023-10-18,05:41:00,10,22,87.52,Amazing and speedy delivery!
+ORD503376,Seattle,2023-10-12,09:48:00,10,42,109.83,"Super fast, piping hot!"
+ORD347864,San Francisco,2023-10-07,01:19:00,39,38,24.48,Driver was polite and food was hot.
+ORD268010,Seattle,2023-10-12,05:12:00,18,39,107.34,"Super fast, piping hot!"
+ORD135527,Houston,2023-10-30,19:54:00,29,45,112.28,Driver was polite and food was hot.
+ORD960085,Boston,2023-10-16,15:26:00,36,29,88.34,Food was cold but driver was nice.
+,Seattle,2023-10-24,13:04:00,10,39,62.59,Driver was polite and food was hot.
+ORD772528,Seattle,2023-10-02,17:53:00,41,47,98.06,"Average experience, nothing special."
+,New York,2023-10-07,16:39:00,33,29,41.21,Food was cold but driver was nice.
+ORD988102,Boston,2023-10-31,01:05:00,42,39,62.41,Driver was polite and food was hot.
+ORD820861,Chicago,2023-10-07,13:50:00,18,24,58.52,"Super fast, piping hot!"
+ORD495648,Chicago,2023-10-09,18:41:00,22,20,114.55,Driver was polite and food was hot.
+ORD757066,Chicago,2023-10-26,22:04:00,30,35,88.63,Driver was polite and food was hot.
+,Miami,2023-10-09,04:20:00,36,35,30.67,Driver was polite and food was hot.
+ORD694797,Boston,2023-10-18,05:53:00,47,48,101.86,"Terrible cold food, completely unacceptable."
+,Chicago,2023-10-23,23:45:00,46,31,114.34,Restaurant ignored my instructions.
+ORD618172,Miami,2023-10-13,14:46:00,18,32,119.5,Amazing and speedy delivery!
+ORD298561,Chicago,2023-10-14,09:05:00,40,45,98.21,Driver was polite and food was hot.
+ORD374516,San Francisco,2023-10-02,19:26:00,31,56,86.85,"Average experience, nothing special."
+,Chicago,2023-10-22,08:27:00,46,39,117.31,"Terrible cold food, completely unacceptable."
+ORD847986,San Francisco,2023-10-19,14:15:00,18,23,25.0,Driver was polite and food was hot.
+,Houston,2023-10-04,04:11:00,40,41,119.66,"Average experience, nothing special."
+ORD949192,San Francisco,2023-10-28,17:26:00,41,44,85.48,Driver was polite and food was hot.
+ORD686741,Miami,2023-10-07,12:27:00,33,30,42.33,Food was cold but driver was nice.
+ORD455652,Seattle,2023-10-24,10:14:00,35,52,60.46,Missing an item but otherwise fine.
+,Chicago,2023-10-13,08:26:00,24,50,106.53,Amazing and speedy delivery!
+ORD550977,Boston,2023-10-14,06:56:00,23,35,69.28,Driver was polite and food was hot.
+ORD430870,Houston,2023-10-21,07:59:00,60,28,73.35,Restaurant ignored my instructions.
+ORD561362,Chicago,2023-10-31,10:05:00,38,21,64.38,"Average experience, nothing special."
+ORD557629,Houston,2023-10-08,22:39:00,32,21,61.36,Food was cold but driver was nice.
+ORD616935,New York,2023-10-27,00:37:00,48,41,24.83,Very late and spilled.
+ORD276470,Miami,2023-10-14,10:20:00,45,56,37.3,Missing an item but otherwise fine.
+ORD698514,Boston,2023-10-01,16:31:00,44,50,86.08,"Average experience, nothing special."
+,Seattle,2023-10-16,10:59:00,60,26,56.39,Restaurant ignored my instructions.
+ORD211222,Houston,2023-10-28,08:49:00,34,49,62.68,Food was cold but driver was nice.
+ORD106087,New York,2023-10-13,18:11:00,22,60,80.35,"Super fast, piping hot!"
+ORD867080,Chicago,2023-10-22,02:55:00,62,32,105.64,Restaurant ignored my instructions.
+ORD936917,Seattle,2023-10-30,19:02:00,29,23,72.45,Food was cold but driver was nice.
+ORD518233,New York,2023-10-28,21:52:00,29,20,104.5,Driver was polite and food was hot.
+ORD521943,Seattle,2023-10-08,21:59:00,41,60,31.18,Missing an item but otherwise fine.
+ORD553360,San Francisco,2023-10-15,02:06:00,27,25,102.37,"Average experience, nothing special."
+ORD567080,Houston,2023-10-24,19:58:00,10,36,74.12,"Super fast, piping hot!"
+,Houston,2023-10-20,18:07:00,17,59,59.73,Amazing and speedy delivery!
+ORD586041,Seattle,2023-10-03,08:11:00,36,28,112.72,"Average experience, nothing special."
+ORD650164,Boston,2023-10-25,11:56:00,44,49,46.54,Food was cold but driver was nice.
+ORD415001,Miami,2023-10-07,07:35:00,38,46,46.03,"Average experience, nothing special."
+ORD147285,New York,2023-10-03,16:08:00,12,48,84.39,"Super fast, piping hot!"
+ORD472724,Miami,2023-10-27,08:56:00,28,24,95.71,Missing an item but otherwise fine.
+,Boston,2023-10-02,05:47:00,25,44,19.75,"Average experience, nothing special."
+ORD412106,Miami,2023-10-20,10:40:00,21,48,94.52,"Super fast, piping hot!"
+ORD377950,Chicago,2023-10-21,23:28:00,11,30,23.21,Amazing and speedy delivery!
+ORD806120,Houston,2023-10-28,23:48:00,58,53,16.88,Very late and spilled.
+,Boston,2023-10-19,11:23:00,38,57,91.22,Driver was polite and food was hot.
+ORD746703,Seattle,2023-10-15,06:45:00,45,44,99.49,Missing an item but otherwise fine.
+,Seattle,2023-10-05,11:44:00,37,31,105.2,Food was cold but driver was nice.
+ORD252205,Houston,2023-10-11,00:33:00,30,59,105.11,"Average experience, nothing special."
+ORD415535,New York,2023-10-26,00:17:00,31,26,32.44,Driver was polite and food was hot.
+ORD566895,Houston,2023-10-08,10:30:00,21,20,105.28,"Super fast, piping hot!"
+ORD409153,San Francisco,2023-10-28,03:14:00,10,19,25.78,Amazing and speedy delivery!
+ORD989838,Seattle,2023-10-21,03:38:00,17,56,77.56,"Super fast, piping hot!"
+ORD138815,Seattle,2023-10-26,17:27:00,12,58,113.2,Driver was polite and food was hot.
+ORD163653,Houston,2023-10-23,16:56:00,31,55,48.16,Food was cold but driver was nice.
+ORD779792,Miami,2023-10-04,09:23:00,15,60,51.41,"Super fast, piping hot!"
+,Seattle,2023-10-21,08:29:00,38,31,64.27,Missing an item but otherwise fine.
+ORD330374,Boston,2023-10-21,10:33:00,10,48,28.77,Driver was polite and food was hot.
+ORD509333,Boston,2023-10-14,20:28:00,18,60,92.13,"Super fast, piping hot!"
+ORD985555,Seattle,2023-10-22,23:55:00,35,49,28.56,Food was cold but driver was nice.
+ORD616094,Boston,2023-10-10,13:54:00,38,45,114.02,Food was cold but driver was nice.
+ORD319606,San Francisco,2023-10-23,23:17:00,10,41,86.08,"Super fast, piping hot!"
+ORD627935,Boston,2023-10-09,10:51:00,10,23,50.46,Amazing and speedy delivery!
+ORD226550,Boston,2023-10-06,16:30:00,13,41,95.78,"Super fast, piping hot!"
+ORD258522,Boston,2023-10-26,20:26:00,23,51,78.45,Driver was polite and food was hot.
+ORD559094,New York,2023-10-06,05:46:00,41,58,79.01,Food was cold but driver was nice.
+ORD144008,New York,2023-10-06,03:17:00,10,29,81.14,Driver was polite and food was hot.
+ORD264660,Seattle,2023-10-10,20:21:00,26,25,31.2,Driver was polite and food was hot.
+ORD244464,Boston,2023-10-18,01:18:00,10,31,61.11,Amazing and speedy delivery!
+ORD106907,San Francisco,2023-10-20,10:07:00,30,51,32.98,Missing an item but otherwise fine.
+ORD891512,San Francisco,2023-10-13,14:34:00,57,59,84.82,"Terrible cold food, completely unacceptable."
+ORD655378,Houston,2023-10-08,09:36:00,20,45,109.3,"Super fast, piping hot!"
+ORD479347,Houston,2023-10-24,23:47:00,35,28,95.87,Food was cold but driver was nice.
+ORD188896,Houston,2023-10-25,01:05:00,21,22,56.29,Amazing and speedy delivery!
+ORD772625,Miami,2023-10-03,04:31:00,42,22,117.66,"Average experience, nothing special."
+ORD539673,Boston,2023-10-25,03:45:00,11,38,90.76,Driver was polite and food was hot.
+ORD108286,Miami,2023-10-15,18:39:00,43,58,111.65,Missing an item but otherwise fine.
+ORD315098,Seattle,2023-10-19,21:13:00,45,41,108.21,Driver was polite and food was hot.
+ORD306879,New York,2023-10-31,00:37:00,16,21,71.43,"Super fast, piping hot!"
+ORD876000,Chicago,2023-10-19,05:59:00,43,24,68.73,Missing an item but otherwise fine.
+ORD893820,Chicago,2023-10-15,17:04:00,17,20,17.93,Driver was polite and food was hot.
+ORD353063,Miami,2023-10-26,01:46:00,36,26,91.86,Driver was polite and food was hot.
+ORD632151,New York,2023-10-18,11:24:00,18,22,94.44,"Super fast, piping hot!"
+ORD700241,Boston,2023-10-07,04:16:00,28,56,74.39,"Average experience, nothing special."
+ORD985517,Chicago,2023-10-30,01:40:00,13,41,46.42,Driver was polite and food was hot.
+ORD849051,San Francisco,2023-10-27,13:37:00,12,52,76.15,Amazing and speedy delivery!
+ORD253672,Houston,2023-10-17,22:37:00,47,45,23.6,Restaurant ignored my instructions.
+ORD236381,Seattle,2023-10-04,07:56:00,13,52,57.29,"Super fast, piping hot!"
+ORD513959,Miami,2023-10-26,22:33:00,32,50,81.83,Missing an item but otherwise fine.
+ORD613321,Chicago,2023-10-21,12:42:00,28,51,28.35,"Average experience, nothing special."
+,Miami,2023-10-22,07:57:00,14,52,27.4,Driver was polite and food was hot.
+ORD134191,New York,2023-10-11,04:16:00,29,57,104.49,Missing an item but otherwise fine.
+,San Francisco,2023-10-06,12:31:00,10,21,69.89,Driver was polite and food was hot.
+ORD492649,Chicago,2023-10-06,20:37:00,24,56,59.28,Amazing and speedy delivery!
+ORD326053,Boston,2023-10-15,09:20:00,46,50,15.22,Very late and spilled.
+ORD146852,Houston,2023-10-26,10:04:00,12,40,97.04,Driver was polite and food was hot.
+ORD974180,Boston,2023-10-23,03:05:00,39,27,68.0,"Average experience, nothing special."
+ORD799631,New York,2023-10-22,11:28:00,10,58,84.77,"Super fast, piping hot!"
+ORD514603,Miami,2023-10-20,03:26:00,39,21,115.6,Missing an item but otherwise fine.
+ORD777292,Miami,2023-10-21,15:59:00,37,59,98.6,Food was cold but driver was nice.
+ORD229794,Chicago,2023-10-15,13:21:00,34,58,71.89,Food was cold but driver was nice.
+ORD647098,New York,2023-10-03,21:46:00,36,53,33.87,Food was cold but driver was nice.
+ORD315802,Boston,2023-10-02,08:44:00,45,56,61.64,"Average experience, nothing special."
+ORD521315,San Francisco,2023-10-25,18:47:00,15,46,33.95,Amazing and speedy delivery!
+ORD432799,San Francisco,2023-10-02,14:17:00,20,24,27.04,"Super fast, piping hot!"
+ORD399212,Chicago,2023-10-06,00:30:00,37,38,114.98,Food was cold but driver was nice.
+,Chicago,2023-10-09,04:49:00,39,20,89.9,Missing an item but otherwise fine.
+ORD435587,Houston,2023-10-15,01:32:00,49,26,20.45,"Terrible cold food, completely unacceptable."
+ORD714496,Houston,2023-10-12,09:44:00,54,51,94.0,Very late and spilled.
+ORD382368,New York,2023-10-19,00:35:00,45,49,18.04,Driver was polite and food was hot.
+ORD119527,Miami,2023-10-30,08:00:00,36,56,85.89,Missing an item but otherwise fine.
+ORD783200,Houston,2023-10-12,17:03:00,32,24,103.86,Driver was polite and food was hot.
+ORD249282,Miami,2023-10-24,06:37:00,17,29,97.11,"Super fast, piping hot!"
+ORD682119,Boston,2023-10-25,23:08:00,29,58,45.37,Driver was polite and food was hot.
+,San Francisco,2023-10-09,02:50:00,30,57,41.34,Driver was polite and food was hot.
+ORD983360,San Francisco,2023-10-18,19:14:00,16,21,31.95,Driver was polite and food was hot.
+ORD415242,Houston,2023-10-25,19:23:00,15,26,102.2,Amazing and speedy delivery!
+ORD552945,Seattle,2023-10-26,19:50:00,34,40,81.69,Missing an item but otherwise fine.
+ORD794447,San Francisco,2023-10-22,02:30:00,47,32,63.28,"Terrible cold food, completely unacceptable."
+ORD825452,Houston,2023-10-28,18:50:00,52,19,109.65,Restaurant ignored my instructions.
+ORD830322,Houston,2023-10-09,09:33:00,55,44,71.5,Restaurant ignored my instructions.
+ORD664814,Houston,2023-10-31,01:00:00,57,26,52.06,Restaurant ignored my instructions.
+ORD475354,Chicago,2023-10-18,15:07:00,35,19,28.1,Driver was polite and food was hot.
+ORD566173,Seattle,2023-10-18,08:40:00,54,41,35.11,"Terrible cold food, completely unacceptable."
+ORD947684,Chicago,2023-10-29,10:03:00,31,50,116.57,"Average experience, nothing special."
+ORD838247,Boston,2023-10-03,04:12:00,27,59,56.59,"Average experience, nothing special."
+ORD618008,Miami,2023-10-14,02:57:00,20,31,84.28,Amazing and speedy delivery!
+ORD732262,Seattle,2023-10-27,05:55:00,24,23,28.38,Amazing and speedy delivery!
+ORD648489,Chicago,2023-10-27,10:30:00,27,20,119.15,Missing an item but otherwise fine.
+ORD813745,Seattle,2023-10-25,18:07:00,14,60,20.45,"Super fast, piping hot!"
+ORD526640,New York,2023-10-16,04:49:00,23,52,63.99,"Super fast, piping hot!"
+ORD145576,Houston,2023-10-17,22:50:00,37,53,62.13,Missing an item but otherwise fine.
+ORD450964,Miami,2023-10-01,17:39:00,22,20,118.98,Amazing and speedy delivery!
+ORD544407,Chicago,2023-10-11,18:27:00,62,40,47.63,Very late and spilled.
+ORD129226,Houston,2023-10-29,23:46:00,21,20,77.22,"Super fast, piping hot!"
+ORD981336,San Francisco,2023-10-30,00:06:00,29,22,101.27,"Average experience, nothing special."
+ORD176452,Boston,2023-10-25,03:38:00,37,25,80.66,Driver was polite and food was hot.
+,San Francisco,2023-10-27,20:22:00,63,23,97.18,"Terrible cold food, completely unacceptable."
+ORD563385,San Francisco,2023-10-04,07:44:00,24,58,80.75,Amazing and speedy delivery!
+,Houston,2023-10-04,11:52:00,34,25,79.82,Driver was polite and food was hot.
+ORD728700,Houston,2023-10-20,05:03:00,31,43,63.74,Food was cold but driver was nice.
+ORD749310,Boston,2023-10-20,23:37:00,47,20,62.68,Restaurant ignored my instructions.
+ORD213253,New York,2023-10-16,10:29:00,42,57,89.9,Food was cold but driver was nice.
+ORD303019,San Francisco,2023-10-28,11:36:00,36,45,65.55,Missing an item but otherwise fine.
+ORD354963,Boston,2023-10-29,18:09:00,25,21,21.35,"Average experience, nothing special."
+ORD638051,Miami,2023-10-15,16:26:00,54,53,96.43,"Terrible cold food, completely unacceptable."
+ORD732636,San Francisco,2023-10-08,05:01:00,23,42,116.88,"Super fast, piping hot!"
+ORD811249,Houston,2023-10-25,01:27:00,36,41,35.52,Food was cold but driver was nice.
+ORD311037,San Francisco,2023-10-10,14:52:00,38,31,85.13,Food was cold but driver was nice.
+ORD447231,Miami,2023-10-22,18:32:00,41,38,58.96,Missing an item but otherwise fine.
+,Houston,2023-10-08,21:16:00,14,33,111.6,Amazing and speedy delivery!
+ORD341459,Seattle,2023-10-30,13:43:00,19,40,99.76,"Super fast, piping hot!"
+ORD293194,San Francisco,2023-10-18,14:36:00,32,19,22.74,Food was cold but driver was nice.
+ORD249319,New York,2023-10-02,20:48:00,27,20,35.91,Missing an item but otherwise fine.
+ORD374725,San Francisco,2023-10-14,10:19:00,39,54,40.83,"Average experience, nothing special."
+,Boston,2023-10-10,10:05:00,48,27,54.79,Very late and spilled.
+ORD320449,Houston,2023-10-06,13:13:00,10,34,53.81,"Super fast, piping hot!"
+ORD652522,Seattle,2023-10-18,10:43:00,81,23,27.44,"Terrible cold food, completely unacceptable."
+ORD300992,Houston,2023-10-07,10:52:00,22,42,48.38,Driver was polite and food was hot.
+ORD356428,Chicago,2023-10-21,01:11:00,52,53,45.89,Restaurant ignored my instructions.
+ORD155846,Boston,2023-10-08,06:17:00,17,36,106.65,Driver was polite and food was hot.
+ORD612743,Boston,2023-10-24,15:10:00,31,58,21.81,Driver was polite and food was hot.
+ORD776406,Houston,2023-10-24,15:33:00,35,52,63.75,Missing an item but otherwise fine.
+ORD651001,Houston,2023-10-16,03:32:00,21,36,76.02,"Super fast, piping hot!"
+ORD712350,New York,2023-10-30,12:59:00,10,32,38.05,Driver was polite and food was hot.
+ORD345770,Miami,2023-10-10,17:44:00,19,29,113.23,"Super fast, piping hot!"
+ORD188876,Boston,2023-10-18,12:38:00,37,24,45.98,"Average experience, nothing special."
+ORD712328,Houston,2023-10-25,02:42:00,47,47,64.09,"Terrible cold food, completely unacceptable."
+ORD621711,San Francisco,2023-10-20,02:42:00,34,43,17.6,Missing an item but otherwise fine.
+ORD776703,Boston,2023-10-21,14:27:00,58,51,68.84,"Terrible cold food, completely unacceptable."
+,Chicago,2023-10-30,19:03:00,44,25,27.45,Missing an item but otherwise fine.
+,San Francisco,2023-10-17,21:29:00,33,38,93.25,Missing an item but otherwise fine.
+ORD733375,Boston,2023-10-13,23:48:00,39,53,110.8,"Average experience, nothing special."
+ORD395536,Houston,2023-10-01,21:20:00,41,56,94.57,Driver was polite and food was hot.
+ORD637549,Boston,2023-10-02,01:00:00,10,44,38.9,Amazing and speedy delivery!
+ORD640882,Seattle,2023-10-11,01:15:00,13,48,50.77,"Super fast, piping hot!"
+ORD296971,Boston,2023-10-05,09:48:00,20,45,37.01,"Super fast, piping hot!"
+ORD131566,San Francisco,2023-10-21,23:30:00,16,19,67.48,Amazing and speedy delivery!
+ORD456329,Houston,2023-10-31,11:39:00,43,46,87.01,"Average experience, nothing special."
+ORD824061,Miami,2023-10-19,20:36:00,17,21,111.83,Amazing and speedy delivery!
+ORD446292,Houston,2023-10-08,11:53:00,26,32,114.61,Driver was polite and food was hot.
+ORD297487,Seattle,2023-10-04,09:36:00,16,38,24.79,"Super fast, piping hot!"
+ORD286264,Boston,2023-10-06,05:57:00,32,57,66.3,Food was cold but driver was nice.
+ORD504639,Houston,2023-10-09,23:56:00,27,22,53.71,Food was cold but driver was nice.
+ORD530819,Chicago,2023-10-02,00:04:00,40,26,28.56,Driver was polite and food was hot.
+ORD172103,Chicago,2023-10-20,13:02:00,10,32,47.52,Amazing and speedy delivery!
+ORD703027,Miami,2023-10-23,02:36:00,50,31,67.76,"Terrible cold food, completely unacceptable."
+ORD107804,Miami,2023-10-22,09:19:00,46,34,70.21,"Terrible cold food, completely unacceptable."
+ORD582559,Miami,2023-10-27,09:45:00,29,21,92.42,Driver was polite and food was hot.
+ORD578472,Houston,2023-10-14,14:29:00,13,58,101.46,"Super fast, piping hot!"
+ORD288301,Seattle,2023-10-09,11:18:00,53,46,63.07,Restaurant ignored my instructions.
+ORD696236,Chicago,2023-10-31,11:54:00,49,29,43.75,Very late and spilled.
+ORD799040,Seattle,2023-10-30,02:03:00,43,32,110.42,Food was cold but driver was nice.
+ORD679677,Miami,2023-10-20,05:14:00,40,39,58.06,Food was cold but driver was nice.
+ORD630647,Houston,2023-10-09,00:03:00,39,20,22.69,Food was cold but driver was nice.
+ORD882193,New York,2023-10-22,12:32:00,22,35,27.04,Amazing and speedy delivery!
+ORD885043,Houston,2023-10-07,17:05:00,35,48,22.16,Driver was polite and food was hot.
+ORD848244,Boston,2023-10-26,11:02:00,37,29,32.91,Missing an item but otherwise fine.
+ORD285846,New York,2023-10-02,07:44:00,27,53,92.85,Missing an item but otherwise fine.
+,Houston,2023-10-09,04:00:00,31,41,33.68,"Average experience, nothing special."
+ORD658155,Houston,2023-10-03,01:38:00,10,22,102.83,Amazing and speedy delivery!
+ORD851210,Houston,2023-10-25,07:08:00,26,22,77.81,Missing an item but otherwise fine.
+ORD904377,Chicago,2023-10-03,17:10:00,24,42,110.42,Amazing and speedy delivery!
+,Boston,2023-10-10,14:27:00,10,31,86.4,"Super fast, piping hot!"
+ORD201295,Chicago,2023-10-04,09:01:00,51,29,19.62,Restaurant ignored my instructions.
+,Miami,2023-10-24,19:48:00,21,32,113.1,Amazing and speedy delivery!
+ORD226672,Chicago,2023-10-19,11:31:00,47,25,52.44,Very late and spilled.
+,Houston,2023-10-09,09:39:00,28,33,21.93,"Average experience, nothing special."
+ORD486903,New York,2023-10-14,04:09:00,28,32,58.17,Food was cold but driver was nice.
+ORD206759,Chicago,2023-10-28,18:08:00,23,35,115.7,Driver was polite and food was hot.
+ORD761519,Houston,2023-10-28,19:13:00,10,27,49.86,Driver was polite and food was hot.
+ORD821027,New York,2023-10-30,09:59:00,17,40,16.85,"Super fast, piping hot!"
+ORD635849,Seattle,2023-10-28,03:01:00,56,33,67.86,Restaurant ignored my instructions.
+ORD746288,Seattle,2023-10-02,02:32:00,30,46,94.51,"Average experience, nothing special."
+,San Francisco,2023-10-29,16:57:00,22,50,46.14,Amazing and speedy delivery!
+ORD773226,Houston,2023-10-08,09:40:00,63,40,29.1,Restaurant ignored my instructions.
+ORD897435,Miami,2023-10-15,22:51:00,38,45,83.04,Food was cold but driver was nice.
+ORD340134,Chicago,2023-10-14,15:05:00,37,53,20.68,"Average experience, nothing special."
+ORD830100,Chicago,2023-10-12,19:16:00,18,57,106.63,Driver was polite and food was hot.
+ORD563849,New York,2023-10-25,05:36:00,26,31,20.47,Driver was polite and food was hot.
+ORD231660,Chicago,2023-10-07,22:36:00,26,56,72.63,Food was cold but driver was nice.
+ORD181961,Seattle,2023-10-10,19:14:00,14,31,40.72,Amazing and speedy delivery!
+ORD417824,Miami,2023-10-09,12:43:00,37,47,116.61,Missing an item but otherwise fine.
+ORD919240,Houston,2023-10-10,16:00:00,10,43,32.62,"Super fast, piping hot!"
+ORD738996,Boston,2023-10-21,14:07:00,34,28,101.06,Driver was polite and food was hot.
+,Miami,2023-10-23,10:29:00,10,53,31.04,"Super fast, piping hot!"
+ORD586173,Houston,2023-10-09,11:55:00,49,37,54.39,"Terrible cold food, completely unacceptable."
+ORD449421,Chicago,2023-10-29,01:57:00,41,19,16.35,"Average experience, nothing special."
+ORD492437,Houston,2023-10-24,06:54:00,42,45,113.73,Driver was polite and food was hot.
+ORD422763,New York,2023-10-18,11:35:00,17,26,55.41,"Super fast, piping hot!"
+ORD900011,San Francisco,2023-10-27,05:48:00,14,41,68.51,"Super fast, piping hot!"
+ORD486065,Seattle,2023-10-23,17:43:00,22,34,40.45,"Super fast, piping hot!"
+ORD478970,Seattle,2023-10-03,01:42:00,10,20,88.23,Driver was polite and food was hot.
+,San Francisco,2023-10-30,20:53:00,10,34,78.23,Amazing and speedy delivery!
+,Seattle,2023-10-08,20:20:00,10,43,56.76,Amazing and speedy delivery!
+ORD184251,Chicago,2023-10-28,04:15:00,20,46,41.55,"Super fast, piping hot!"
+ORD659102,Miami,2023-10-15,06:07:00,28,38,92.06,Driver was polite and food was hot.
+,San Francisco,2023-10-05,13:05:00,10,32,112.65,Amazing and speedy delivery!
+ORD106732,Boston,2023-10-19,14:42:00,18,50,15.17,Amazing and speedy delivery!
+ORD538136,Houston,2023-10-04,16:18:00,10,29,33.52,Driver was polite and food was hot.
+ORD307639,Chicago,2023-10-09,23:36:00,26,51,114.59,Driver was polite and food was hot.
+ORD322899,Boston,2023-10-22,00:15:00,32,31,42.23,"Average experience, nothing special."
+ORD754753,Boston,2023-10-20,02:31:00,34,59,32.44,Food was cold but driver was nice.
+,Miami,2023-10-14,20:11:00,33,34,65.18,Food was cold but driver was nice.
+,Boston,2023-10-06,02:07:00,33,19,84.86,Missing an item but otherwise fine.
+,Houston,2023-10-03,09:44:00,28,49,94.48,Missing an item but otherwise fine.
+ORD488796,San Francisco,2023-10-29,00:09:00,29,34,113.8,Missing an item but otherwise fine.
+ORD160022,New York,2023-10-19,15:15:00,60,48,106.41,Very late and spilled.
+ORD245608,Miami,2023-10-19,18:53:00,25,26,106.25,Food was cold but driver was nice.
+ORD887941,Miami,2023-10-14,05:16:00,35,45,84.32,Driver was polite and food was hot.
+ORD952092,New York,2023-10-01,15:26:00,16,59,52.82,"Super fast, piping hot!"
+ORD871555,Houston,2023-10-03,13:59:00,22,44,92.62,Driver was polite and food was hot.
+ORD599250,Seattle,2023-10-05,04:53:00,44,43,45.86,Food was cold but driver was nice.
+ORD645316,Miami,2023-10-10,09:05:00,48,21,28.43,Restaurant ignored my instructions.
+ORD805756,Boston,2023-10-05,11:08:00,11,48,32.65,Driver was polite and food was hot.
+ORD605590,Chicago,2023-10-21,19:28:00,24,24,26.07,Amazing and speedy delivery!
+ORD442360,Boston,2023-10-02,19:56:00,20,36,38.14,"Super fast, piping hot!"
+ORD803176,New York,2023-10-13,05:24:00,35,40,106.55,Driver was polite and food was hot.
+ORD729858,Seattle,2023-10-27,17:07:00,35,40,54.59,Food was cold but driver was nice.
+ORD923218,Chicago,2023-10-18,20:52:00,10,35,27.15,Amazing and speedy delivery!
+,Seattle,2023-10-05,11:47:00,18,56,113.41,"Super fast, piping hot!"
+ORD233606,Seattle,2023-10-06,18:50:00,52,19,47.63,Restaurant ignored my instructions.
+ORD988268,Houston,2023-10-28,08:31:00,10,39,95.98,"Super fast, piping hot!"
+ORD730841,Miami,2023-10-07,05:58:00,24,48,48.17,Amazing and speedy delivery!
+ORD624112,Chicago,2023-10-15,00:13:00,26,57,44.76,Driver was polite and food was hot.
+ORD423896,Boston,2023-10-03,01:31:00,10,55,65.22,"Super fast, piping hot!"
+ORD838344,New York,2023-10-11,07:37:00,29,40,31.03,Driver was polite and food was hot.
+ORD949785,Boston,2023-10-11,02:03:00,33,50,91.38,"Average experience, nothing special."
+ORD791274,New York,2023-10-15,02:42:00,54,54,56.19,Very late and spilled.
+ORD465226,San Francisco,2023-10-20,17:25:00,30,31,88.62,Missing an item but otherwise fine.
+ORD237259,Boston,2023-10-26,10:35:00,15,56,105.91,"Super fast, piping hot!"
+ORD844056,Chicago,2023-10-03,23:08:00,22,47,88.08,Driver was polite and food was hot.
+ORD319955,Boston,2023-10-14,17:57:00,50,31,92.21,Very late and spilled.
+ORD997729,Houston,2023-10-01,21:59:00,10,46,86.34,Amazing and speedy delivery!
+ORD200713,Houston,2023-10-09,03:45:00,19,30,114.23,"Super fast, piping hot!"
+ORD781676,Seattle,2023-10-06,20:11:00,21,44,40.73,Amazing and speedy delivery!
+ORD612361,Seattle,2023-10-06,21:46:00,43,57,115.23,Missing an item but otherwise fine.
+ORD913537,New York,2023-10-31,05:02:00,20,48,105.81,Driver was polite and food was hot.
+ORD763049,Houston,2023-10-31,02:19:00,10,42,16.22,Driver was polite and food was hot.
+,Chicago,2023-10-06,19:24:00,10,20,76.62,Driver was polite and food was hot.
+ORD827424,Boston,2023-10-27,13:28:00,31,56,34.02,Food was cold but driver was nice.
+ORD836873,San Francisco,2023-10-23,12:52:00,12,23,89.95,Amazing and speedy delivery!
+ORD952353,Houston,2023-10-25,23:07:00,37,54,100.83,Food was cold but driver was nice.
+ORD644107,Boston,2023-10-25,15:00:00,39,32,116.4,Food was cold but driver was nice.
+ORD728204,Chicago,2023-10-06,20:10:00,14,19,73.25,Driver was polite and food was hot.
+,New York,2023-10-15,19:18:00,37,54,41.96,"Average experience, nothing special."
+,Miami,2023-10-03,02:15:00,37,38,53.17,Food was cold but driver was nice.
+ORD790130,Seattle,2023-10-26,06:40:00,42,53,61.72,Missing an item but otherwise fine.
+ORD428137,Miami,2023-10-27,18:19:00,30,53,68.61,Missing an item but otherwise fine.
+ORD146908,Boston,2023-10-06,00:09:00,30,32,115.53,Missing an item but otherwise fine.
+ORD720529,San Francisco,2023-10-28,21:43:00,39,27,91.56,Missing an item but otherwise fine.
+,Houston,2023-10-20,16:58:00,29,48,23.74,"Average experience, nothing special."
+ORD828252,Miami,2023-10-13,01:38:00,44,32,22.41,"Average experience, nothing special."
+ORD830650,Seattle,2023-10-13,18:16:00,15,60,101.15,Driver was polite and food was hot.
+ORD961476,San Francisco,2023-10-29,00:46:00,11,46,54.79,Amazing and speedy delivery!
+ORD383246,New York,2023-10-28,23:19:00,35,40,82.22,Driver was polite and food was hot.
+ORD915866,Chicago,2023-10-18,00:18:00,35,33,43.73,Missing an item but otherwise fine.
+ORD333020,Chicago,2023-10-05,23:00:00,24,52,91.47,Amazing and speedy delivery!
+ORD945989,New York,2023-10-15,10:51:00,34,52,51.63,Driver was polite and food was hot.
+ORD678333,Chicago,2023-10-27,12:57:00,29,39,114.38,Food was cold but driver was nice.
+ORD945241,Houston,2023-10-19,05:31:00,36,56,28.4,Driver was polite and food was hot.
+ORD847868,Miami,2023-10-01,22:23:00,34,36,20.55,Driver was polite and food was hot.
+ORD841870,Seattle,2023-10-30,14:11:00,36,57,58.92,"Average experience, nothing special."
+ORD471197,Houston,2023-10-22,08:02:00,35,52,113.88,Missing an item but otherwise fine.
+ORD999595,San Francisco,2023-10-11,21:53:00,13,45,95.91,Amazing and speedy delivery!
+ORD180418,Miami,2023-10-05,14:28:00,25,22,23.88,"Average experience, nothing special."
+ORD616791,Houston,2023-10-14,12:14:00,10,51,112.91,Amazing and speedy delivery!
+ORD640028,Seattle,2023-10-07,17:01:00,21,26,57.57,Driver was polite and food was hot.
+ORD971783,New York,2023-10-29,13:09:00,10,46,88.77,Driver was polite and food was hot.
+ORD874879,Seattle,2023-10-17,04:54:00,12,57,19.45,Driver was polite and food was hot.
+ORD807287,Chicago,2023-10-21,22:03:00,10,30,22.89,Driver was polite and food was hot.
+ORD153379,New York,2023-10-07,13:38:00,17,40,110.97,"Super fast, piping hot!"
+ORD992104,San Francisco,2023-10-12,20:49:00,36,38,65.73,Food was cold but driver was nice.
+ORD873876,Seattle,2023-10-13,13:11:00,19,51,101.7,"Super fast, piping hot!"
+ORD747756,New York,2023-10-03,02:42:00,18,41,15.62,"Super fast, piping hot!"
+ORD471083,Houston,2023-10-22,10:50:00,40,41,15.93,"Average experience, nothing special."
+ORD188860,Houston,2023-10-21,02:34:00,38,26,110.88,"Average experience, nothing special."
+ORD788530,San Francisco,2023-10-01,19:33:00,29,42,59.98,Missing an item but otherwise fine.
+ORD382572,Houston,2023-10-09,19:00:00,46,47,31.99,Very late and spilled.
+ORD106092,New York,2023-10-17,14:23:00,10,31,44.91,Amazing and speedy delivery!
+ORD880060,New York,2023-10-07,14:01:00,53,29,84.95,"Terrible cold food, completely unacceptable."
+ORD378711,Boston,2023-10-23,07:32:00,42,27,49.11,Driver was polite and food was hot.
+ORD877931,Chicago,2023-10-19,16:47:00,41,26,115.56,Driver was polite and food was hot.
+,New York,2023-10-02,11:07:00,28,40,60.11,"Average experience, nothing special."
+ORD555426,San Francisco,2023-10-28,16:11:00,32,37,66.02,Driver was polite and food was hot.
+ORD259903,Boston,2023-10-21,00:32:00,28,26,105.74,Missing an item but otherwise fine.
+ORD550005,Houston,2023-10-12,18:11:00,20,25,88.62,Amazing and speedy delivery!
+ORD297833,Chicago,2023-10-24,08:41:00,50,33,27.65,Restaurant ignored my instructions.
+,Chicago,2023-10-19,18:19:00,29,46,16.85,"Average experience, nothing special."
+,Seattle,2023-10-10,14:04:00,44,59,117.91,Missing an item but otherwise fine.
+ORD602472,Miami,2023-10-11,14:15:00,34,46,82.61,Food was cold but driver was nice.
+,Houston,2023-10-15,08:22:00,10,34,48.58,Driver was polite and food was hot.
+ORD100561,Seattle,2023-10-03,15:57:00,57,39,37.26,Very late and spilled.
+ORD735984,San Francisco,2023-10-22,23:37:00,37,40,46.96,Driver was polite and food was hot.
+ORD816137,San Francisco,2023-10-05,21:50:00,35,42,92.84,"Average experience, nothing special."
+ORD717518,San Francisco,2023-10-17,22:44:00,15,32,76.35,Driver was polite and food was hot.
+ORD236823,New York,2023-10-05,11:17:00,27,56,116.67,Food was cold but driver was nice.
+ORD302299,Miami,2023-10-31,06:44:00,20,58,51.0,Amazing and speedy delivery!
+ORD311811,Seattle,2023-10-23,01:58:00,10,28,19.6,Driver was polite and food was hot.
+ORD846169,San Francisco,2023-10-10,05:24:00,29,47,81.14,Missing an item but otherwise fine.
+ORD170997,Houston,2023-10-06,20:16:00,60,52,112.79,"Terrible cold food, completely unacceptable."
+ORD275044,San Francisco,2023-10-24,10:22:00,11,21,115.36,Amazing and speedy delivery!
+ORD827505,Seattle,2023-10-04,06:25:00,16,44,66.98,Amazing and speedy delivery!
+ORD178628,Miami,2023-10-25,17:36:00,42,43,57.09,Driver was polite and food was hot.
+ORD103775,Miami,2023-10-13,20:33:00,51,32,77.17,Very late and spilled.
+ORD929053,Miami,2023-10-01,21:41:00,12,35,46.86,Driver was polite and food was hot.
+ORD381558,Chicago,2023-10-11,12:40:00,28,33,19.79,Food was cold but driver was nice.
+ORD770685,San Francisco,2023-10-12,08:12:00,48,22,82.45,Very late and spilled.
+ORD320172,New York,2023-10-12,19:59:00,54,19,83.11,Restaurant ignored my instructions.
+ORD487040,San Francisco,2023-10-30,07:04:00,13,27,57.88,Driver was polite and food was hot.
+ORD160045,Boston,2023-10-29,07:55:00,62,19,101.51,Restaurant ignored my instructions.
+ORD393276,Seattle,2023-10-11,11:31:00,47,56,26.18,Restaurant ignored my instructions.
+ORD369845,Seattle,2023-10-18,21:14:00,65,57,72.84,Restaurant ignored my instructions.
+ORD381850,Chicago,2023-10-21,15:00:00,36,47,39.33,Driver was polite and food was hot.
+ORD602275,Houston,2023-10-21,05:57:00,50,30,63.24,Very late and spilled.
+ORD614345,New York,2023-10-09,12:22:00,38,38,32.11,Missing an item but otherwise fine.
+ORD820756,New York,2023-10-09,14:08:00,26,28,22.57,"Average experience, nothing special."
+ORD776456,Seattle,2023-10-12,15:53:00,36,19,78.35,"Average experience, nothing special."
+ORD215380,Boston,2023-10-18,16:45:00,28,60,113.14,Food was cold but driver was nice.
+ORD187656,Boston,2023-10-07,12:23:00,26,19,115.55,Food was cold but driver was nice.
+ORD958002,Boston,2023-10-06,08:10:00,65,24,36.24,"Terrible cold food, completely unacceptable."
+ORD565909,Chicago,2023-10-23,08:46:00,35,34,20.87,Driver was polite and food was hot.
+ORD229054,Boston,2023-10-13,16:09:00,18,21,25.8,Amazing and speedy delivery!
+,Chicago,2023-10-15,00:08:00,41,20,38.8,Food was cold but driver was nice.
+,San Francisco,2023-10-19,00:57:00,19,33,111.78,Driver was polite and food was hot.
+ORD849575,New York,2023-10-19,00:15:00,33,33,25.68,"Average experience, nothing special."
+ORD745604,New York,2023-10-14,07:49:00,23,42,111.95,"Super fast, piping hot!"
+ORD733870,Miami,2023-10-05,08:38:00,39,30,86.34,Missing an item but otherwise fine.
+ORD820540,Miami,2023-10-08,08:05:00,42,37,51.58,Missing an item but otherwise fine.
+ORD623502,Boston,2023-10-06,05:31:00,11,23,97.83,Driver was polite and food was hot.
+ORD253709,Chicago,2023-10-08,06:22:00,10,43,61.9,"Super fast, piping hot!"
+ORD218661,Chicago,2023-10-23,06:35:00,10,24,48.92,"Super fast, piping hot!"
+ORD503720,San Francisco,2023-10-07,07:19:00,12,50,59.5,"Super fast, piping hot!"
+ORD767527,Chicago,2023-10-20,08:09:00,16,43,58.96,Driver was polite and food was hot.
+ORD616530,Miami,2023-10-24,02:59:00,53,33,55.39,Restaurant ignored my instructions.
+ORD652542,Chicago,2023-10-27,22:35:00,10,24,39.7,Driver was polite and food was hot.
+ORD991913,San Francisco,2023-10-01,15:08:00,19,54,64.76,Amazing and speedy delivery!
+ORD162471,San Francisco,2023-10-07,13:56:00,42,48,30.13,"Average experience, nothing special."
+ORD541531,Chicago,2023-10-26,14:24:00,22,33,20.87,Amazing and speedy delivery!
+,Seattle,2023-10-07,18:31:00,27,46,54.03,Food was cold but driver was nice.
+ORD177353,Boston,2023-10-06,07:48:00,22,57,106.4,"Super fast, piping hot!"
+,Miami,2023-10-02,20:59:00,37,45,30.72,Food was cold but driver was nice.
+ORD246918,Houston,2023-10-09,19:16:00,38,45,90.87,Missing an item but otherwise fine.
+ORD829019,Seattle,2023-10-21,16:57:00,37,21,78.44,Food was cold but driver was nice.
+ORD111395,Boston,2023-10-09,09:36:00,30,46,86.39,Driver was polite and food was hot.
+ORD969812,Seattle,2023-10-22,04:13:00,29,33,59.49,Missing an item but otherwise fine.
+ORD196402,Houston,2023-10-08,15:17:00,49,27,93.03,Restaurant ignored my instructions.
+ORD329540,Miami,2023-10-19,17:21:00,10,23,100.74,Driver was polite and food was hot.
+ORD784405,Houston,2023-10-22,19:40:00,47,43,32.31,Restaurant ignored my instructions.
+ORD304189,Miami,2023-10-18,09:46:00,29,40,17.95,Missing an item but otherwise fine.
+ORD211636,Chicago,2023-10-14,08:15:00,36,57,16.15,Food was cold but driver was nice.
+ORD311524,New York,2023-10-15,13:39:00,27,55,74.3,Missing an item but otherwise fine.
+ORD607308,New York,2023-10-27,03:46:00,27,39,24.79,Food was cold but driver was nice.
+,Miami,2023-10-15,13:05:00,22,31,48.02,"Super fast, piping hot!"
+ORD235808,San Francisco,2023-10-19,06:42:00,39,45,109.13,Food was cold but driver was nice.
+,Houston,2023-10-24,10:03:00,33,56,106.23,Driver was polite and food was hot.
+ORD258898,Houston,2023-10-03,04:52:00,21,24,107.95,Driver was polite and food was hot.
+ORD342818,Chicago,2023-10-05,17:54:00,50,29,119.31,Restaurant ignored my instructions.
+ORD864118,Seattle,2023-10-24,07:55:00,11,52,112.67,Driver was polite and food was hot.
+ORD237570,New York,2023-10-17,00:55:00,22,43,40.11,"Super fast, piping hot!"
+ORD259804,New York,2023-10-29,06:43:00,42,19,29.98,Driver was polite and food was hot.
+ORD936116,Houston,2023-10-15,14:07:00,31,39,32.82,Food was cold but driver was nice.
+ORD393724,San Francisco,2023-10-14,22:53:00,23,41,24.37,Driver was polite and food was hot.
+ORD583122,Boston,2023-10-09,15:44:00,29,47,83.28,Missing an item but otherwise fine.
+ORD696360,New York,2023-10-07,21:25:00,46,42,105.2,"Terrible cold food, completely unacceptable."
+ORD749785,Miami,2023-10-19,17:56:00,36,58,114.96,Missing an item but otherwise fine.
+,Miami,2023-10-18,12:10:00,26,47,42.6,Driver was polite and food was hot.
+ORD775143,Boston,2023-10-03,10:37:00,54,54,15.83,Restaurant ignored my instructions.
+ORD265890,Boston,2023-10-06,07:01:00,39,23,38.42,Driver was polite and food was hot.
+ORD465887,New York,2023-10-22,12:56:00,10,24,33.93,"Super fast, piping hot!"
+ORD516226,Chicago,2023-10-06,10:21:00,34,44,49.52,Driver was polite and food was hot.
+ORD733727,New York,2023-10-15,22:34:00,10,36,62.73,"Super fast, piping hot!"
+ORD592796,Seattle,2023-10-26,07:23:00,32,32,48.62,"Average experience, nothing special."
+ORD911813,Boston,2023-10-02,22:13:00,10,46,117.75,"Super fast, piping hot!"
+,Boston,2023-10-11,05:07:00,54,46,43.33,Very late and spilled.
+ORD248622,Boston,2023-10-30,10:21:00,43,47,106.49,Missing an item but otherwise fine.
+ORD372050,Boston,2023-10-25,09:12:00,36,22,24.71,"Average experience, nothing special."
+ORD889762,Houston,2023-10-21,00:05:00,27,49,71.23,Driver was polite and food was hot.
+ORD558001,Seattle,2023-10-08,19:31:00,39,55,55.86,Missing an item but otherwise fine.
+ORD726134,San Francisco,2023-10-01,22:51:00,37,39,16.49,"Average experience, nothing special."
+ORD623706,New York,2023-10-22,08:59:00,52,45,42.59,"Terrible cold food, completely unacceptable."
+ORD972950,New York,2023-10-01,16:01:00,43,32,93.3,Food was cold but driver was nice.
+ORD672612,Miami,2023-10-10,00:59:00,13,43,37.69,Amazing and speedy delivery!
+ORD812641,New York,2023-10-11,01:08:00,27,38,109.15,Missing an item but otherwise fine.
+ORD230804,Seattle,2023-10-24,08:25:00,28,48,58.48,Driver was polite and food was hot.
+ORD668817,New York,2023-10-17,12:11:00,10,30,63.18,"Super fast, piping hot!"
+ORD723789,Miami,2023-10-18,11:33:00,48,46,55.06,Very late and spilled.
+ORD836197,New York,2023-10-21,09:52:00,10,25,24.41,Amazing and speedy delivery!
+ORD531257,Houston,2023-10-02,05:57:00,10,58,112.36,Amazing and speedy delivery!
+ORD627812,Boston,2023-10-06,00:55:00,26,45,37.25,Missing an item but otherwise fine.
+ORD220063,Boston,2023-10-22,04:35:00,28,49,114.81,"Average experience, nothing special."
+ORD586483,Boston,2023-10-17,10:58:00,10,44,15.8,Driver was polite and food was hot.
+ORD632216,San Francisco,2023-10-18,13:13:00,44,35,47.28,Missing an item but otherwise fine.
+ORD104359,New York,2023-10-20,08:59:00,42,28,98.0,Food was cold but driver was nice.
+ORD729088,San Francisco,2023-10-25,02:51:00,20,29,115.71,"Super fast, piping hot!"
+ORD510373,Boston,2023-10-21,01:42:00,37,55,60.06,Food was cold but driver was nice.
+ORD863481,Houston,2023-10-30,10:59:00,50,39,69.31,Very late and spilled.
+ORD844515,Boston,2023-10-21,09:46:00,35,59,111.25,Driver was polite and food was hot.
+ORD438065,New York,2023-10-26,15:56:00,13,24,17.69,Amazing and speedy delivery!
+ORD722107,Miami,2023-10-02,00:37:00,41,43,17.66,Food was cold but driver was nice.
+ORD765282,Boston,2023-10-07,10:36:00,47,41,34.59,Restaurant ignored my instructions.
+ORD411345,Boston,2023-10-31,04:44:00,39,35,84.22,Driver was polite and food was hot.
+,Seattle,2023-10-14,00:21:00,56,20,82.03,Very late and spilled.
+ORD216320,Chicago,2023-10-27,20:49:00,10,37,42.51,Amazing and speedy delivery!
+,Boston,2023-10-09,17:18:00,35,42,110.84,Driver was polite and food was hot.
+ORD614889,Seattle,2023-10-10,23:10:00,34,23,37.08,Driver was polite and food was hot.
+ORD428817,Houston,2023-10-20,14:40:00,15,29,33.88,Driver was polite and food was hot.
+ORD791710,New York,2023-10-01,23:05:00,11,40,119.34,Amazing and speedy delivery!
+ORD729138,New York,2023-10-23,12:34:00,21,29,69.78,Driver was polite and food was hot.
+ORD302212,Miami,2023-10-13,01:59:00,15,28,37.71,Driver was polite and food was hot.
+,New York,2023-10-18,02:34:00,18,39,29.55,Amazing and speedy delivery!
+ORD232729,San Francisco,2023-10-05,07:09:00,28,54,83.45,Food was cold but driver was nice.
+ORD619885,Miami,2023-10-22,18:09:00,47,44,111.85,"Terrible cold food, completely unacceptable."
+ORD820431,New York,2023-10-12,21:11:00,43,56,98.28,Driver was polite and food was hot.
+ORD932673,Seattle,2023-10-28,05:48:00,10,50,60.51,Amazing and speedy delivery!
+ORD883369,Miami,2023-10-21,19:20:00,28,43,60.08,Food was cold but driver was nice.
+ORD763432,Houston,2023-10-27,07:29:00,43,29,108.39,Food was cold but driver was nice.
+ORD529715,Miami,2023-10-24,18:33:00,22,41,56.82,Driver was polite and food was hot.
+ORD438355,Boston,2023-10-06,17:14:00,57,30,52.56,"Terrible cold food, completely unacceptable."
+ORD489714,New York,2023-10-04,19:21:00,11,39,87.27,Amazing and speedy delivery!
+ORD695034,Chicago,2023-10-16,11:13:00,48,54,21.95,"Terrible cold food, completely unacceptable."
+ORD652874,Miami,2023-10-14,09:47:00,33,60,59.28,Food was cold but driver was nice.
+ORD435671,Chicago,2023-10-21,07:22:00,48,22,99.29,Very late and spilled.
+,Chicago,2023-10-24,04:40:00,28,57,49.32,Driver was polite and food was hot.
+ORD122301,New York,2023-10-18,22:11:00,37,60,97.25,Missing an item but otherwise fine.
+ORD584202,New York,2023-10-27,16:53:00,23,53,111.39,"Super fast, piping hot!"
+ORD117062,Houston,2023-10-03,06:44:00,58,25,102.13,Very late and spilled.
+ORD388016,Miami,2023-10-20,09:23:00,24,39,66.85,Amazing and speedy delivery!
+ORD830288,Houston,2023-10-03,15:25:00,42,60,116.55,Driver was polite and food was hot.
+ORD747995,Chicago,2023-10-07,00:37:00,38,25,119.32,Food was cold but driver was nice.
+ORD192292,Seattle,2023-10-21,07:53:00,36,42,100.7,"Average experience, nothing special."
+ORD821673,New York,2023-10-25,23:10:00,37,22,114.45,Food was cold but driver was nice.
+ORD821338,Boston,2023-10-04,21:58:00,21,43,43.34,Driver was polite and food was hot.
+ORD711795,Boston,2023-10-09,06:04:00,22,56,108.22,Amazing and speedy delivery!
+ORD800695,Miami,2023-10-20,07:26:00,31,52,40.25,Food was cold but driver was nice.
+ORD394169,New York,2023-10-23,06:02:00,19,35,95.45,Amazing and speedy delivery!
+ORD976129,Seattle,2023-10-05,06:27:00,51,60,92.2,Very late and spilled.
+ORD178794,Seattle,2023-10-10,20:54:00,35,32,64.16,Food was cold but driver was nice.
+ORD209612,Chicago,2023-10-19,00:36:00,29,56,94.97,Missing an item but otherwise fine.
+ORD897429,Chicago,2023-10-24,21:21:00,52,51,26.09,Restaurant ignored my instructions.
+ORD481308,Houston,2023-10-07,10:04:00,21,58,68.91,"Super fast, piping hot!"
+ORD391334,Seattle,2023-10-19,17:08:00,10,25,30.47,Driver was polite and food was hot.
+ORD352248,Houston,2023-10-06,09:04:00,40,30,43.01,Food was cold but driver was nice.
+ORD574628,San Francisco,2023-10-23,04:11:00,25,46,37.27,Food was cold but driver was nice.
+ORD632599,New York,2023-10-19,13:34:00,36,47,43.62,Missing an item but otherwise fine.
+,San Francisco,2023-10-05,22:51:00,10,31,57.28,Amazing and speedy delivery!
+ORD736955,Miami,2023-10-28,12:52:00,53,46,26.46,"Terrible cold food, completely unacceptable."
+ORD216478,Miami,2023-10-03,18:29:00,30,36,40.07,Food was cold but driver was nice.
+,Miami,2023-10-25,17:14:00,34,44,56.15,"Average experience, nothing special."
+ORD964098,Chicago,2023-10-06,02:40:00,38,32,51.5,"Average experience, nothing special."
+ORD401967,New York,2023-10-14,14:34:00,21,25,34.43,Driver was polite and food was hot.
+ORD420155,San Francisco,2023-10-29,19:32:00,43,23,32.5,"Average experience, nothing special."
+ORD248723,Seattle,2023-10-16,14:49:00,11,49,59.93,Amazing and speedy delivery!
+ORD376648,Miami,2023-10-02,10:45:00,36,41,116.8,Food was cold but driver was nice.
+,Houston,2023-10-28,00:58:00,23,26,19.74,Amazing and speedy delivery!
+ORD404777,Boston,2023-10-02,07:00:00,39,28,96.4,"Average experience, nothing special."
+ORD871947,Houston,2023-10-06,01:14:00,14,50,92.16,"Super fast, piping hot!"
+ORD610125,San Francisco,2023-10-26,08:04:00,29,40,108.59,Missing an item but otherwise fine.
+ORD383049,Miami,2023-10-28,14:43:00,46,59,17.18,Restaurant ignored my instructions.
+ORD791396,Chicago,2023-10-20,04:11:00,44,55,92.81,Food was cold but driver was nice.
+ORD880523,Chicago,2023-10-21,02:28:00,29,43,82.07,Food was cold but driver was nice.
+ORD811774,Chicago,2023-10-13,23:12:00,10,35,110.58,Driver was polite and food was hot.
+ORD510020,Houston,2023-10-17,09:02:00,20,36,47.48,Driver was polite and food was hot.
+ORD835928,Boston,2023-10-03,08:54:00,18,48,74.5,"Super fast, piping hot!"
+ORD108739,Seattle,2023-10-17,07:01:00,47,28,63.96,"Terrible cold food, completely unacceptable."
+ORD403858,Houston,2023-10-08,08:06:00,14,37,21.78,"Super fast, piping hot!"
+,Chicago,2023-10-14,21:56:00,14,37,101.67,Amazing and speedy delivery!
+,Boston,2023-10-07,02:50:00,24,19,20.24,Driver was polite and food was hot.
+ORD397025,New York,2023-10-07,18:26:00,44,36,29.98,"Average experience, nothing special."
+ORD184638,Chicago,2023-10-10,10:53:00,29,59,55.56,Missing an item but otherwise fine.
+ORD202905,San Francisco,2023-10-19,15:57:00,33,57,47.63,Missing an item but otherwise fine.
+ORD438144,San Francisco,2023-10-27,03:57:00,32,27,58.71,"Average experience, nothing special."
+ORD189755,Miami,2023-10-10,13:56:00,22,59,63.42,"Super fast, piping hot!"
+ORD974357,Seattle,2023-10-09,20:18:00,22,39,67.9,"Super fast, piping hot!"
+ORD548443,Houston,2023-10-17,18:33:00,33,45,63.43,Driver was polite and food was hot.
+,Miami,2023-10-26,22:29:00,30,38,97.6,"Average experience, nothing special."
+ORD233457,Miami,2023-10-27,21:53:00,23,55,107.17,Driver was polite and food was hot.
+ORD511733,Boston,2023-10-03,22:29:00,45,52,63.32,Driver was polite and food was hot.
+,Boston,2023-10-03,23:22:00,45,60,26.24,Missing an item but otherwise fine.
+,Boston,2023-10-28,13:11:00,25,22,27.75,Missing an item but otherwise fine.
+ORD875278,New York,2023-10-28,02:34:00,46,32,69.21,Restaurant ignored my instructions.
+ORD619364,Boston,2023-10-27,01:55:00,50,28,46.59,Restaurant ignored my instructions.
+ORD106764,Miami,2023-10-15,15:35:00,54,31,27.04,"Terrible cold food, completely unacceptable."
+ORD226913,Houston,2023-10-01,12:03:00,18,20,102.44,Amazing and speedy delivery!
+ORD227728,Houston,2023-10-21,16:46:00,28,49,118.18,Missing an item but otherwise fine.
+ORD673276,Boston,2023-10-12,04:37:00,28,58,27.94,Driver was polite and food was hot.
+ORD293785,Boston,2023-10-08,03:45:00,50,34,32.93,Very late and spilled.
+ORD603805,Houston,2023-10-26,09:08:00,24,42,85.11,Driver was polite and food was hot.
+ORD938708,Houston,2023-10-19,07:17:00,51,45,100.42,Very late and spilled.
+,Miami,2023-10-08,05:51:00,11,38,18.58,Amazing and speedy delivery!
+ORD749987,New York,2023-10-31,02:27:00,35,41,116.09,Driver was polite and food was hot.
+ORD580614,Miami,2023-10-22,19:05:00,22,51,37.13,"Super fast, piping hot!"
+ORD165814,Seattle,2023-10-25,09:31:00,71,28,51.95,Very late and spilled.
+ORD849923,Houston,2023-10-27,03:07:00,35,23,111.2,Missing an item but otherwise fine.
+ORD594668,Seattle,2023-10-30,20:40:00,23,30,75.48,Driver was polite and food was hot.
+ORD650957,Miami,2023-10-24,13:46:00,28,58,102.14,Missing an item but otherwise fine.
+,Chicago,2023-10-04,13:49:00,53,33,25.14,Restaurant ignored my instructions.
+ORD812321,Boston,2023-10-06,08:02:00,10,34,26.07,Driver was polite and food was hot.
+ORD502740,New York,2023-10-09,10:04:00,33,22,79.25,Driver was polite and food was hot.
+,Miami,2023-10-06,17:03:00,29,59,103.27,Missing an item but otherwise fine.
+ORD832667,Houston,2023-10-09,10:08:00,13,27,118.83,"Super fast, piping hot!"
+ORD305225,Chicago,2023-10-27,14:44:00,29,31,92.93,Missing an item but otherwise fine.
+ORD947954,New York,2023-10-21,06:07:00,46,56,17.55,Very late and spilled.
+ORD949355,Miami,2023-10-05,21:05:00,30,53,105.77,Driver was polite and food was hot.
+ORD865436,Chicago,2023-10-17,00:09:00,31,32,74.89,Driver was polite and food was hot.
+ORD473801,Boston,2023-10-23,01:27:00,15,23,61.08,Amazing and speedy delivery!
+ORD174310,New York,2023-10-29,23:11:00,17,27,97.15,Driver was polite and food was hot.
+,New York,2023-10-15,01:45:00,25,33,101.24,Missing an item but otherwise fine.
+ORD363592,Seattle,2023-10-14,16:39:00,30,41,22.14,Driver was polite and food was hot.
+ORD178409,Miami,2023-10-08,16:26:00,19,51,47.79,Driver was polite and food was hot.
+,Miami,2023-10-29,15:44:00,27,49,113.38,Food was cold but driver was nice.
+ORD133842,Boston,2023-10-13,11:20:00,23,22,29.63,"Super fast, piping hot!"
+ORD445620,Chicago,2023-10-26,09:34:00,39,50,22.66,Food was cold but driver was nice.
+ORD837244,New York,2023-10-27,03:53:00,43,45,77.81,Missing an item but otherwise fine.
+ORD678211,Chicago,2023-10-29,08:57:00,10,36,90.95,"Super fast, piping hot!"
+,Houston,2023-10-06,05:40:00,10,38,97.06,"Super fast, piping hot!"
+,New York,2023-10-11,20:47:00,28,31,71.09,Food was cold but driver was nice.
+ORD873768,Boston,2023-10-18,18:24:00,47,43,88.02,"Terrible cold food, completely unacceptable."
+ORD676239,New York,2023-10-21,01:23:00,31,47,27.39,"Average experience, nothing special."
+ORD485570,Chicago,2023-10-29,12:28:00,21,33,24.66,Amazing and speedy delivery!
+ORD883785,Boston,2023-10-01,22:59:00,41,19,106.69,Food was cold but driver was nice.
+ORD180333,New York,2023-10-12,20:59:00,45,39,51.72,Missing an item but otherwise fine.
+ORD406616,Miami,2023-10-31,07:40:00,35,44,65.26,"Average experience, nothing special."
+ORD180088,Seattle,2023-10-07,01:41:00,29,41,109.25,Driver was polite and food was hot.
+ORD417423,Boston,2023-10-11,12:37:00,48,54,45.73,"Terrible cold food, completely unacceptable."
+ORD380531,New York,2023-10-31,05:58:00,22,41,109.54,Amazing and speedy delivery!
+ORD182256,Chicago,2023-10-29,19:15:00,47,52,39.21,Very late and spilled.
+ORD490479,Chicago,2023-10-26,16:00:00,25,47,83.24,Food was cold but driver was nice.
+ORD122323,Boston,2023-10-22,03:38:00,10,21,43.38,"Super fast, piping hot!"
+ORD967359,Houston,2023-10-28,06:31:00,35,20,105.59,Driver was polite and food was hot.
+ORD335351,Houston,2023-10-19,00:10:00,28,30,84.29,"Average experience, nothing special."
+,New York,2023-10-25,17:38:00,23,57,94.22,"Super fast, piping hot!"
+ORD375285,Chicago,2023-10-16,19:15:00,47,20,50.8,Restaurant ignored my instructions.
+ORD548317,Boston,2023-10-29,18:53:00,37,25,73.1,Food was cold but driver was nice.
+ORD660737,Houston,2023-10-14,13:57:00,10,55,90.52,"Super fast, piping hot!"
+ORD499812,Chicago,2023-10-25,02:48:00,10,19,44.47,Amazing and speedy delivery!
+,Boston,2023-10-13,23:43:00,39,53,46.06,"Average experience, nothing special."
+ORD745448,Boston,2023-10-27,11:47:00,28,60,100.08,Missing an item but otherwise fine.
+,Miami,2023-10-29,04:06:00,41,39,102.78,Missing an item but otherwise fine.
+ORD118105,Houston,2023-10-09,15:17:00,14,59,103.65,"Super fast, piping hot!"
+ORD707723,San Francisco,2023-10-11,09:57:00,36,58,72.9,Food was cold but driver was nice.
+ORD370539,Chicago,2023-10-04,09:58:00,31,33,81.19,Driver was polite and food was hot.
+ORD787842,Chicago,2023-10-08,04:28:00,18,26,83.73,Amazing and speedy delivery!
+ORD561697,New York,2023-10-09,21:16:00,26,35,117.4,"Average experience, nothing special."
+ORD999143,Miami,2023-10-02,05:37:00,27,21,78.06,Missing an item but otherwise fine.
+,Chicago,2023-10-17,10:00:00,22,32,49.21,Amazing and speedy delivery!
+ORD814097,New York,2023-10-18,09:38:00,29,60,59.78,Driver was polite and food was hot.
+,Houston,2023-10-14,09:13:00,17,60,54.35,"Super fast, piping hot!"
+ORD268100,New York,2023-10-14,21:12:00,53,37,112.68,"Terrible cold food, completely unacceptable."
+,Seattle,2023-10-28,09:47:00,10,51,97.26,Driver was polite and food was hot.
+ORD497242,New York,2023-10-17,03:48:00,12,28,55.01,Driver was polite and food was hot.
+,Miami,2023-10-31,01:07:00,61,51,119.77,Very late and spilled.
+ORD538388,Seattle,2023-10-30,04:29:00,46,26,104.0,Restaurant ignored my instructions.
+ORD736592,San Francisco,2023-10-25,12:28:00,11,36,35.48,"Super fast, piping hot!"
+ORD355882,Chicago,2023-10-27,16:20:00,33,42,39.24,Missing an item but otherwise fine.
+ORD221023,San Francisco,2023-10-15,19:52:00,24,24,51.96,"Super fast, piping hot!"
+,Seattle,2023-10-24,12:18:00,14,49,78.55,"Super fast, piping hot!"
+ORD340924,Miami,2023-10-21,22:24:00,10,34,96.53,Amazing and speedy delivery!
+ORD798249,Miami,2023-10-20,01:14:00,18,35,98.56,Amazing and speedy delivery!
+ORD185465,Miami,2023-10-17,01:06:00,15,50,81.43,Amazing and speedy delivery!
+ORD576126,Chicago,2023-10-10,12:23:00,39,26,58.96,Food was cold but driver was nice.
+ORD592684,Boston,2023-10-26,17:45:00,29,46,17.51,Food was cold but driver was nice.
+ORD238808,Boston,2023-10-09,02:21:00,22,52,111.46,Driver was polite and food was hot.
+ORD521860,New York,2023-10-20,17:20:00,26,40,109.23,Missing an item but otherwise fine.
+ORD746582,Seattle,2023-10-16,19:43:00,19,21,22.74,Amazing and speedy delivery!
+ORD528736,San Francisco,2023-10-17,15:43:00,13,49,88.51,"Super fast, piping hot!"
+ORD718196,New York,2023-10-09,20:23:00,11,28,109.04,Driver was polite and food was hot.
+ORD806642,Chicago,2023-10-28,12:20:00,21,51,90.87,"Super fast, piping hot!"
+ORD201605,San Francisco,2023-10-14,05:05:00,18,50,50.82,Amazing and speedy delivery!
+ORD650705,San Francisco,2023-10-27,04:11:00,10,39,55.33,"Super fast, piping hot!"
+ORD143971,Seattle,2023-10-09,14:53:00,16,32,60.21,Driver was polite and food was hot.
+ORD745374,New York,2023-10-14,03:56:00,24,37,43.75,Amazing and speedy delivery!
+ORD277545,San Francisco,2023-10-21,11:25:00,42,57,94.11,Missing an item but otherwise fine.
+ORD247852,New York,2023-10-12,01:04:00,45,57,109.77,"Average experience, nothing special."
+ORD304611,Houston,2023-10-26,01:39:00,40,20,53.8,Food was cold but driver was nice.
+ORD698910,Boston,2023-10-14,07:51:00,15,48,45.97,Amazing and speedy delivery!
+ORD985778,Houston,2023-10-06,11:44:00,37,46,66.79,Food was cold but driver was nice.
+ORD391979,Boston,2023-10-05,10:53:00,29,24,93.15,Missing an item but otherwise fine.
+ORD443005,Miami,2023-10-11,14:58:00,22,40,43.99,Amazing and speedy delivery!
+ORD804728,New York,2023-10-30,04:49:00,33,46,25.55,Missing an item but otherwise fine.
+ORD982304,Seattle,2023-10-25,05:24:00,10,59,18.74,Driver was polite and food was hot.
+ORD357859,Seattle,2023-10-30,09:03:00,39,31,42.86,"Average experience, nothing special."
+ORD296193,San Francisco,2023-10-08,09:25:00,41,27,35.85,Driver was polite and food was hot.
+ORD998794,New York,2023-10-05,12:54:00,28,50,73.56,Driver was polite and food was hot.
+ORD140698,Seattle,2023-10-10,23:48:00,19,35,79.4,"Super fast, piping hot!"
+ORD768692,San Francisco,2023-10-30,05:15:00,19,33,106.88,Amazing and speedy delivery!
+ORD760631,Miami,2023-10-23,13:49:00,45,41,72.06,Driver was polite and food was hot.
+,Houston,2023-10-14,22:41:00,53,47,49.17,"Terrible cold food, completely unacceptable."
+,San Francisco,2023-10-20,20:04:00,50,26,51.5,"Terrible cold food, completely unacceptable."
+ORD911264,Miami,2023-10-19,14:50:00,51,45,87.16,"Terrible cold food, completely unacceptable."
+ORD632139,Boston,2023-10-02,19:39:00,10,45,21.38,Amazing and speedy delivery!
+ORD433046,Houston,2023-10-16,05:01:00,10,35,110.8,"Super fast, piping hot!"
+ORD329583,Seattle,2023-10-13,17:05:00,44,21,47.39,Missing an item but otherwise fine.
+ORD274624,Miami,2023-10-20,03:38:00,10,58,49.62,Amazing and speedy delivery!
+ORD857311,Boston,2023-10-29,00:47:00,24,43,24.48,Amazing and speedy delivery!
+ORD904092,Miami,2023-10-16,16:03:00,30,32,53.02,Food was cold but driver was nice.
+ORD978862,Houston,2023-10-10,12:45:00,24,33,45.47,Driver was polite and food was hot.
+ORD447605,New York,2023-10-08,20:18:00,13,21,103.78,Amazing and speedy delivery!
+,Boston,2023-10-25,11:09:00,39,50,19.44,Driver was polite and food was hot.
+ORD341177,San Francisco,2023-10-14,09:13:00,14,26,100.36,Amazing and speedy delivery!
+ORD237566,San Francisco,2023-10-18,16:44:00,13,24,23.04,Driver was polite and food was hot.
+ORD899419,New York,2023-10-24,11:04:00,29,56,98.23,"Average experience, nothing special."
+ORD427354,Houston,2023-10-10,08:13:00,26,51,93.07,Missing an item but otherwise fine.
+ORD312511,Houston,2023-10-15,06:02:00,62,43,45.58,Restaurant ignored my instructions.
+ORD526068,San Francisco,2023-10-05,17:39:00,53,49,44.86,Restaurant ignored my instructions.
+ORD500984,San Francisco,2023-10-25,18:25:00,47,53,90.03,"Terrible cold food, completely unacceptable."
+ORD126101,Boston,2023-10-22,02:00:00,31,33,61.94,Driver was polite and food was hot.
+ORD774044,New York,2023-10-23,04:48:00,26,54,32.77,Food was cold but driver was nice.
+ORD187963,Houston,2023-10-23,19:01:00,37,58,103.0,"Average experience, nothing special."
+ORD694164,San Francisco,2023-10-25,07:42:00,30,45,47.7,Driver was polite and food was hot.
+ORD138283,Seattle,2023-10-16,21:03:00,24,55,77.87,"Super fast, piping hot!"
+ORD319387,San Francisco,2023-10-01,18:06:00,30,60,39.75,Driver was polite and food was hot.
+ORD639420,Boston,2023-10-22,11:57:00,10,24,111.73,Driver was polite and food was hot.
+ORD493935,Chicago,2023-10-20,20:59:00,31,31,60.95,Food was cold but driver was nice.
+,Houston,2023-10-06,16:10:00,31,29,80.75,Driver was polite and food was hot.
+ORD885376,San Francisco,2023-10-25,09:00:00,40,26,60.73,Food was cold but driver was nice.
+ORD809553,Miami,2023-10-14,21:23:00,18,39,79.59,"Super fast, piping hot!"
+ORD274006,Boston,2023-10-18,09:56:00,41,58,114.96,"Average experience, nothing special."
+ORD363443,Houston,2023-10-18,09:31:00,44,32,113.3,Driver was polite and food was hot.
+ORD849817,Chicago,2023-10-07,15:50:00,31,28,64.4,Driver was polite and food was hot.
+ORD296790,Seattle,2023-10-01,18:08:00,28,25,71.46,"Average experience, nothing special."
+,San Francisco,2023-10-16,13:35:00,15,59,73.71,Amazing and speedy delivery!
+ORD114815,San Francisco,2023-10-11,18:54:00,15,37,101.18,Amazing and speedy delivery!
+ORD420602,Miami,2023-10-20,21:30:00,12,53,82.37,"Super fast, piping hot!"
+,New York,2023-10-10,17:17:00,48,32,44.4,Very late and spilled.
+ORD232858,San Francisco,2023-10-13,11:12:00,35,55,96.06,Driver was polite and food was hot.
+ORD946514,Boston,2023-10-28,10:49:00,10,58,85.19,Driver was polite and food was hot.
+ORD102800,Boston,2023-10-23,01:06:00,39,58,30.38,Food was cold but driver was nice.
+ORD100258,New York,2023-10-09,00:02:00,10,22,29.38,"Super fast, piping hot!"
+ORD594601,Chicago,2023-10-21,12:16:00,21,54,56.29,Amazing and speedy delivery!
+ORD472235,Boston,2023-10-19,01:07:00,45,52,48.28,Missing an item but otherwise fine.
+ORD983101,Seattle,2023-10-05,01:25:00,32,28,103.19,Missing an item but otherwise fine.
+ORD828864,Seattle,2023-10-27,00:13:00,38,26,73.58,Missing an item but otherwise fine.
+ORD286659,Boston,2023-10-21,07:36:00,44,41,91.49,Driver was polite and food was hot.
+ORD300261,San Francisco,2023-10-11,05:31:00,32,30,112.99,Driver was polite and food was hot.
+ORD478526,San Francisco,2023-10-01,23:40:00,28,25,110.66,Missing an item but otherwise fine.
+ORD113625,New York,2023-10-13,01:11:00,29,60,43.87,Missing an item but otherwise fine.
+ORD829283,Miami,2023-10-23,06:55:00,26,20,105.63,Food was cold but driver was nice.
+ORD762951,Houston,2023-10-22,22:15:00,18,30,64.71,"Super fast, piping hot!"
+ORD946652,Seattle,2023-10-30,23:18:00,41,30,106.45,"Average experience, nothing special."
+,New York,2023-10-07,11:48:00,38,47,81.94,Food was cold but driver was nice.
+ORD999563,Seattle,2023-10-04,08:05:00,10,58,92.43,Amazing and speedy delivery!
+ORD989433,Seattle,2023-10-16,15:22:00,18,29,110.1,"Super fast, piping hot!"
+ORD484047,Houston,2023-10-28,05:00:00,10,22,21.82,"Super fast, piping hot!"
+,New York,2023-10-24,07:48:00,26,30,61.56,Missing an item but otherwise fine.
+ORD822171,Boston,2023-10-14,00:57:00,20,19,47.67,Driver was polite and food was hot.
+ORD458038,Miami,2023-10-27,00:17:00,29,24,74.45,Driver was polite and food was hot.
+,Chicago,2023-10-22,13:44:00,38,39,77.07,Food was cold but driver was nice.
+ORD927050,Chicago,2023-10-02,09:58:00,25,59,54.33,Food was cold but driver was nice.
+ORD358717,Seattle,2023-10-05,04:47:00,21,27,47.6,Amazing and speedy delivery!
+ORD286650,Chicago,2023-10-18,18:19:00,51,55,48.13,"Terrible cold food, completely unacceptable."
+ORD386050,San Francisco,2023-10-11,18:49:00,36,47,42.78,Missing an item but otherwise fine.
+ORD481276,Boston,2023-10-23,19:06:00,23,60,69.92,"Super fast, piping hot!"
+ORD278755,Chicago,2023-10-30,05:15:00,57,53,74.71,"Terrible cold food, completely unacceptable."
+ORD950299,Chicago,2023-10-21,05:54:00,36,40,88.46,Missing an item but otherwise fine.
+ORD879230,San Francisco,2023-10-24,10:15:00,31,32,64.11,"Average experience, nothing special."
+ORD642145,Seattle,2023-10-02,22:21:00,23,30,64.9,Driver was polite and food was hot.
+ORD490366,San Francisco,2023-10-22,18:22:00,10,25,81.09,Amazing and speedy delivery!
+ORD598593,San Francisco,2023-10-01,20:38:00,21,60,109.81,"Super fast, piping hot!"
+ORD421153,Houston,2023-10-10,00:23:00,39,58,62.93,Food was cold but driver was nice.
+ORD866461,Houston,2023-10-27,17:07:00,46,34,41.52,"Terrible cold food, completely unacceptable."
+ORD605998,Boston,2023-10-18,11:40:00,24,51,26.32,Amazing and speedy delivery!
+ORD705540,Miami,2023-10-20,21:12:00,18,20,32.22,"Super fast, piping hot!"
+ORD725843,Miami,2023-10-09,01:45:00,65,27,28.64,Very late and spilled.
+ORD156413,San Francisco,2023-10-16,15:54:00,22,28,99.16,Amazing and speedy delivery!
+ORD582961,San Francisco,2023-10-22,09:03:00,38,38,23.44,"Average experience, nothing special."
+ORD557754,Seattle,2023-10-12,05:59:00,30,34,31.18,Food was cold but driver was nice.
+ORD492437,Houston,2023-10-26,18:36:00,38,54,87.11,Food was cold but driver was nice.
+ORD800906,Boston,2023-10-11,04:06:00,30,48,89.15,Driver was polite and food was hot.
+ORD433821,San Francisco,2023-10-05,20:40:00,30,46,77.68,Missing an item but otherwise fine.
+,Seattle,2023-10-25,19:24:00,21,56,17.82,"Super fast, piping hot!"
+ORD346580,Miami,2023-10-29,04:41:00,20,57,93.93,Amazing and speedy delivery!
+ORD244787,Chicago,2023-10-05,00:24:00,40,21,37.18,Driver was polite and food was hot.
+,San Francisco,2023-10-21,07:35:00,22,38,55.62,Amazing and speedy delivery!
+,Chicago,2023-10-23,09:01:00,36,29,56.81,Driver was polite and food was hot.
+ORD587506,Seattle,2023-10-25,01:05:00,34,44,99.37,Food was cold but driver was nice.
+ORD234993,Miami,2023-10-02,01:22:00,17,43,87.06,Driver was polite and food was hot.
+ORD802750,Houston,2023-10-02,00:40:00,10,35,92.92,"Super fast, piping hot!"
+ORD941396,Miami,2023-10-06,18:40:00,44,42,97.01,Driver was polite and food was hot.
+ORD482585,Miami,2023-10-16,17:59:00,37,43,106.38,Driver was polite and food was hot.
+ORD453491,Chicago,2023-10-05,03:24:00,36,51,100.35,Missing an item but otherwise fine.
+ORD587339,Houston,2023-10-22,04:59:00,28,42,20.26,Driver was polite and food was hot.
+ORD364583,San Francisco,2023-10-28,18:38:00,37,37,95.52,Driver was polite and food was hot.
+ORD287410,San Francisco,2023-10-02,13:43:00,25,38,81.78,Driver was polite and food was hot.
+,Miami,2023-10-28,14:45:00,45,44,41.11,Food was cold but driver was nice.
+ORD232177,San Francisco,2023-10-05,07:49:00,26,41,117.04,Driver was polite and food was hot.
+ORD965674,Boston,2023-10-29,14:12:00,10,52,74.75,Driver was polite and food was hot.
+,Seattle,2023-10-03,08:24:00,24,25,55.1,Driver was polite and food was hot.
+ORD767671,Houston,2023-10-05,02:02:00,36,44,17.35,Missing an item but otherwise fine.
+ORD878761,New York,2023-10-13,04:34:00,51,31,74.94,"Terrible cold food, completely unacceptable."
+ORD665347,Seattle,2023-10-15,07:11:00,10,22,54.29,Amazing and speedy delivery!
+ORD558170,San Francisco,2023-10-23,00:34:00,26,51,85.5,"Average experience, nothing special."
+ORD290065,San Francisco,2023-10-29,00:25:00,52,36,15.53,Restaurant ignored my instructions.
+,Houston,2023-10-10,22:15:00,23,57,97.98,"Super fast, piping hot!"
+ORD332074,New York,2023-10-30,09:26:00,34,39,38.21,"Average experience, nothing special."
+ORD846621,Seattle,2023-10-29,07:48:00,17,57,49.52,"Super fast, piping hot!"
+ORD684745,San Francisco,2023-10-19,04:57:00,19,40,48.56,Amazing and speedy delivery!
+ORD995857,Seattle,2023-10-21,17:24:00,29,43,41.85,"Average experience, nothing special."
+ORD699065,Seattle,2023-10-02,23:15:00,19,50,73.94,Amazing and speedy delivery!
+,San Francisco,2023-10-17,05:10:00,29,39,62.41,Missing an item but otherwise fine.
+,Miami,2023-10-22,18:31:00,11,29,80.55,Driver was polite and food was hot.
+ORD902097,Seattle,2023-10-27,05:01:00,69,50,118.92,Restaurant ignored my instructions.
+ORD238094,Miami,2023-10-18,13:55:00,35,26,25.18,Driver was polite and food was hot.
+ORD216006,Boston,2023-10-11,10:27:00,21,44,72.76,Amazing and speedy delivery!
+ORD538493,San Francisco,2023-10-17,12:31:00,25,42,81.18,Missing an item but otherwise fine.
+ORD433211,Boston,2023-10-30,07:33:00,11,44,66.96,Amazing and speedy delivery!
+ORD571288,Boston,2023-10-22,14:44:00,29,30,57.01,"Average experience, nothing special."
+ORD450281,Houston,2023-10-01,15:39:00,31,56,83.58,Food was cold but driver was nice.
+ORD767331,Miami,2023-10-20,12:52:00,10,33,29.55,Amazing and speedy delivery!
+ORD184416,San Francisco,2023-10-29,17:08:00,10,58,41.24,Amazing and speedy delivery!
+ORD817606,San Francisco,2023-10-27,09:51:00,15,20,93.01,Amazing and speedy delivery!
+ORD636174,Houston,2023-10-31,06:29:00,49,42,90.92,Very late and spilled.
+ORD847417,San Francisco,2023-10-12,09:24:00,10,27,45.76,Amazing and speedy delivery!
+ORD583581,Chicago,2023-10-02,21:45:00,10,30,117.14,"Super fast, piping hot!"
+ORD942726,Boston,2023-10-24,06:23:00,35,29,40.71,Missing an item but otherwise fine.
+,Houston,2023-10-04,16:18:00,52,43,22.39,Restaurant ignored my instructions.
+ORD850755,Seattle,2023-10-20,11:35:00,34,57,82.94,Food was cold but driver was nice.
+ORD559822,Boston,2023-10-25,19:28:00,10,44,101.97,"Super fast, piping hot!"
+ORD851435,Houston,2023-10-03,07:36:00,32,26,25.88,Driver was polite and food was hot.
+ORD707976,San Francisco,2023-10-13,10:44:00,30,45,83.94,"Average experience, nothing special."
+ORD934197,Chicago,2023-10-07,23:03:00,22,35,25.2,"Super fast, piping hot!"
+ORD580501,Boston,2023-10-30,17:17:00,44,35,50.96,"Average experience, nothing special."
+ORD572253,San Francisco,2023-10-21,17:43:00,19,55,43.91,Driver was polite and food was hot.
+ORD255214,Miami,2023-10-03,03:03:00,26,42,89.95,Missing an item but otherwise fine.
+ORD265992,Houston,2023-10-15,10:58:00,29,47,85.69,Missing an item but otherwise fine.
+ORD828846,San Francisco,2023-10-08,12:42:00,44,59,38.93,Driver was polite and food was hot.
+ORD255570,San Francisco,2023-10-11,03:12:00,44,42,90.72,Food was cold but driver was nice.
+ORD748502,Chicago,2023-10-25,00:31:00,62,56,104.52,Restaurant ignored my instructions.
+ORD496339,Seattle,2023-10-15,19:18:00,10,29,106.43,"Super fast, piping hot!"
+ORD498325,Chicago,2023-10-23,10:32:00,66,38,36.68,"Terrible cold food, completely unacceptable."
+ORD915807,Seattle,2023-10-08,07:57:00,33,31,52.43,Food was cold but driver was nice.
+ORD769658,Chicago,2023-10-22,09:43:00,53,31,53.17,Restaurant ignored my instructions.
+ORD203641,Miami,2023-10-02,23:53:00,14,23,43.5,"Super fast, piping hot!"
+ORD663849,Houston,2023-10-25,20:06:00,57,55,69.91,Very late and spilled.
+ORD875354,Seattle,2023-10-12,15:17:00,10,60,105.04,Amazing and speedy delivery!
+ORD578219,Miami,2023-10-11,21:25:00,48,36,24.59,"Terrible cold food, completely unacceptable."
+ORD166761,Miami,2023-10-10,03:33:00,67,38,21.39,Very late and spilled.
+ORD898679,Boston,2023-10-11,20:36:00,15,22,48.48,Driver was polite and food was hot.
+,New York,2023-10-30,08:24:00,21,47,23.76,"Super fast, piping hot!"
+,Miami,2023-10-10,11:37:00,12,19,76.08,"Super fast, piping hot!"
+ORD564143,Chicago,2023-10-06,13:49:00,19,56,99.61,Driver was polite and food was hot.
+ORD100519,Houston,2023-10-29,11:07:00,29,59,33.54,Missing an item but otherwise fine.
+ORD397539,San Francisco,2023-10-24,14:06:00,45,53,41.15,Missing an item but otherwise fine.
+ORD627499,Houston,2023-10-14,00:42:00,24,19,48.52,Amazing and speedy delivery!
+ORD271055,New York,2023-10-24,16:34:00,45,46,85.66,"Average experience, nothing special."
+ORD564727,Chicago,2023-10-05,19:18:00,17,25,95.1,Amazing and speedy delivery!
+ORD420218,Boston,2023-10-11,04:54:00,49,52,64.55,"Terrible cold food, completely unacceptable."
+ORD320507,Chicago,2023-10-15,03:45:00,22,44,97.51,Amazing and speedy delivery!
+ORD264765,Miami,2023-10-08,16:31:00,26,49,83.62,Missing an item but otherwise fine.
+ORD382468,San Francisco,2023-10-20,11:23:00,31,28,47.15,Missing an item but otherwise fine.
+ORD430664,San Francisco,2023-10-17,14:36:00,41,46,74.15,Driver was polite and food was hot.
+,San Francisco,2023-10-20,11:37:00,34,60,99.56,Driver was polite and food was hot.
+ORD120425,Chicago,2023-10-22,07:03:00,28,35,45.95,"Average experience, nothing special."
+,Miami,2023-10-18,11:57:00,16,31,98.73,Driver was polite and food was hot.
+ORD998004,New York,2023-10-29,14:33:00,36,23,40.53,Missing an item but otherwise fine.
+ORD856300,Boston,2023-10-16,07:31:00,10,43,87.22,Amazing and speedy delivery!
+ORD736176,Houston,2023-10-23,15:59:00,10,22,25.65,Driver was polite and food was hot.
+ORD664024,Houston,2023-10-30,14:39:00,10,27,107.49,Amazing and speedy delivery!
+ORD912901,Houston,2023-10-04,20:49:00,54,28,106.76,Restaurant ignored my instructions.
+ORD309709,Miami,2023-10-28,08:14:00,15,53,95.09,"Super fast, piping hot!"
+ORD957011,Seattle,2023-10-13,08:47:00,23,20,29.75,"Super fast, piping hot!"
+ORD833218,Boston,2023-10-04,14:17:00,26,47,93.46,Missing an item but otherwise fine.
+ORD591075,Houston,2023-10-11,06:38:00,17,42,49.97,Amazing and speedy delivery!
+ORD883968,Houston,2023-10-13,06:56:00,37,44,99.64,Driver was polite and food was hot.
+ORD163214,New York,2023-10-03,16:28:00,26,55,60.91,Missing an item but otherwise fine.
+ORD937055,Miami,2023-10-02,23:03:00,21,40,81.61,"Super fast, piping hot!"
+ORD685410,Miami,2023-10-04,22:32:00,46,29,98.85,Very late and spilled.
+ORD591202,Boston,2023-10-05,11:50:00,10,46,100.86,Amazing and speedy delivery!
+ORD874831,Seattle,2023-10-22,16:42:00,10,40,22.67,Amazing and speedy delivery!
+ORD576102,New York,2023-10-30,23:37:00,10,44,75.35,"Super fast, piping hot!"
+ORD508889,New York,2023-10-01,18:57:00,26,33,48.85,Food was cold but driver was nice.
+ORD333717,Houston,2023-10-08,08:23:00,10,60,84.87,Driver was polite and food was hot.
+ORD849631,Chicago,2023-10-27,15:27:00,17,31,96.16,Driver was polite and food was hot.
+ORD205797,Boston,2023-10-10,21:10:00,50,27,71.71,Very late and spilled.
+ORD430654,Seattle,2023-10-04,15:40:00,33,32,36.18,"Average experience, nothing special."
+ORD384245,New York,2023-10-08,22:22:00,33,27,107.15,Missing an item but otherwise fine.
+,New York,2023-10-21,12:13:00,63,47,106.09,"Terrible cold food, completely unacceptable."
+ORD568516,Miami,2023-10-10,23:50:00,20,26,24.75,"Super fast, piping hot!"
+ORD706395,Chicago,2023-10-09,11:16:00,33,32,27.64,Food was cold but driver was nice.
+ORD475799,Chicago,2023-10-23,18:15:00,29,24,98.98,"Average experience, nothing special."
+ORD633447,Houston,2023-10-17,21:04:00,16,20,15.76,Amazing and speedy delivery!
+ORD999146,Boston,2023-10-20,14:47:00,41,23,60.59,Missing an item but otherwise fine.
+ORD835276,Seattle,2023-10-31,04:10:00,38,60,100.07,Food was cold but driver was nice.
+,New York,2023-10-22,22:52:00,53,28,103.98,"Terrible cold food, completely unacceptable."
+ORD234163,Chicago,2023-10-09,13:44:00,24,27,87.98,Driver was polite and food was hot.
+,San Francisco,2023-10-03,06:36:00,39,58,58.56,Missing an item but otherwise fine.
+ORD283120,Chicago,2023-10-08,16:01:00,10,30,53.33,Driver was polite and food was hot.
+ORD131436,San Francisco,2023-10-06,11:30:00,17,35,80.3,Driver was polite and food was hot.
+ORD447688,Houston,2023-10-02,19:07:00,30,21,92.17,Food was cold but driver was nice.
+ORD148758,Miami,2023-10-08,01:40:00,10,29,31.61,Driver was polite and food was hot.
+ORD333517,Houston,2023-10-02,04:20:00,23,23,26.8,Amazing and speedy delivery!
+ORD535239,Boston,2023-10-23,03:35:00,41,57,99.99,"Average experience, nothing special."
+ORD592292,Chicago,2023-10-01,12:48:00,15,39,83.92,"Super fast, piping hot!"
+ORD800901,Chicago,2023-10-18,03:19:00,26,33,69.05,"Average experience, nothing special."
+ORD186181,New York,2023-10-07,23:46:00,13,44,44.64,Driver was polite and food was hot.
+,San Francisco,2023-10-29,11:46:00,31,48,85.18,Missing an item but otherwise fine.
+ORD379682,San Francisco,2023-10-25,03:54:00,39,46,54.35,"Average experience, nothing special."
+ORD992074,Seattle,2023-10-08,02:38:00,61,22,98.39,"Terrible cold food, completely unacceptable."
+,Boston,2023-10-09,18:59:00,36,34,32.0,Food was cold but driver was nice.
+,Seattle,2023-10-16,04:18:00,10,55,57.59,Amazing and speedy delivery!
+ORD375570,New York,2023-10-11,06:40:00,33,36,83.82,Driver was polite and food was hot.
+ORD453637,Boston,2023-10-24,21:58:00,39,50,96.06,Missing an item but otherwise fine.
+ORD800462,Boston,2023-10-22,06:26:00,29,52,42.6,Missing an item but otherwise fine.
+ORD126648,Houston,2023-10-18,03:09:00,37,26,27.63,"Average experience, nothing special."
+,San Francisco,2023-10-14,23:00:00,28,47,60.8,Missing an item but otherwise fine.
+ORD629241,Chicago,2023-10-05,06:38:00,41,33,96.47,"Average experience, nothing special."
+ORD471129,Miami,2023-10-10,13:01:00,55,28,74.1,Restaurant ignored my instructions.
+ORD939133,Miami,2023-10-25,15:31:00,11,29,54.32,Driver was polite and food was hot.
+ORD765748,Boston,2023-10-06,01:23:00,26,28,71.79,"Average experience, nothing special."
+ORD312018,San Francisco,2023-10-29,05:56:00,23,43,109.6,"Super fast, piping hot!"
+ORD590737,Chicago,2023-10-20,16:08:00,67,38,15.04,"Terrible cold food, completely unacceptable."
+ORD800574,Miami,2023-10-12,22:32:00,17,23,21.22,Driver was polite and food was hot.
+,Boston,2023-10-20,04:15:00,61,29,95.28,"Terrible cold food, completely unacceptable."
+ORD267188,Chicago,2023-10-12,12:51:00,20,41,22.41,Amazing and speedy delivery!
+,New York,2023-10-14,01:43:00,18,56,114.16,"Super fast, piping hot!"
+ORD249326,Seattle,2023-10-08,09:52:00,18,26,69.67,Amazing and speedy delivery!
+,Miami,2023-10-25,08:37:00,10,49,39.38,Driver was polite and food was hot.
+ORD230929,New York,2023-10-21,10:43:00,10,40,106.9,Amazing and speedy delivery!
+ORD367861,Seattle,2023-10-03,08:46:00,24,48,59.72,Amazing and speedy delivery!
+ORD825024,Chicago,2023-10-09,04:00:00,41,52,25.82,Missing an item but otherwise fine.
+ORD480160,Boston,2023-10-28,22:59:00,17,50,102.85,Amazing and speedy delivery!
+ORD769054,Seattle,2023-10-21,04:23:00,50,36,110.0,Restaurant ignored my instructions.
+ORD540030,San Francisco,2023-10-30,15:21:00,45,24,16.36,Missing an item but otherwise fine.
+ORD619020,New York,2023-10-23,14:21:00,32,50,73.87,Missing an item but otherwise fine.
+ORD644176,New York,2023-10-27,05:49:00,45,57,26.32,Driver was polite and food was hot.
+ORD703587,San Francisco,2023-10-30,17:59:00,62,56,85.62,Very late and spilled.
+ORD512871,Seattle,2023-10-28,23:32:00,51,21,51.47,Restaurant ignored my instructions.
+ORD701195,Boston,2023-10-21,12:52:00,32,59,93.16,Driver was polite and food was hot.
+ORD126886,Miami,2023-10-21,03:39:00,26,30,17.54,"Average experience, nothing special."
+,Houston,2023-10-16,11:19:00,53,35,52.65,Restaurant ignored my instructions.
+ORD360781,Houston,2023-10-17,03:48:00,17,22,49.07,"Super fast, piping hot!"
+ORD932192,Seattle,2023-10-30,09:23:00,40,44,94.1,Missing an item but otherwise fine.
+ORD998258,San Francisco,2023-10-09,07:56:00,46,41,79.72,Very late and spilled.
+ORD420691,Houston,2023-10-11,20:35:00,49,39,80.29,Restaurant ignored my instructions.
+ORD501286,San Francisco,2023-10-30,14:29:00,44,50,51.81,"Average experience, nothing special."
+ORD891434,New York,2023-10-21,10:10:00,34,31,76.09,Food was cold but driver was nice.
+ORD687711,Boston,2023-10-24,12:50:00,37,54,71.52,Missing an item but otherwise fine.
+ORD179623,Boston,2023-10-19,14:42:00,32,35,30.31,Driver was polite and food was hot.
+ORD516029,Houston,2023-10-16,23:33:00,36,25,103.73,"Average experience, nothing special."
+ORD186205,Chicago,2023-10-14,21:02:00,25,54,31.28,Food was cold but driver was nice.
+,Boston,2023-10-13,23:03:00,39,33,40.76,"Average experience, nothing special."
+ORD950945,New York,2023-10-11,18:41:00,30,58,65.74,"Average experience, nothing special."
+ORD678002,Houston,2023-10-21,11:28:00,32,30,104.03,"Average experience, nothing special."
+ORD703410,San Francisco,2023-10-27,22:30:00,61,42,99.36,Restaurant ignored my instructions.
+ORD482221,San Francisco,2023-10-13,11:53:00,10,53,52.49,Amazing and speedy delivery!
+ORD967641,New York,2023-10-07,14:55:00,41,51,89.38,"Average experience, nothing special."
+ORD946466,Seattle,2023-10-25,20:46:00,29,41,90.34,"Average experience, nothing special."
+ORD960962,Boston,2023-10-30,20:29:00,46,22,63.33,Restaurant ignored my instructions.
+ORD557372,Chicago,2023-10-21,10:17:00,28,20,73.8,Food was cold but driver was nice.
+ORD464488,Seattle,2023-10-26,22:35:00,10,41,21.87,Amazing and speedy delivery!
+ORD863112,Seattle,2023-10-14,01:34:00,33,57,66.54,Food was cold but driver was nice.
+ORD325657,Seattle,2023-10-07,13:40:00,23,38,49.71,Driver was polite and food was hot.
+ORD632629,Chicago,2023-10-27,10:27:00,19,53,117.92,"Super fast, piping hot!"
+ORD107104,Miami,2023-10-28,05:02:00,34,26,96.34,Missing an item but otherwise fine.
+ORD655506,Seattle,2023-10-04,17:34:00,29,29,91.92,Driver was polite and food was hot.
+ORD911319,New York,2023-10-12,19:46:00,30,60,112.53,"Average experience, nothing special."
+ORD198735,Miami,2023-10-06,22:32:00,20,43,99.52,"Super fast, piping hot!"
+ORD245237,San Francisco,2023-10-18,20:29:00,35,30,89.26,Missing an item but otherwise fine.
+ORD293531,Houston,2023-10-12,23:16:00,22,31,38.8,"Super fast, piping hot!"
+ORD456222,New York,2023-10-30,22:57:00,23,57,21.39,"Super fast, piping hot!"
+,New York,2023-10-26,20:32:00,31,29,15.18,Missing an item but otherwise fine.
+,Miami,2023-10-25,13:57:00,24,42,105.23,Driver was polite and food was hot.
+ORD751031,Chicago,2023-10-09,08:18:00,41,53,37.93,Driver was polite and food was hot.
+,Miami,2023-10-17,05:07:00,26,30,108.6,Missing an item but otherwise fine.
+ORD953919,New York,2023-10-09,13:53:00,22,58,19.07,"Super fast, piping hot!"
+ORD932199,San Francisco,2023-10-25,23:12:00,55,25,51.65,"Terrible cold food, completely unacceptable."
+ORD275516,Houston,2023-10-09,17:04:00,20,31,78.37,Amazing and speedy delivery!
+ORD576752,Boston,2023-10-29,09:47:00,47,47,114.12,"Terrible cold food, completely unacceptable."
+,San Francisco,2023-10-26,17:38:00,21,28,40.14,Amazing and speedy delivery!
+ORD523923,Boston,2023-10-23,20:03:00,35,56,25.37,Driver was polite and food was hot.
+,Miami,2023-10-25,03:49:00,31,55,75.38,Missing an item but otherwise fine.
+ORD893691,Chicago,2023-10-25,17:01:00,20,47,95.17,"Super fast, piping hot!"
+ORD547028,Houston,2023-10-14,20:00:00,27,43,23.65,Driver was polite and food was hot.
+ORD437132,Houston,2023-10-02,14:02:00,10,37,95.94,"Super fast, piping hot!"
+ORD143654,New York,2023-10-04,00:13:00,22,38,108.67,Amazing and speedy delivery!
+ORD772066,New York,2023-10-27,12:00:00,28,38,55.41,Food was cold but driver was nice.
+ORD154982,Seattle,2023-10-17,12:14:00,34,51,70.02,Driver was polite and food was hot.
+ORD814220,Houston,2023-10-09,14:45:00,19,30,108.7,Amazing and speedy delivery!
+,Houston,2023-10-16,01:52:00,10,32,74.97,Amazing and speedy delivery!
+,San Francisco,2023-10-29,09:35:00,38,19,109.96,Food was cold but driver was nice.
+ORD508856,San Francisco,2023-10-16,13:17:00,25,44,19.7,"Average experience, nothing special."
+ORD751966,Seattle,2023-10-07,22:45:00,14,55,89.57,"Super fast, piping hot!"
+ORD785072,San Francisco,2023-10-29,23:59:00,10,45,87.48,Driver was polite and food was hot.
+ORD495451,San Francisco,2023-10-20,10:16:00,24,57,16.1,"Super fast, piping hot!"
+,Chicago,2023-10-19,11:58:00,61,33,22.41,"Terrible cold food, completely unacceptable."
+,Miami,2023-10-06,16:57:00,44,39,32.57,"Average experience, nothing special."
+ORD849756,Houston,2023-10-13,04:10:00,19,37,71.31,Driver was polite and food was hot.
+ORD374201,New York,2023-10-14,10:59:00,35,54,103.88,"Average experience, nothing special."
+,Houston,2023-10-10,15:19:00,34,49,26.48,Food was cold but driver was nice.
+,Chicago,2023-10-11,21:45:00,25,46,79.61,Food was cold but driver was nice.
+ORD563495,Seattle,2023-10-21,10:32:00,34,51,95.51,Food was cold but driver was nice.
+ORD860123,San Francisco,2023-10-10,02:25:00,21,35,111.79,Amazing and speedy delivery!
+ORD775424,Houston,2023-10-17,10:26:00,47,43,31.08,Very late and spilled.
+ORD336176,New York,2023-10-14,18:44:00,33,47,22.29,Driver was polite and food was hot.
+ORD401787,Chicago,2023-10-12,16:28:00,39,54,116.24,"Average experience, nothing special."
+,Miami,2023-10-04,01:57:00,46,29,91.03,Very late and spilled.
+ORD250456,Seattle,2023-10-16,03:21:00,37,33,15.62,Food was cold but driver was nice.
+ORD953232,Boston,2023-10-01,15:45:00,15,59,18.7,Amazing and speedy delivery!
+,Miami,2023-10-26,07:56:00,42,60,55.54,Driver was polite and food was hot.
+ORD884407,San Francisco,2023-10-29,12:54:00,31,59,62.77,Missing an item but otherwise fine.
+ORD477629,Chicago,2023-10-08,11:17:00,47,37,81.89,Very late and spilled.
+ORD507321,Seattle,2023-10-09,10:27:00,61,20,60.33,"Terrible cold food, completely unacceptable."
+,Houston,2023-10-15,03:32:00,29,53,104.43,Driver was polite and food was hot.
+,Houston,2023-10-19,19:21:00,22,45,63.36,"Super fast, piping hot!"
+ORD507311,San Francisco,2023-10-22,02:03:00,22,40,49.23,"Super fast, piping hot!"
+,Chicago,2023-10-19,15:42:00,18,55,35.43,Driver was polite and food was hot.
+ORD585884,San Francisco,2023-10-29,15:59:00,27,60,47.22,Driver was polite and food was hot.
+,Boston,2023-10-19,09:05:00,46,58,58.27,"Terrible cold food, completely unacceptable."
+ORD678492,Seattle,2023-10-10,13:49:00,43,43,113.4,"Average experience, nothing special."
+ORD564498,San Francisco,2023-10-21,03:38:00,40,55,95.77,"Average experience, nothing special."
+ORD919838,Chicago,2023-10-30,16:25:00,31,45,48.23,"Average experience, nothing special."
+ORD236896,Seattle,2023-10-12,16:23:00,31,25,97.63,Food was cold but driver was nice.
+,San Francisco,2023-10-05,09:40:00,12,24,47.9,Amazing and speedy delivery!
+ORD257918,San Francisco,2023-10-17,17:37:00,42,58,110.47,Food was cold but driver was nice.
+ORD568311,San Francisco,2023-10-28,01:17:00,26,30,45.42,Driver was polite and food was hot.
+ORD267575,New York,2023-10-06,02:52:00,36,53,110.57,Driver was polite and food was hot.
+ORD679150,Houston,2023-10-20,03:29:00,24,36,87.45,Driver was polite and food was hot.
+ORD796117,Boston,2023-10-12,20:25:00,60,21,29.24,Very late and spilled.
+ORD600044,Boston,2023-10-18,20:06:00,18,20,76.55,Amazing and speedy delivery!
+ORD713302,Houston,2023-10-17,23:50:00,15,55,51.1,Amazing and speedy delivery!
+ORD487939,Chicago,2023-10-16,23:08:00,22,27,80.52,Amazing and speedy delivery!
+ORD216362,Chicago,2023-10-19,09:57:00,56,59,48.67,Restaurant ignored my instructions.
+ORD938145,New York,2023-10-05,06:45:00,28,58,108.56,Driver was polite and food was hot.
+ORD482956,Miami,2023-10-20,12:17:00,35,20,66.41,Missing an item but otherwise fine.
+,Seattle,2023-10-09,02:17:00,22,38,42.63,Amazing and speedy delivery!
+ORD386089,Seattle,2023-10-21,04:54:00,29,24,49.96,Driver was polite and food was hot.
+,New York,2023-10-02,22:17:00,10,55,17.02,Driver was polite and food was hot.
+ORD592957,Seattle,2023-10-18,19:48:00,27,43,50.24,Missing an item but otherwise fine.
+ORD922209,Houston,2023-10-24,19:53:00,32,40,28.9,Driver was polite and food was hot.
+ORD679215,Houston,2023-10-17,06:12:00,34,24,99.57,Food was cold but driver was nice.
+ORD219039,Boston,2023-10-16,00:01:00,41,27,99.65,Food was cold but driver was nice.
+ORD285710,Boston,2023-10-06,08:56:00,23,24,105.69,Amazing and speedy delivery!
+ORD872279,Boston,2023-10-01,22:33:00,36,58,22.39,Missing an item but otherwise fine.
+ORD583145,New York,2023-10-28,00:32:00,20,58,27.81,Driver was polite and food was hot.
+ORD882304,Chicago,2023-10-07,19:31:00,20,24,90.42,Amazing and speedy delivery!
+,Seattle,2023-10-05,16:03:00,32,24,55.62,Food was cold but driver was nice.
+ORD599168,Seattle,2023-10-29,23:10:00,19,50,78.57,Amazing and speedy delivery!
+ORD867101,Houston,2023-10-09,23:14:00,16,30,68.3,Amazing and speedy delivery!
+ORD307324,Chicago,2023-10-05,02:54:00,10,53,75.42,"Super fast, piping hot!"
+ORD837010,Boston,2023-10-10,02:49:00,30,33,32.05,Missing an item but otherwise fine.
+ORD411132,Houston,2023-10-30,09:55:00,20,51,82.26,Driver was polite and food was hot.
+ORD964517,Seattle,2023-10-11,10:24:00,23,35,44.55,Amazing and speedy delivery!
+,Houston,2023-10-08,20:09:00,39,41,109.78,Food was cold but driver was nice.
+ORD957424,Houston,2023-10-04,05:59:00,10,19,117.6,Driver was polite and food was hot.
+ORD908856,Seattle,2023-10-05,12:23:00,39,57,86.21,Missing an item but otherwise fine.
+ORD862470,San Francisco,2023-10-04,11:58:00,38,50,46.53,Driver was polite and food was hot.
+ORD881156,Chicago,2023-10-23,18:13:00,16,56,32.91,Amazing and speedy delivery!
+ORD584064,Houston,2023-10-17,13:28:00,17,48,62.48,"Super fast, piping hot!"
+ORD504293,New York,2023-10-07,23:12:00,53,27,97.77,"Terrible cold food, completely unacceptable."
+ORD762902,Boston,2023-10-18,20:40:00,38,30,30.86,Driver was polite and food was hot.
+ORD117185,Houston,2023-10-09,20:53:00,41,28,43.44,Driver was polite and food was hot.
+,San Francisco,2023-10-10,12:01:00,20,33,34.94,Driver was polite and food was hot.
+ORD553882,Boston,2023-10-29,02:49:00,37,29,66.17,Driver was polite and food was hot.
+ORD211161,Miami,2023-10-04,05:17:00,42,37,29.86,Driver was polite and food was hot.
+ORD942658,Houston,2023-10-25,02:38:00,35,50,16.36,"Average experience, nothing special."
+ORD455027,Miami,2023-10-15,12:26:00,14,26,77.91,"Super fast, piping hot!"
+ORD859962,Boston,2023-10-25,14:31:00,13,27,53.8,"Super fast, piping hot!"
